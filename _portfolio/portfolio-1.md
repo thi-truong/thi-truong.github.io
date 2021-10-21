@@ -1,6 +1,6 @@
 ---
-title: "Portfolio item number 1"
-excerpt: "Short description of portfolio item number 1<br/><img src='/images/500x300.png'>"
+title: "Minerals Outreach Exercise"
+excerpt: "Birthstone/Gemstone based educational exercise for Louis Stokes Alliance for Minority Participation at OSU <br/><img src='/images/lsamp.jpg' alt='various types of minerals arranged in white boxes on wooden tray>"
 collection: portfolio
 ---
 
