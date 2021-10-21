@@ -9,6 +9,8 @@ redirect_from:
 
 {% include base_path %}
 
+Add link to CV in PDF form
+
 Education
 ======
 * Ph.D in Geology, Oregon State University, 2017--present
@@ -33,10 +35,8 @@ Skills
 * Mass spectrometry
 * Software
 *   LaTeX, ImageJ, Blob3D, ioGAS, IgPet
-* Petrography
+* Igneous Petrography
   * Sub-skill 2.1
-  * Sub-skill 2.2
-  * Sub-skill 2.3
 * Clean Lab/Wet chemistry
   * Solutions-based ICP-MS
   * In-situ LA-ICP-MS
@@ -61,6 +61,9 @@ Teaching
     {% include archive-single-cv.html %}
   {% endfor %}</ul>
   
-Service and leadership
+Leadership
 ======
 * Unpacking Diversity
+* AAPI in Geosciences
+* Salmon Bowl
+* Outreach activities
