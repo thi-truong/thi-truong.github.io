@@ -11,30 +11,37 @@ redirect_from:
 
 Education
 ======
-* B.S. in GitHub, GitHub University, 2012
-* M.S. in Jekyll, GitHub University, 2014
-* Ph.D in Version Control Theory, GitHub University, 2018 (expected)
+* Ph.D in Geology, Oregon State University, 2017--present
+* M.S. in Earth Sciences University of California, San Diego 2015
+* B.S. in Earth Sciences/Geochemistry, University of California, San Diego 2011
+* B.A. in History, University of California, San Diego 2011
 
 Work experience
 ======
-* Summer 2015: Research Assistant
+* Summer 2015: Graduate Teaching Assistant
   * Github University
   * Duties included: Tagging issues
   * Supervisor: Professor Git
 
-* Fall 2015: Research Assistant
+* Fall 2018: Graduate Research Assistant
   * Github University
   * Duties included: Merging pull requests
   * Supervisor: Professor Hub
   
 Skills
 ======
-* Skill 1
-* Skill 2
+* Mass spectrometry
+* Software
+*   LaTeX, ImageJ, Blob3D, ioGAS, IgPet
+* Petrography
   * Sub-skill 2.1
   * Sub-skill 2.2
   * Sub-skill 2.3
-* Skill 3
+* Clean Lab/Wet chemistry
+  * Solutions-based ICP-MS
+  * In-situ LA-ICP-MS
+  * Cation Exchange Chromatography
+  * Column Calibrations for Trace Elements, Sr-Nd-Pb Isotopes
 
 Publications
 ======
@@ -56,4 +63,4 @@ Teaching
   
 Service and leadership
 ======
-* Currently signed in to 43 different slack teams
+* Unpacking Diversity
