@@ -1,6 +1,6 @@
 ---
 title: "Minerals Outreach Exercise"
-excerpt: "Birthstone/Gemstone based educational exercise for Louis Stokes Alliance for Minority Participation at OSU <br/><img src='/images/lsamp.jpg' alt='various types of minerals arranged in white boxes on wooden tray>"
+excerpt: "Birthstone/Gemstone based educational exercise for Louis Stokes Alliance for Minority Participation at OSU <br/><img src='/images/lsamp.jpg'>"
 collection: portfolio
 ---
 
