@@ -8,7 +8,7 @@ redirect_from:
   - /about.html
 ---
 
-About Me
+Hi
 ======
 My name is Thi Truong ([pronunciation](https://namedrop.io/thitruong)). I am currently a PhD Candidate in Geology at Oregon State University.
 
