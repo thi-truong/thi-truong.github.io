@@ -12,9 +12,9 @@ redirect_from:
 Education
 ======
 * Ph.D in Geology, Oregon State University, 2017--present
-* M.S. in Earth Sciences University of California, San Diego 2015
-* B.S. in Earth Sciences/Geochemistry, University of California, San Diego 2011
-* B.A. in History, University of California, San Diego 2011
+* M.S. in Earth Sciences University of California, San Diego, 2015
+* B.S. in Earth Sciences/Geochemistry, University of California, San Diego, 2011
+* B.A. in History, University of California, San Diego, 2011
 
 Work experience
 ======
