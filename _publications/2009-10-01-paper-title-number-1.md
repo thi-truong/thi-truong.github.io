@@ -3,7 +3,7 @@ title: "The trace element and Sr-Nd-Pb isotope geochemistry of Juan Fernandez la
 collection: publications
 permalink: /publication/2018-juan-fernandez
 excerpt: 'Research about the enigmatic and heterogeneous mantle source of the Juan Fernandez Islands, SE Chile.'
-date: 2018
+date: 2018-01-01
 venue: 'Chemical Geology'
 paperurl: 'http://thi-truong.github.io/files/Truong2018.pdf'
 ---
@@ -11,3 +11,4 @@ This paper is about the number 1. The number 2 is left for future work.
 
 [Download paper here](http://thi-truong.github.io/files/Truong2018.pdf)
 
+Recommended citation: Your Name, You. (2010). "Paper Title Number 2." <i>Journal 1</i>. 1(2).
