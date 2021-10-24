@@ -24,6 +24,7 @@ One problem with geology is reliance on visual phenomena without explicit regard
  
 </details>
 
+
 <details>
   <summary><b>2021 Unpacking Diversity Public Keynote Event with Dr. Aradhna Tripati</b></summary>
   
