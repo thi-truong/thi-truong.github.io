@@ -1,7 +1,21 @@
 ---
+layout: archive
 title: "Minerals Outreach Exercise"
-excerpt: "Birthstone/Gemstone based educational exercise for Louis Stokes Alliance for Minority Participation at OSU <br/><img src='/images/lsamp.jpg'> ![Minerals and nice thinigs](/images/lsamp.jpg)."
-collection: portfolio
+permalink: /portfolio/
+author_profile: true
 ---
 
-This is an item in your portfolio. It can be have images or nice text. If you name the file .md, it will be parsed as markdown. If you name the file .html, it will be parsed as HTML. 
+# A collapsible section with markdown
+
+<details>
+  <summary><b>Outreach</b></summary>
+  
+  ## Birthstone/Gemstone based educational exercise for Louis Stokes Alliance for Minority Participation at OSU
+  
+  <img src="/images/lsamp.jpg" alt="variety of minerals" width="200px"> 
+ 
+  It was fun
+  
+  
+</details>
+
