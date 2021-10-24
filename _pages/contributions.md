@@ -12,8 +12,8 @@ I am interested in pedagogy and increasing accessibility in the geosciences. I a
 ## Education and visualization
   
    One problem with geology is reliance on visual phenomena without explicit regard for descriptive vs. explanatory definitions. 
-  
- ### Tutorial to aid microscope interpretation
+ 
+### Tutorial to aid microscope interpretation
 
 Embed the youtube video here of opx vs cpx
   
