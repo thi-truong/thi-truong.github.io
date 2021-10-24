@@ -26,7 +26,7 @@ View full version of [CV here](https://thi-truong.github.io/files/CV_Truong_web-
   
 <b>Publications</b>
 
-**Truong, T.B.**, Castillo, P.R., Hilton, D.R., Day, J.M.D., (2018). The trace element and Sr-Nd-Pb isotope geochemistry of Juan Fernandez lavas reveal variable contributions from a high-<sup>3</sup>He/<sup>4</sup>He mantle plume. *Chemical Geology* (476), 280-291, doi:[10.1016/j.chemgeo.2017.11.024](10.1016/j.chemgeo.2017.11.024).
+**Truong, T.B.**, Castillo, P.R., Hilton, D.R., Day, J.M.D., (2018). The trace element and Sr-Nd-Pb isotope geochemistry of Juan Fernandez lavas reveal variable contributions from a high-<sup>3</sup>He/<sup>4</sup>He mantle plume. *Chemical Geology* (476), 280-291, doi:[10.1016/j.chemgeo.2017.11.024](https://10.1016/j.chemgeo.2017.11.024).
 
 <b>Positions</b>
 * 2019 - 2021 - Graduate Research Assistant, OSU, NSF-funded project to study C-He isotopes at Loihi Seamount and implications for mantle dynamics. Prepared 53 submarine glass samples from Loihi seamount and analyzed for CO2-He concentrations and isotopes in melt/vesicles by noble gas mass spectrometry (MS), trace elements by laser ablation-ICP-MS. 
