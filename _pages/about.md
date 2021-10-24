@@ -8,18 +8,12 @@ redirect_from:
   - /about.html
 ---
 
-My name is Thi Truong ([pronunciation](https://namedrop.io/thitruong)). I am currently a PhD Candidate in Geology at Oregon State University.
+My name is Thi Truong ([hear pronunciation](https://namedrop.io/thitruong)).
 
-I apply geochemistry (the chemical analysis of erupted products like rocks, minerals, fluids) to understand processes that create anomalous, intraplate volcanism on Earth. I accomplish this by collecting high-precision data of elements occurring in the tiniest concentrations (parts per million to parts per billion) in lava rocks. Specifically, I look at noble gases and high-temperature elements. 
+I am currently a PhD Candidate in Geology at Oregon State University. I am originally from San Diego, California.
 
-Ultimately, my work reflects on the utility of the mantle plume model, which seeks to explain the origin of places like the Hawaiian Islands, Iceland, Galapagos, etc. 
+I use geochemistry to understand processes that create anomalous, intraplate volcanism on Earth. My focus is on the creation and evolution of oceanic islands and seamounts. I collect high-precision data of elements occurring in the tiniest concentrations (parts per million to parts per billion) in lava rocks or minerals.
 
-Read more about my [research](https://thi-truong.github.io/publications/) here.
+Ultimately, my work reflects on the utility of the mantle plume model, which seeks to explain volcanism at settings like the Hawaiian Islands, Iceland, Galápagos, etc. Improvements in instrumentation on rocks, minerals, fluids has yielded unprecedented amounts of chemical data in recent years, but enduring questions remain about how chemical proxies relate to geologic phenomena. For specifics about my research objectives and results, check out my [research page](https://thi-truong.github.io/publications/).
 
-Questions I have been thinking about lately
-======
-* How do we dismantle a field based on colonial theft and land dispossession?
-* How can history and philosophy of geochemistry guide us in our collaborations for the next big synthesis of the interior?
-* How do we teach science without scientism?
-* Who gets excluded in studies about unobservable reality? Who is deemed an authority, and why?
-* How often do misconceptions in geology relate to visualization and models, or erroneous, but persistent messaging from scientific authorities and materials?
+Aside from geochemistry, I am interested the social development of the global geoscience community after the Plate Tectonics Revolution. Just like with mantle plumes, enduring questions remain for the community today. For one, if Geology is a global science, why is exclusion the norm? I seek to answer such questions over the course of my career. Learn about some of my [contributions to social justice and education](https://thi-truong.github.io/contributions/).
