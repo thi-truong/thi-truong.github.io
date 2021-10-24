@@ -11,6 +11,20 @@ I am interested in pedagogy and increasing accessibility in the geosciences. I a
 
 
 <details>
+  <summary><b>Visualization in the geosciences</b></summary>
+  
+  ## Translating geoscience visuals in a sea of pictures
+  
+One problem with geology is reliance on visual phenomena without explicit regard for descriptive vs. explanatory definitions. 
+  
+  Embed the youtube video here of opx vs cpx
+  
+  Survey of introductory community college students found that students easily named exaggerated phenomena.
+ 
+ 
+</details>
+
+<details>
   <summary><b>2021 Unpacking Diversity Public Keynote Event with Dr. Aradhna Tripati</b></summary>
   
   ## A long track record high virtual engagement and prioritizing accessibility
@@ -29,22 +43,6 @@ I am interested in pedagogy and increasing accessibility in the geosciences. I a
 
 
 <details>
-  <summary><b>Visualization in the geosciences</b></summary>
-  
-  ## Translating geoscience visuals in a sea of pictures
-  
-One problem with geology is reliance on visual phenomena without explicit regard for descriptive vs. explanatory definitions. 
-  
-  Embed the youtube video here of opx vs cpx
-  
-  Survey of introductory community college students found that students easily named exaggerated phenomena.
- 
- 
-</details>
-
-
-
-<details>
   <summary><b>Unpacking Diversity Learning Community, 2018-2021 </b></summary>
   
   ## Creating high standards and facilitated learning about social justice in STEM
@@ -55,6 +53,19 @@ Co-organized many lectures and experimented with engagement.
 </details>
 
 
+
+<details>
+  <summary><b>Reporting new NSF demographic data to share with the geoscience community </b></summary>
+  
+  ## Reporting data from NSF Earned Doctorates report in 2020
+  
+Inspired by Dr. Rachel Bernard's paper, No progress in geoscience for 40 years, and her blog from when she was a PhD student, it was evident that data from 1973-2016 showed a dismal outcome for Black and Indigineous students in the geosciences. When new data was released in 2020, I was motivated to see if two years of additional data (2017, 2018) would show the same trend. I shared the plots on the Unpacking Diversity Twitter.
+  
+  It was shared X times and featured in an NSF Ocean Sciences future panel and a forthcoming ecology presentation. And I think in one other place but I can't remember.
+ 
+See the results in the [Twitter thread](https://twitter.com/UnpkngDIVERSITY/status/1273507530509959168). Suggested credit for images: "Thi Truong, on behalf of @UnpkngDIVERSITY at OSU (2020)". [E-mail me](mailto:truonthi@oregonstate.edu) to request full-size images for presentation or other use.
+ 
+</details>
 
 <details>
   <summary><b>Birthstones/Gemstones activity for K-12 and first year college students</b></summary>
