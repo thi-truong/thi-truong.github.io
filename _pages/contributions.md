@@ -9,28 +9,21 @@ author_profile: true
 
 I am interested in pedagogy and increasing accessibility in the geosciences. I am also interested in teaching with historical case studies when teaching geology. Below are some of my contributions to social justice in STEM, materials prepared for introductory college and university upper-division teaching, and results from K-12 outreach activities.
 
+## Education and visualization
+  
+   One problem with geology is reliance on visual phenomena without explicit regard for descriptive vs. explanatory definitions. 
+  
+ ### Tutorial to aid microscope interpretation
 
-<details>
-  <summary><b>Visualization in the geosciences</b></summary>
+Embed the youtube video here of opx vs cpx
   
-  ## Translating geoscience visuals in a sea of pictures
-  
-One problem with geology is reliance on visual phenomena without explicit regard for descriptive vs. explanatory definitions. 
-  
-  Embed the youtube video here of opx vs cpx
-  
-  Survey of introductory community college students found that students easily named exaggerated phenomena.
+### Assessing understanding of bathymetric features in 2YC lab
+
+Survey of introductory community college students found that students easily named exaggerated phenomena.
  
- 
-</details>
+ ## Social justice and integrating expert facilitation in STEM settings
 
-
-<details>
-  <summary><b>2021 Unpacking Diversity Public Keynote Event with Dr. Aradhna Tripati</b></summary>
-  
-  ## A long track record high virtual engagement and prioritizing accessibility
-  
-  Co-organized 2-day virtual keynote which was attended by many.
+### 2021 Unpacking Diversity Public Keynote Event with Dr. Aradhna Tripati (UCLA)
   
   Embed the Youtube video
   
@@ -38,27 +31,17 @@ One problem with geology is reliance on visual phenomena without explicit regard
   * Attendance from X countries
   * Organized Women of Color in Geosciences panel
   * Total of 10(?) events including undergraduate workshop (participants were able to get Amazon gift cards for attending the virutal workshop), departmental talk, meetings with various stakeholders
- 
- 
-</details>
+   Co-organized many lectures and experimented with engagement.
+   
+### A long track record engagement (in-person and virtual), prioritizing accessibility, promoting care
 
+Unpacking Diversity Learning Community, 2018-2021.
 
-<details>
-  <summary><b>Unpacking Diversity Learning Community, 2018-2021 </b></summary>
-  
-  ## Creating high standards and facilitated learning about social justice in STEM
-  
-Co-organized many lectures and experimented with engagement.
- 
- 
-</details>
+Co-organized 2-day virtual keynote which was attended by many.
 
-
-
-<details>
-  <summary><b>Reporting new NSF demographic data to share with the geoscience community </b></summary>
-  
-  ## Reporting data from NSF Earned Doctorates report in 2020
+Organized total of 16+? events. 600+ people engaged. Organized in a way to promote facilitation and avoid tokenizing. Creatied high standards and facilitated learning about social justice in STEM. 
+   
+### Reporting new NSF demographic data to share with the geoscience community
   
 Inspired by Dr. Rachel Bernard's paper, No progress in geoscience for 40 years, and her blog from when she was a PhD student, it was evident that data from 1973-2016 showed a dismal outcome for Black and Indigineous students in the geosciences. When new data was released in 2020, I was motivated to see if two years of additional data (2017, 2018) would show the same trend. I shared the plots on the Unpacking Diversity Twitter.
   
@@ -66,29 +49,20 @@ Inspired by Dr. Rachel Bernard's paper, No progress in geoscience for 40 years, 
  
 See the results in the [Twitter thread](https://twitter.com/UnpkngDIVERSITY/status/1273507530509959168). Suggested credit for images: "Thi Truong, on behalf of @UnpkngDIVERSITY at OSU (2020)". [E-mail me](mailto:truonthi@oregonstate.edu) to request full-size images for presentation or other use.
  
-</details>
-
-<details>
-  <summary><b>Birthstones/Gemstones activity for K-12 and first year college students</b></summary>
-  
-  ## Developing an outreach exercise that doesn't rely on explosions
-  
-  Birthstone/Gemstone based educational exercise for Louis Stokes Alliance for Minority Participation at OSU
-  
-  <img src="/images/lsamp.jpg" alt="variety of minerals" width="200px"> 
  
-  It was fun
-  
-</details>
-
-
-
-<details>
-  <summary><b>History/Philosophy of Geology and the study of anomalous phenomena</b></summary>
-  
-  ## Promoting history for a historical science
-  
-Co-organized many lectures and experimented with engagement.
  
+## Geology outreach (without explosions or volcanoes)
+
+### Birthstones/Gemstones activity for K-12 and first year college students
+  
+Developing outreach exercise that doesn't rely on explosions? Birthstone/Gemstone based educational exercise for Louis Stokes Alliance for Minority Participation at OSU
+  
+<img src="/images/lsamp.jpg" alt="variety of minerals" width="200px"> 
+
+## History/Philosophy of Geology
+  
+### Anomalous volcanism presentation at GSA/INHIGEO
+
+Promoting history for a historical science. Presented at INHIGEO and attended section meeting. Still believe Feyerabend. 
  
 </details>
