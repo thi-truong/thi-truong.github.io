@@ -27,6 +27,8 @@ Survey of introductory community college students found that students easily nam
   
   Embed the Youtube video
   
+  Co-organized 2-day virtual keynote which was attended by many.
+  
   * Funding total of $5k and engaged new stakeholders with OSU
   * Attendance from X countries
   * Organized Women of Color in Geosciences panel
@@ -37,9 +39,10 @@ Survey of introductory community college students found that students easily nam
 
 Unpacking Diversity Learning Community, 2018-2021.
 
-Co-organized 2-day virtual keynote which was attended by many.
+Organized total of 16+? events. 600+ people engaged. Organized in a way to promote facilitation and avoid tokenizing. Created high standards and facilitated learning about social justice in STEM.
 
-Organized total of 16+? events. 600+ people engaged. Organized in a way to promote facilitation and avoid tokenizing. Creatied high standards and facilitated learning about social justice in STEM. 
+* SACNAS presentation
+* Ocean Sciences Meeting
    
 ### Reporting new NSF demographic data to share with the geoscience community
   
@@ -64,5 +67,3 @@ Developing outreach exercise that doesn't rely on explosions? Birthstone/Gemston
 ### Anomalous volcanism presentation at GSA/INHIGEO
 
 Promoting history for a historical science. Presented at INHIGEO and attended section meeting. Still believe Feyerabend. 
- 
-</details>
