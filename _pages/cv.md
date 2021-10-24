@@ -26,20 +26,8 @@ View full version of [CV here](https://thi-truong.github.io/files/CV_Truong_web-
   
 <b>Publications</b>
 
-Truong, T.B...
+**Truong, T.B.**, Castillo, P.R., Hilton, D.R., Day, J.M.D., (2018). The trace element and Sr-Nd-Pb isotope geochemistry of Juan Fernandez lavas reveal variable contributions from a high-<sup>3</sup>He/<sup>4</sup>He mantle plume. *Chemical Geology* (476), 280-291, doi:[10.1016/j.chemgeo.2017.11.024](10.1016/j.chemgeo.2017.11.024).
 
-<b>Research</b>
+<b>Positions</b>
 * 2019 - 2021 - Graduate Research Assistant, OSU, NSF-funded project to study C-He isotopes at Loihi Seamount and implications for mantle dynamics. Prepared 53 submarine glass samples from Loihi seamount and analyzed for CO2-He concentrations and isotopes in melt/vesicles by noble gas mass spectrometry (MS), trace elements by laser ablation-ICP-MS. 
 * 2018 - Graduate Teaching Assistant, OSU, Argon Geochronology Laboratory. Aid in lab operations, mineral separation processes to prepare samples for Ar-Ar geochronology.
-
-<b>Skills</b>
-* Mass spectrometry
-* Software
-*   LaTeX, ImageJ, Blob3D, ioGAS, IgPet
-* Igneous Petrography
-  * Sub-skill 2.1
-* Clean Lab/Wet chemistry
-  * Solutions-based ICP-MS
-  * In-situ LA-ICP-MS
-  * Cation Exchange Chromatography
-  * Column Calibrations for Trace Elements, Sr-Nd-Pb Isotopes
