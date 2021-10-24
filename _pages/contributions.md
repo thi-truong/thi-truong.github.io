@@ -21,7 +21,7 @@ Embed the youtube video here of opx vs cpx
 
 Survey of introductory community college students found that students easily named exaggerated phenomena.
  
- ## Social justice and integrating expert facilitation in STEM settings
+## Social justice and integrating expert facilitation in STEM settings
 
 ### 2021 Unpacking Diversity Public Keynote Event with Dr. Aradhna Tripati (UCLA)
   
@@ -51,7 +51,6 @@ Inspired by Dr. Rachel Bernard's paper, No progress in geoscience for 40 years, 
   It was shared X times and featured in an NSF Ocean Sciences future panel and a forthcoming ecology presentation. And I think in one other place but I can't remember.
  
 See the results in the [Twitter thread](https://twitter.com/UnpkngDIVERSITY/status/1273507530509959168). Suggested credit for images: "Thi Truong, on behalf of @UnpkngDIVERSITY at OSU (2020)". [E-mail me](mailto:truonthi@oregonstate.edu) to request full-size images for presentation or other use.
- 
  
  
 ## Geology outreach (without explosions or volcanoes)
