@@ -13,7 +13,7 @@ These are an enigmatic group of islands off the coast of Chile. They are histori
 
 Lava samples from this small island group near Chile have puzzled geochemists since the 1980s. By the early 1990s, mantle geochemists constructed various flavors of mantle endmember compositions that might be sampled by oceanic islands. 
 
-<img src="research-figure02-juan-fernandez-islands.png" alt="Overview of the two main islands of the Juan Fernández chain. Bottom middle shows map view of subaerial islands, and cross-section showing topography and bathymetric features (depth in m). The island on the right, Robinson Crusoe (Mas a Tierra) consists of group I and II lavas which represent a late shield-building stage and post-shield phase. The island on the left, Alexander Selkirk (Mas Afuera) consists of Group III basalts which represent the shield phase." width="600px">
+<img src="/_pages/research-figure02-juan-fernandez-islands.png" alt="Overview of the two main islands of the Juan Fernández chain. Bottom middle shows map view of subaerial islands, and cross-section showing topography and bathymetric features (depth in m). The island on the right, Robinson Crusoe (Mas a Tierra) consists of group I and II lavas which represent a late shield-building stage and post-shield phase. The island on the left, Alexander Selkirk (Mas Afuera) consists of Group III basalts which represent the shield phase." width="600px">
 
 # Loihi Seamount
 
