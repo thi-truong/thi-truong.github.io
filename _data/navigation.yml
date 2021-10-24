@@ -7,11 +7,8 @@ main:
   - title: "Research"
     url: /research/
 
-  - title: "Portfolio (Contributions)"
+  - title: "Contributions"
     url: /portfolio/
         
   - title: "Blog"
-    url: /year-archive/
-
-  - title: "Guide"
-    url: /markdown/
+    url: /year-archive
