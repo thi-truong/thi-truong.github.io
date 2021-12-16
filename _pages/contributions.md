@@ -62,6 +62,9 @@ Developing outreach exercise that doesn't rely on explosions? Birthstone/Gemston
 <img src="/images/lsamp.jpg" alt="variety of minerals" width="200px"> 
 
 ## History/Philosophy of Geology
+
+I am also interested the social development of the global geoscience community after the Plate Tectonics Revolution. Specifically, I am interested in how geologists respond to anomalous volcanism. Precursory Google searches will lead you to a world of controversy about deep mantle plumes, which raises a number of questions about which types of evidence are suited to underdetermined problems in geology. 
+
   
 ### Anomalous volcanism presentation at GSA/INHIGEO
 
