@@ -1,5 +1,5 @@
 ---
-title: 'Accessibility and Hybrid Conferences: Why don't presenters experiment while they have control?'
+title: 'Zoom Panic: Why don't presenters enable accessibility features?'
 date: 2021-12-13
 permalink: /posts/2021/12/accessibility-conference-talk/
 tags:
