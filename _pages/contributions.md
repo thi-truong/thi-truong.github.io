@@ -22,7 +22,7 @@ Instructional video for undergraduate optical mineralogy students to distinguish
 > 3. If the mineral is extinct, then 0 degrees of rotation was needed to observe extinction. The extinction angle is 0. This indicates orthopyroxene (see note).
 > 4. If I must rotate the stage to see extinction, then this means the extinction angle is greater than 0. This indicates inclined extinction, and the mineral is clinopyroxene  (see note).
 >
-> _Note: that looking down the {100} face of clionopyroxene may produce parallel extinction. Be sure to examine several grains and use other diagnostic observations to support your identification._
+> Note: Looking down the {100} face of clionopyroxene may produce parallel extinction. Be sure to examine several grains and use other diagnostic observations to support your identification.
 
 
 
