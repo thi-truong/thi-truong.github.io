@@ -60,8 +60,8 @@ When new data from the [NSF Survey of Earned Doctorates](https://www.nsf.gov/sta
 Example of data for Earth Sciences majors shown above. View the full set of plots in the [Twitter thread](https://twitter.com/UnpkngDIVERSITY/status/1273507530509959168).
 
 Results have been featured in a number of presentations:
-* Dr Hilary Palevsky's presentation during NSF Ocean Sciences virtual symposium "The Future of the Oceans" in June 2020.
-* Andy Lee and Erin de Leon Sanchez' presentation: "Nuances of Asian American experiences in ecology and evolutionary biology" in October 2021
+* [NSF Ocean Sciences "Frontiers of Ocean Sciences" virtual symposium](https://www.youtube.com/watch?v=sI2TTOeA0Tk) in June 2020 (presenter: Dr. Hilary Palevsky)
+* "Nuances of Asian American experiences in ecology and evolutionary biology" talk in October 2021 (presenters: Andy Lee and Erin de Leon Sanchez)
 
 Suggested credit for images: "Thi Truong, on behalf of @UnpkngDIVERSITY at OSU (2020)".
 
