@@ -15,6 +15,7 @@ Below are some of my materials prepared for introductory college and university 
 Instructional video for undergraduate optical mineralogy students to distinguish between clinopyroxene/orthopyroxene in thin section. No sound. [Link to YouTube Video](https://www.youtube.com/watch?v=muPhXJS_qwk/) or click thumbnail above.
 
 ## Sample narrative for teaching
+
 > This video shows how one might use cleavage traces of two unknown pyroxene minerals for identification. Set up the view of the mineral in plane polarized light.
 > 
 > 1. Locate cleavage traces (dark lines) and align them so they are vertically aligned up/down with crosshairs. This is the starting angle.
@@ -24,28 +25,28 @@ Instructional video for undergraduate optical mineralogy students to distinguish
 >
 > Note: Looking down the {100} face of clionopyroxene may produce parallel extinction. Be sure to examine several grains and use other diagnostic observations to support your identification.
 
-
-
 # 2021 Unpacking Diversity Keynote Event with Dr. Aradhna Tripati
 
  <a href="https://www.youtube.com/watch?v=EKhZKJEdODk/"><img src="https://img.youtube.com/vi/EKhZKJEdODk/0.jpg" style="width:400px" alt="YouTube thumbnail showing Zoom Webinar with views of Thi Truong, speaker Aradhna Tripati, interpreter"></a>
  
 [Link to YouTube recording of event](https://www.youtube.com/watch?v=EKhZKJEdODk/), or click thumbnail above. 
  
-Held in May 2021, the positive engagement reflects my continued effort to engage the community, prioritize accessibility, ensure care for students, and create opportunities to engage with stakeholders. I managed technical aspects of webinar broadcasting, livestreaming, and accessibility.
+Held in May 2021, this event reflects continued efforts and success in delivering relevant and timely educational events, including virtual ones. I coordinated multiple aspects of event, from initial conception of in-person event in October 2019 to execution of virtual event in May 2021 (the first year's planning efforts were cut short by the pandemic).
+
+For more information, see the [Unpacking Diversity Keynote 2021 page](https://unpackingdiversity.wixsite.com/ceoas/keynote-2021), which lists other events hosted as part of the 2-day event.
 
 ## Roles
-* Developed event timeline and communicated with various stakeholders throughout the entire planning process
-* Coordinated keynote talk accommodations and ensured digital advertisements and announcements were accessible
-* Also organized scientific talk to the department, undergraduate student workshop, and Women of Color discussion panel with 3 invited guest scientists.
+*  Created and maintained project planning document and timelines. Led communication with speaker, vendors, on-campus and external stakeholders, and revised plans and timelines as needed throughout the process
+* Prioritized accommodations in the budget, communicated with OSU DAS to coordinate appropriate vendors for captioning/ASL interpreters. Prepared event glossary and introduction script.
+* Ran keynote event with Zoom Webinar500 platform, set up registration page and backend settings for webinar, wrote scripts, prepared run-of-show documents, tested event with captioners and interpreters and test users, set up livestreaming options.
+* Maintained and updated website. Designed content (flyers, advertisements, social media posts) in accordance with basic web accessibility standards. 
 
 ## Outcomes
 
-* Acquired funding from eight sponsors, including on-campus and state organizations.
-* Over 163 attended the Zoom Webinar, representing 22 institutions/organizations other than Oregon State University and from 5 countries.
+* Acquired $6,000 funding from eight sponsors, including on-campus and state organizations.
+* Over 163 attended the Zoom Webinar, representing 22 institutions/organizations outside of Oregon State University, and from 5 countries.
 * 18 additional viewers joined the YouTube livestream.
- 
-For more information, see the [Unpacking Diversity Keynote 2021 page](https://unpackingdiversity.wixsite.com/ceoas/keynote-2021), which lists other events hosted as part of the 2-day event.
+* The 2-day virtual visit included a technical talk for the Geology & Geophysics departmental seminar, an undergraduate student workshop, a Women of Color discussion panel with 3 invited guest scientists, and a number of meetings with community members and organizations.
    
 # Compiling demographic data for the geoscience community
    
