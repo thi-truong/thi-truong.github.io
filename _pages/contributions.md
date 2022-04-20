@@ -5,6 +5,15 @@ permalink: /contributions/
 author_profile: true
 ---
 
+# Web, programming, accessibility
+
+* Unpacking Diversity website (once the structure is correct), using A11y, Contrast checker
+* LaTeX (UCSD template for M.S. could be uploaded to Github)
+* LaTeX (OSU template for PhD could be uploaded to Github)
+* NSF Earned Doctorates data (could be a csv on github?)
+* COVID-19 tracking at OSU (side project, Tableau?)
+* Map/visualization of Loihi Seamount and relevant scientific information
+
 Below are some of my materials prepared for introductory college and university upper-division teaching, and recent contributions to social justice in STEM. I have taught laboratory components of oceanography, mineralogy, petrology, and general geology classes.
 
 # Example tutorial for optical mineralogy students
@@ -31,7 +40,7 @@ Instructional video for undergraduate optical mineralogy students to distinguish
  
 [Link to YouTube recording of event](https://www.youtube.com/watch?v=EKhZKJEdODk/), or click thumbnail above. 
  
-Held in May 2021, this event reflects continued efforts and success in delivering relevant and timely educational events, including virtual ones. I coordinated multiple aspects of event, from initial conception of in-person event in October 2019 to execution of virtual event in May 2021 (the first year's planning efforts were cut short by the pandemic).
+I coordinated multiple aspects of event, from initial conception of in-person event in October 2019 to execution of virtual event in May 2021. The first year's planning efforts resulted in an original date, late May 2020. After much uncertainty amidst the pandemic, we successfully held the event during a 2-day "virtual" keynote visit, with ~$1,000 more support than the previous year, thanks to co-sponsorship by additional campus and off-campus stakeholders. To ensure audience engagement during the virtual event, the budget included accommodations for the keynote event and undergraduate student participation in a workshop. This event reflects continued efforts and success in delivering relevant and timely educational events, whether they are in-person, hybrid, or virtual.
 
 For more information, see the [Unpacking Diversity Keynote 2021 page](https://unpackingdiversity.wixsite.com/ceoas/keynote-2021), which lists other events hosted as part of the 2-day event.
 
