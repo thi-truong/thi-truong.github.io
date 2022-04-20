@@ -13,6 +13,7 @@ author_profile: true
 * NSF Earned Doctorates data (could be a csv on github?)
 * COVID-19 tracking at OSU (side project, Tableau?)
 * Map/visualization of Loihi Seamount and relevant scientific information
+* Documentation (tutorials?)
 
 Below are some of my materials prepared for introductory college and university upper-division teaching, and recent contributions to social justice in STEM. I have taught laboratory components of oceanography, mineralogy, petrology, and general geology classes.
 
