@@ -5,16 +5,6 @@ permalink: /contributions/
 author_profile: true
 ---
 
-# Web, programming, accessibility
-
-* Unpacking Diversity website (once the structure is correct), using A11y, Contrast checker
-* LaTeX (UCSD template for M.S. could be uploaded to Github)
-* LaTeX (OSU template for PhD could be uploaded to Github)
-* NSF Earned Doctorates data (could be a csv on github?)
-* COVID-19 tracking at OSU (side project, Tableau?)
-* Map/visualization of Loihi Seamount and relevant scientific information
-* Documentation (tutorials?)
-
 Below are some of my materials prepared for introductory college and university upper-division teaching, and recent contributions to social justice in STEM. I have taught laboratory components of oceanography, mineralogy, petrology, and general geology classes.
 
 # Example tutorial for optical mineralogy students
