@@ -7,6 +7,11 @@ author_profile: true
 
 Below are some of my materials prepared for introductory college and university upper-division teaching, and recent contributions to social justice in STEM. I have taught laboratory components of oceanography, mineralogy, petrology, and general geology classes.
 
+<button type="button" class="collapsible">Example tutorial for optical mineralogy students</button>
+<div class="content">
+  <p>Lorem ipsum...</p>
+</div>
+
 # Example tutorial for optical mineralogy students
 
  <a href="https://www.youtube.com/watch?v=muPhXJS_qwk/"><img src="https://img.youtube.com/vi/muPhXJS_qwk/0.jpg" style="width:400px" alt="Thumbnail showing two views of mineral under microscope. Left side shows straight lines across light background. This is clinopyroxene under plane polarized light. Right side shows same view under cross polarized light where the light areas are now all dark. This indicates that this is clinopyroxene, because the lines do not align vertically, but are diagonal.">
