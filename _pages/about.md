@@ -10,7 +10,7 @@ redirect_from:
 
 # About Me
 
-My name is Thi Truong ([hear pronunciation](https://namedrop.io/thitruong)).
+My name is Thi Truong ([hear name pronunciation](https://namedrop.io/thitruong)).
 
 I am currently a PhD Candidate in Geology at Oregon State University. I am originally from San Diego, California. I use geochemistry to understand processes that create anomalous, intraplate volcanism on Earth. My focus is on the creation and evolution of oceanic islands and seamounts, which are understood to contain signals of the mantle. 
 
