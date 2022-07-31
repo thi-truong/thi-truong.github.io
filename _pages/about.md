@@ -8,6 +8,8 @@ redirect_from:
   - /about.html
 ---
 
+<img src="images/thi-microscope-lab-01.png" style="width:400px" alt="Thi sitting in front of microscope">
+ 
 # About Me
 
 My name is Thi Truong ([hear name pronunciation](https://namedrop.io/thitruong)).
