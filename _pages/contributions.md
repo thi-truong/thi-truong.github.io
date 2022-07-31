@@ -38,8 +38,6 @@ Instructional video for undergraduate optical mineralogy students to distinguish
  
 I coordinated multiple aspects of a 2021 keynote event with Dr. Aradhna Tripati (UCLA, CDLS). Planned initial conception of in-person event in October 2019 to execution of virtual event in May 2021. The first year's planning efforts resulted in an original date, late May 2020. After much uncertainty amidst the pandemic, we successfully held the event during a 2-day "virtual" keynote visit, with ~$1,000 more support than the previous year, thanks to co-sponsorship by additional campus and off-campus stakeholders. To ensure audience engagement during the virtual event, the budget included accommodations for the keynote event and undergraduate student participation in a workshop. This event reflects continued efforts and success in delivering relevant and timely educational events, whether they are in-person, hybrid, or virtual.
 
-For more information, see the [Unpacking Diversity Keynote 2021 page](https://unpackingdiversity.wixsite.com/ceoas/keynote-2021), which lists other events hosted as part of the 2-day event.
-
 <details>
 <summary>Roles</summary>
  
@@ -56,6 +54,8 @@ For more information, see the [Unpacking Diversity Keynote 2021 page](https://un
 * 18 additional viewers joined the YouTube livestream.
 * The 2-day virtual visit included a technical talk for the Geology & Geophysics departmental seminar, an undergraduate student workshop, a Women of Color discussion panel with 3 invited guest scientists, and a number of meetings with community members and organizations.
     </details>
+
+For more information, see the [Unpacking Diversity Keynote 2021 page](https://unpackingdiversity.wixsite.com/ceoas/keynote-2021), which lists other events hosted as part of the 2-day event.
     
 # Compiling NSF demographic data in the geosciences
    
