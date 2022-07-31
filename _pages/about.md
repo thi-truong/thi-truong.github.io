@@ -12,7 +12,7 @@ redirect_from:
 
 ![Thi using a microscope](/images/thi-microscope-lab-01.png)
 
-<img src="/images/thi-microscope-lab-01.png" width="400"/>
+<img src="/images/thi-microscope-lab-01.png" alt="Thi in front of a microscope, wearing blank hoodie and mask" width="400"/>
 
 My name is Thi Truong ([hear name pronunciation](https://namedrop.io/thitruong)).
 
