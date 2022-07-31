@@ -8,7 +8,9 @@ redirect_from:
   - /about.html
 ---
 
-# About Me
+#  Hello!
+
+[Alt](/images/thi-microscope-lab-01.png “image title”)
 
 My name is Thi Truong ([hear name pronunciation](https://namedrop.io/thitruong)).
 
