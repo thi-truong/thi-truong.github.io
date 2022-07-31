@@ -7,10 +7,12 @@ author_profile: true
 
 Below are some of my materials prepared for introductory college and university upper-division teaching, and recent contributions to social justice in STEM. I have taught laboratory components of oceanography, mineralogy, petrology, and general geology classes.
 
-<button type="button" class="collapsible">Example tutorial for optical mineralogy students</button>
-<div class="content">
-  <p>Lorem ipsum...</p>
-</div>
+<details>
+<summary>Example tutorial for optical mineralogy students</summary>
+
+Example of content in here
+
+</details>
 
 # Example tutorial for optical mineralogy students
 
