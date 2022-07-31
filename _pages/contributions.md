@@ -7,12 +7,6 @@ author_profile: true
 
 Below are some of my materials prepared for introductory college and university upper-division teaching, and recent contributions to social justice in STEM. I have taught laboratory components of oceanography, mineralogy, petrology, and general geology classes.
 
-<details>
-<summary>Example tutorial for optical mineralogy students</summary>
-
-Example of content in here
-
-</details>
 
 # Example tutorial for optical mineralogy students
 
@@ -20,6 +14,20 @@ Example of content in here
       </a>
       
 Instructional video for undergraduate optical mineralogy students to distinguish between clinopyroxene/orthopyroxene in thin section. No sound. [Link to YouTube Video](https://www.youtube.com/watch?v=muPhXJS_qwk/) or click thumbnail above.
+
+<details>
+<summary>Sample narrative for teaching</summary>
+
+> This video shows how one might use cleavage traces of two unknown pyroxene minerals for identification. Set up the view of the mineral in plane polarized light.
+> 
+> 1. Locate cleavage traces (dark lines) and align them so they are vertically aligned up/down with crosshairs. This is the starting angle.
+> 2. Switch to cross-polarized light and observe if extinction occurs while remaining in this view.
+> 3. If the mineral is extinct, then 0 degrees of rotation was needed to observe extinction. The extinction angle is 0. This indicates orthopyroxene (see note).
+> 4. If I must rotate the stage to see extinction, then this means the extinction angle is greater than 0. This indicates inclined extinction, and the mineral is clinopyroxene  (see note).
+>
+> Note: Looking down the {100} face of clionopyroxene may produce parallel extinction. Be sure to examine several grains and use other diagnostic observations to support your identification.
+
+</details>
 
 ## Sample narrative for teaching
 
