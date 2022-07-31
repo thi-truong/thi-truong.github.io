@@ -8,8 +8,6 @@ redirect_from:
   - /about.html
 ---
 
-<img src="https://github.com/thi-truong/thi-truong.github.io/blob/539374bf93c154da06f3f0515d0240bdc967c03d/images/thi-microscope-lab-01.png" style="width:400px" alt="Thi sitting in front of binocular microscope wearing black hoodie and mask">
- 
 # About Me
 
 My name is Thi Truong ([hear name pronunciation](https://namedrop.io/thitruong)).
