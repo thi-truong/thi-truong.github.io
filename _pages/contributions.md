@@ -29,16 +29,6 @@ Instructional video for undergraduate optical mineralogy students to distinguish
 
 </details>
 
-## Sample narrative for teaching
-
-> This video shows how one might use cleavage traces of two unknown pyroxene minerals for identification. Set up the view of the mineral in plane polarized light.
-> 
-> 1. Locate cleavage traces (dark lines) and align them so they are vertically aligned up/down with crosshairs. This is the starting angle.
-> 2. Switch to cross-polarized light and observe if extinction occurs while remaining in this view.
-> 3. If the mineral is extinct, then 0 degrees of rotation was needed to observe extinction. The extinction angle is 0. This indicates orthopyroxene (see note).
-> 4. If I must rotate the stage to see extinction, then this means the extinction angle is greater than 0. This indicates inclined extinction, and the mineral is clinopyroxene  (see note).
->
-> Note: Looking down the {100} face of clionopyroxene may produce parallel extinction. Be sure to examine several grains and use other diagnostic observations to support your identification.
 
 # 2021 Unpacking Diversity Keynote Event with Dr. Aradhna Tripati
 
@@ -50,19 +40,22 @@ I coordinated multiple aspects of event, from initial conception of in-person ev
 
 For more information, see the [Unpacking Diversity Keynote 2021 page](https://unpackingdiversity.wixsite.com/ceoas/keynote-2021), which lists other events hosted as part of the 2-day event.
 
-## Roles
+<details>
+<summary>Roles</summary>
 *  Created and maintained project planning document and timelines. Led communication with speaker, vendors, on-campus and external stakeholders, and revised plans and timelines as needed throughout the process
 * Prioritized accommodations in the budget, communicated with OSU DAS to coordinate appropriate vendors for captioning/ASL interpreters. Prepared event glossary and introduction script.
 * Ran keynote event with Zoom Webinar500 platform, set up registration page and backend settings for webinar, wrote scripts, prepared run-of-show documents, tested event with captioners and interpreters and test users, set up livestreaming options.
-* Maintained and updated website. Designed content (flyers, advertisements, social media posts) in accordance with basic web accessibility standards. 
-
-## Outcomes
+ </details>
+ 
+<details>
+<summary>Outcomes</summary>
 
 * Acquired $6,000 funding from eight sponsors, including on-campus and state organizations.
 * Over 163 attended the Zoom Webinar, representing 22 institutions/organizations outside of Oregon State University, and from 5 countries.
 * 18 additional viewers joined the YouTube livestream.
 * The 2-day virtual visit included a technical talk for the Geology & Geophysics departmental seminar, an undergraduate student workshop, a Women of Color discussion panel with 3 invited guest scientists, and a number of meetings with community members and organizations.
-   
+    </details>
+    
 # Compiling demographic data for the geoscience community
    
 Inspired by Dr. Rachel Bernard's paper, [No progress in geoscience for 40 years](https://www.nature.com/articles/s41561-018-0116-6), and [her blog post during her PhD years](https://www.jsg.utexas.edu/science-yall/who-gets-geology-phds/), it was evident that data from 1973-2016 showed a dismal outcome for Black and Indigineous students in the geosciences.
