@@ -42,6 +42,7 @@ For more information, see the [Unpacking Diversity Keynote 2021 page](https://un
 
 <details>
 <summary>Roles</summary>
+ 
 *  Created and maintained project planning document and timelines. Led communication with speaker, vendors, on-campus and external stakeholders, and revised plans and timelines as needed throughout the process
 * Prioritized accommodations in the budget, communicated with OSU DAS to coordinate appropriate vendors for captioning/ASL interpreters. Prepared event glossary and introduction script.
 * Ran keynote event with Zoom Webinar500 platform, set up registration page and backend settings for webinar, wrote scripts, prepared run-of-show documents, tested event with captioners and interpreters and test users, set up livestreaming options.
