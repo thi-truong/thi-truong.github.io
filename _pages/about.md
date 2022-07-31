@@ -10,7 +10,7 @@ redirect_from:
 
 #  Hello!
 
-[Alt](/images/thi-microscope-lab-01.png “image title”)
+![Alt](/images/thi-microscope-lab-01.png “image title”)
 
 My name is Thi Truong ([hear name pronunciation](https://namedrop.io/thitruong)).
 
