@@ -57,7 +57,7 @@ For more information, see the [Unpacking Diversity Keynote 2021 page](https://un
 * The 2-day virtual visit included a technical talk for the Geology & Geophysics departmental seminar, an undergraduate student workshop, a Women of Color discussion panel with 3 invited guest scientists, and a number of meetings with community members and organizations.
     </details>
     
-# Compiling demographic data for the geoscience community
+# Compiling NSF demographic data in the geosciences
    
 Inspired by Dr. Rachel Bernard's paper, [No progress in geoscience for 40 years](https://www.nature.com/articles/s41561-018-0116-6), and [her blog post during her PhD years](https://www.jsg.utexas.edu/science-yall/who-gets-geology-phds/), it was evident that data from 1973-2016 showed a dismal outcome for Black and Indigineous students in the geosciences.
 
