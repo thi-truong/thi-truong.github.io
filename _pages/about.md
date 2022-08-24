@@ -17,18 +17,25 @@ I am currently a PhD Candidate in Geology at Oregon State University. I am origi
 My examinations focus on one type of rock (basalt), but considers the behavior of more than half of the elements listed of the periodic table! For specifics about my research objectives and results, check out my [research page](https://thi-truong.github.io/research/).
 
 Some of my interests:
-* Origin and behavior of volatiles and their distribution in the solid Earth
 * Scales of heterogeneity in the mantle and the signature in ocean island basalts
-* How the mantle plume hypothesis holds up over time, across global studies, for assessing hotspot volcanism
+* Origin and behavior of volatiles and their distribution in the solid Earth
+* How the mantle plume hypothesis holds up over time, across global studies, in the study of intraplate ocean islands
 
-# Teaching and practice
+# Teaching
 
-My teaching philosophy focuses on generating authentic connections with the practice of science, rather than appealing to the image of science, or scientism. I aim to improve learning outcomes in geology by applying recommendations from broader STEM education fields, while emphasizing the unique aspects of geology as a historical science.
+Rocks have never been self-explanatory, yet the pace of undergraduate geology courses seem to suggest they are. In laboratory classrooms, we ask students to become adept at identifying rocks and minerals and associate them with specific geologic phenomena immediately. I have observed that students often rely on sight, memorization, and likely instinct, to finish assignments. The experience bears little resemblance to the practice of geology, and is inconsistent with the long history of classification of minerals and rocks.
 
-Another important point to emphasize is that scientific contributions are the result of engagement with scholarly communities, and I invite today's community to address these questions with me:
+I continuously challenge myself to disrupt this pattern with the little time that I have. My teaching philosophy focuses on generating authentic connections with the practice of science and scientific thinking. I create opportunities for students to practice "seeing" and recognizing patterns, and emphasize documenting observations first. To address the problem of overwhelm and jargon, I give scaffolded instruction with examples, exemplars, and encourage students to seek digital resources/Internet content.
+
+I emphasize that geology is primarily a historical science. Though I teach about individual thinkers if they play a large role in advancing controversies, I avoid the hero narrative and emphasize the social aspect of scientific communities, and the role of consensus. I am interested in geoscience misconceptions (especially about plate tectonics and Earth's interior), and am always thinking of ways to reduce their persistence.
+
+# Questions I'm thinking about
+
+Scientific advances reflect the work of scholarly communities, whether they are equitable or not. I invite the geoscience community to engage in these questions with me:
 
 * If Geology is a global science, then why is exclusion the norm? 
 * How can we dismantle this exclusion today?
+* How can history and philosophy of geochemistry guide us in our collaborations for the next big synthesis of the interior?
 
 I seek to answer such questions over the course of my career. Learn about some of my [contributions to social justice and education](https://thi-truong.github.io/contributions/).
 
