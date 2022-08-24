@@ -8,8 +8,6 @@ redirect_from:
   - /about.html
 ---
 
-#  Hello!
-
 <img src="/images/thi-microscope-lab-01.png" alt="Thi in front of a Meiji microscope, wearing blank hoodie and mask. A box of Kimtech wipes is an easy reach away" width="500"/>
 
 My name is Thi Truong ([hear name pronunciation](https://namedrop.io/thitruong)). I use geochemistry to understand processes that create anomalous, intraplate volcanism on Earth. My focus is on the creation and evolution of oceanic islands and seamounts, which are understood to contain signals of the mantle. 
