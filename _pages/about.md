@@ -16,7 +16,7 @@ My name is Thi Truong ([hear name pronunciation](https://namedrop.io/thitruong))
 
 I am currently a PhD Candidate in Geology at Oregon State University. I am originally from San Diego, California.
 
-My examinations focus on one type of rock (basalt), but considers the behavior of more than half of the elements listed of the periodic table! For specifics about my research objectives and results, check out my [research page](/_pages/research).
+My examinations focus on one type of rock (basalt), but considers the behavior of more than half of the elements listed of the periodic table! For specifics about my research objectives and results, check out my [research page](/research).
 
 # Teaching and practice
 
