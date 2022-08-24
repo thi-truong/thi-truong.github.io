@@ -27,7 +27,7 @@ Rocks have never been self-explanatory, yet the pace of undergraduate geology co
 
 I continuously challenge myself to disrupt this pattern with the little time that I have. My teaching philosophy focuses on generating authentic connections with the practice of science and scientific thinking. I create opportunities for students to practice "seeing" and recognizing patterns, and emphasize documenting observations first. To address the problem of overwhelm and jargon, I give scaffolded instruction with examples, exemplars, and encourage students to seek digital resources/Internet content.
 
-I emphasize that geology is primarily a historical science. Though I teach about individual thinkers if they play a large role in advancing controversies, I avoid the hero narrative and emphasize the social aspect of scientific communities, and the role of consensus. I am interested in geoscience misconceptions (especially about plate tectonics and Earth's interior), and am always thinking of ways to reduce their persistence.
+I emphasize that geology is primarily a historical science. Though I teach about individual thinkers if they play a large role in advancing controversies, I avoid the hero narrative and emphasize the social aspect of scientific communities, and the role of consensus. I am interested in geoscience misconceptions (especially about plate tectonics and Earth's interior), and am always thinking of ways to reduce their persistence. 
 
 # Questions I'm thinking about
 
