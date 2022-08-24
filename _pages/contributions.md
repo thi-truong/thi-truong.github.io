@@ -42,7 +42,11 @@ This video shows how one might use cleavage traces of two unknown pyroxene miner
  
 [Link to YouTube recording of event](https://www.youtube.com/watch?v=EKhZKJEdODk/), or click thumbnail. 
  
-I coordinated multiple aspects of a 2021 keynote event with Dr. Aradhna Tripati (UCLA, CDLS). Planned initial conception of in-person event in October 2019 to execution of virtual event in May 2021. The first year's planning efforts resulted in an original date, late May 2020. After much uncertainty amidst the pandemic, we successfully held the event during a 2-day "virtual" keynote visit, with ~$1,000 more support than the previous year, thanks to co-sponsorship by additional campus and off-campus stakeholders. To ensure audience engagement during the virtual event, the budget included accommodations for the keynote event and undergraduate student participation in a workshop. This event reflects continued efforts and success in delivering relevant and timely educational events, whether they are in-person, hybrid, or virtual.
+I coordinated multiple aspects of a 2021 keynote event with Dr. Aradhna Tripati (UCLA, CDLS). Planned initial conception of in-person event in October 2019 to execution of virtual event in May 2021. The first year's planning efforts resulted in an original date, late May 2020.
+
+After much uncertainty amidst the pandemic, we successfully held the event during a 2-day "virtual" keynote visit, with ~$1,000 more support than the previous year, thanks to co-sponsorship by additional campus and off-campus stakeholders. To ensure audience engagement during the virtual event, the budget included accommodations for the keynote event and undergraduate student participation in a workshop.
+
+This event reflects continued efforts and success in delivering relevant and timely educational events, whether they are in-person, hybrid, or virtual.
 
 <details>
 <summary>Roles</summary>
