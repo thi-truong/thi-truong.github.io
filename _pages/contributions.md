@@ -9,11 +9,9 @@ Below are some of my materials prepared for introductory college and university 
 
 # Teaching
 
-Rocks have never been self-explanatory, yet the pace of undergraduate geology courses seem to suggest they are. In laboratory classrooms, we ask students to become adept at identifying rocks and minerals and associate them with specific geologic phenomena immediately. I have observed that students often rely on sight, memorization, and likely instinct, to finish assignments. The experience bears little resemblance to the practice of geology, and is inconsistent with the long history of classification of minerals and rocks.
+Rocks have never been self-explanatory, yet the pace of undergraduate geology courses seem to suggest they are. In laboratory classrooms, we ask students to become adept at identifying rocks and minerals and associate them with specific geologic phenomena immediately. I have observed that students often rely on sight, memorization, and likely instinct, to finish assignments. The experience bears little resemblance to the practice of geology, and is inconsistent with the long history of classification of minerals and rocks
 
-My teaching philosophy focuses on generating authentic connections with the practice of science and scientific thinking. I create opportunities for students to practice "seeing" and recognizing patterns, and emphasize documenting observations first. To address overwhelm and jargon, I give scaffolded instruction with examples, exemplars, and encourage students to seek digital resources/Internet content.
-
-I emphasize that geology is primarily a historical science. I avoid the hero narrative and emphasize the social aspect of scientific communities, and the role of consensus. I am also interested in geoscience misconceptions (especially about plate tectonics and Earth's interior), and am always thinking of ways to reduce their persistence. Creating accessible material is also a huge effort of mine.
+When teaching, especially in laboratory sections, I create opportunities for students to practice "seeing" and recognizing patterns, while being sensitive to disability and strategies to incorporate universal design. To address overwhelm and jargon, I give scaffolded instruction with examples, exemplars, and encourage students to seek digital resources/Internet content.
 
 
 ## Example tutorial for optical mineralogy students
