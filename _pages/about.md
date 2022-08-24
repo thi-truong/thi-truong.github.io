@@ -23,7 +23,7 @@ Some of my interests:
 
 # Teaching
 
-My teaching philosophy focuses on generating authentic connections with the practice of science and scientific thinking. I create opportunities for students to practice "seeing" and recognizing patterns, and emphasize documenting observations. In addition, creating accessibility and universal design when I create teaching materials. I also emphasize geology as a historical science, the social aspect of scientific communities, and the role of consensus. I am also interested in the origin of geoscience misconceptions (especially about plate tectonics and Earth's interior), and ways to address and disrupt their persistence. Learn about some of my [contributions to social justice and education](https://thi-truong.github.io/contributions/).
+My teaching philosophy focuses on generating authentic connections with the practice of science and scientific thinking. For laboratory settings, I create opportunities for students to practice "seeing" and recognizing patterns, while being sensitive to disability and strategies to incorporate universal design. While teaching concepts, I emphasize geology as a historical science, the social aspect of scientific communities, and the role of consensus. I am also interested in the origin of geoscience misconceptions (especially about plate tectonics and Earth's interior), and ways to address and disrupt their persistence. Learn about some of my [contributions to social justice and education](https://thi-truong.github.io/contributions/).
 
 # Questions I'm thinking about
 
