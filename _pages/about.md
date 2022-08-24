@@ -27,15 +27,9 @@ My teaching philosophy focuses on generating authentic connections with the prac
 
 Learn about some of my [contributions to social justice and education](https://thi-truong.github.io/contributions/).
 
-# Questions I'm thinking about
 
-Scientific advances reflect the work of scholarly communities, whether they are equitable or not. I invite the geoscience community to engage in these questions with me:
-
-* If Geology is a global science, then why is exclusion the norm? 
-* How can we dismantle this exclusion today?
-
-I seek to answer such questions over the course of my career.
+[comment]: # (Scientific advances reflect the work of scholarly communities, whether they are equitable or not. I invite the geoscience community to engage in these questions with me: If Geology is a global science, then why is exclusion the norm? How can we dismantle this exclusion today? I seek to answer such questions over the course of my career.)
 
 # Connect with me
 
-Feel free to e-mail me (truonthi@oregonstate.edu).
+Feel free to e-mail me (truonthi@oregonstate.edu) or connect on [Twitter](https://twitter.com/bostonthiparty)
