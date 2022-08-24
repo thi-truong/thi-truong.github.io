@@ -5,10 +5,11 @@ permalink: /contributions/
 author_profile: true
 ---
 
-Below are some of my materials prepared for introductory college and university upper-division teaching, and recent contributions to social justice in STEM. I have taught laboratory components of oceanography, mineralogy, petrology, and general geology classes. I have facilitated 2 panel discussions (WOC panel AAPIiG International Scholars) amd 2 conference activities (GSA Pardee, SNC).
+Below are some of my materials prepared for introductory college and university upper-division teaching, and recent contributions to social justice in STEM. I have taught laboratory components of oceanography, mineralogy, petrology, and general geology classes.
 
 # Teaching
 
+Rocks have never been self-explanatory, yet the pace of undergraduate geology courses seem to suggest they are. When teaching, especially in laboratory sections, I create opportunities for students to practice "seeing" and recognizing patterns, while being sensitive to disability and strategies to incorporate universal design.
 
 [comment]: # (Rocks have never been self-explanatory, yet the pace of undergraduate geology courses seem to suggest they are. In laboratory classrooms, we ask students to become adept at identifying rocks and minerals and associate them with specific geologic phenomena immediately. I have observed that students often rely on sight, memorization, and likely instinct, to finish assignments. The experience bears little resemblance to the practice of geology, and is inconsistent with the long history of classification of minerals and rocks. When teaching, especially in laboratory sections, I create opportunities for students to practice "seeing" and recognizing patterns, while being sensitive to disability and strategies to incorporate universal design. To address overwhelm and jargon, I give scaffolded instruction with examples, exemplars, and encourage students to seek digital resources/Internet content.)
 
