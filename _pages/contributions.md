@@ -64,13 +64,13 @@ I coordinated multiple aspects of a 2021 keynote event with Dr. Aradhna Tripati 
 For more information, see the [Unpacking Diversity Keynote 2021 page](https://unpackingdiversity.wixsite.com/ceoas/keynote-2021), which lists other events hosted as part of the 2-day event.
     
 ## Compiling NSF demographic data in the geosciences
+
+<a href="/images/NSF-Table-16-Earth-Sciences-doctorate-data.png"><img src="/images/NSF-Table-16-Earth-Sciences-doctorate-data.png" align="left" style="width:400px" alt="Graph showing number of U.S. Doctorates in Earth Sciences, by ethnicity. X-axis shows years 2008 to 2018. Y-axis shows number of degree recipients, from 0 to 400. Dots connected by lines are color coded to show different ethnicities: Black - Total, Grey - White, Purple - Hispanic or Latino, Black or African-American, Orange - Asian, Green - Native Hawaiian or Other Pacific Islander, Blue - More than one race, Gold - American Indian or Alaska Native. In 2008, the total number of degree recipients was around 275, with white recipients accounting for nearly 250. In 2018, total recipients increased to about 375. White recipients make up over 300 of those recipients. Almost no change observed from 2016 to 2018.">
+</a>
    
 Inspired by Dr. Rachel Bernard's paper, [No progress in geoscience for 40 years](https://www.nature.com/articles/s41561-018-0116-6), and [her blog post during her PhD years](https://www.jsg.utexas.edu/science-yall/who-gets-geology-phds/), it was evident that data from 1973-2016 showed a dismal outcome for Black and Indigineous students in the geosciences.
 
 When new data from the [NSF Survey of Earned Doctorates](https://www.nsf.gov/statistics/srvydoctorates/) was released in 2020, I was motivated to see if two years of additional data (2017, 2018) would show the same trends that Dr. Bernard found. I compiled the new data and created these plots to assess if progress had occurred since 2016. These were shared on the Unpacking Diversity Twitter.
-
-<a href="/images/NSF-Table-16-Earth-Sciences-doctorate-data.png"><img src="/images/NSF-Table-16-Earth-Sciences-doctorate-data.png" style="width:400px" alt="Graph showing number of U.S. Doctorates in Earth Sciences, by ethnicity. X-axis shows years 2008 to 2018. Y-axis shows number of degree recipients, from 0 to 400. Dots connected by lines are color coded to show different ethnicities: Black - Total, Grey - White, Purple - Hispanic or Latino, Black or African-American, Orange - Asian, Green - Native Hawaiian or Other Pacific Islander, Blue - More than one race, Gold - American Indian or Alaska Native. In 2008, the total number of degree recipients was around 275, with white recipients accounting for nearly 250. In 2018, total recipients increased to about 375. White recipients make up over 300 of those recipients. Almost no change observed from 2016 to 2018.">
-</a>
 
 Example of data for Earth Sciences majors shown above. View the full set of plots in the [Twitter thread](https://twitter.com/UnpkngDIVERSITY/status/1273507530509959168).
 
