@@ -28,3 +28,7 @@ Another important point to emphasize is that scientific contributions are the re
 * How can we dismantle this exclusion today?
 
 I seek to answer such questions over the course of my career. Learn about some of my [contributions to social justice and education](https://thi-truong.github.io/contributions/).
+
+# Connect with me
+
+Feel free to e-mail me (truonthi@oregonstate.edu). I enjoy connecting with all types of geoscientists as well as science education and communication experts, and historians and philosophers.
