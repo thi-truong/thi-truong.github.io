@@ -7,8 +7,16 @@ author_profile: true
 
 Below are some of my materials prepared for introductory college and university upper-division teaching, and recent contributions to social justice in STEM. I have taught laboratory components of oceanography, mineralogy, petrology, and general geology classes. I have facilitated 2 panel discussions (WOC panel AAPIiG International Scholars) amd 2 conference activities (GSA Pardee, SNC).
 
+# Teaching
 
-# Example tutorial for optical mineralogy students
+Rocks have never been self-explanatory, yet the pace of undergraduate geology courses seem to suggest they are. In laboratory classrooms, we ask students to become adept at identifying rocks and minerals and associate them with specific geologic phenomena immediately. I have observed that students often rely on sight, memorization, and likely instinct, to finish assignments. The experience bears little resemblance to the practice of geology, and is inconsistent with the long history of classification of minerals and rocks.
+
+My teaching philosophy focuses on generating authentic connections with the practice of science and scientific thinking. I create opportunities for students to practice "seeing" and recognizing patterns, and emphasize documenting observations first. To address overwhelm and jargon, I give scaffolded instruction with examples, exemplars, and encourage students to seek digital resources/Internet content.
+
+I emphasize that geology is primarily a historical science. I avoid the hero narrative and emphasize the social aspect of scientific communities, and the role of consensus. I am also interested in geoscience misconceptions (especially about plate tectonics and Earth's interior), and am always thinking of ways to reduce their persistence. Creating accessible material is also a huge effort of mine.
+
+
+## Example tutorial for optical mineralogy students
 
  <a href="https://www.youtube.com/watch?v=muPhXJS_qwk/"><img src="https://img.youtube.com/vi/muPhXJS_qwk/0.jpg" style="width:400px" alt="Thumbnail showing two views of mineral under microscope. Left side shows straight lines across light background. This is clinopyroxene under plane polarized light. Right side shows same view under cross polarized light where the light areas are now all dark. This indicates that this is clinopyroxene, because the lines do not align vertically, but are diagonal.">
       </a>
@@ -30,7 +38,9 @@ Instructional video for undergraduate optical mineralogy students to distinguish
 </details>
 
 
-# 2021 Unpacking Diversity Keynote Event
+# Justice and Access
+
+## 2021 Unpacking Diversity Keynote Event
 
  <a href="https://www.youtube.com/watch?v=EKhZKJEdODk/"><img src="https://img.youtube.com/vi/EKhZKJEdODk/0.jpg" style="width:400px" alt="YouTube thumbnail showing Zoom Webinar with views of Thi Truong, speaker Aradhna Tripati, interpreter"></a>
  
@@ -57,7 +67,7 @@ I coordinated multiple aspects of a 2021 keynote event with Dr. Aradhna Tripati 
 
 For more information, see the [Unpacking Diversity Keynote 2021 page](https://unpackingdiversity.wixsite.com/ceoas/keynote-2021), which lists other events hosted as part of the 2-day event.
     
-# Compiling NSF demographic data in the geosciences
+## Compiling NSF demographic data in the geosciences
    
 Inspired by Dr. Rachel Bernard's paper, [No progress in geoscience for 40 years](https://www.nature.com/articles/s41561-018-0116-6), and [her blog post during her PhD years](https://www.jsg.utexas.edu/science-yall/who-gets-geology-phds/), it was evident that data from 1973-2016 showed a dismal outcome for Black and Indigineous students in the geosciences.
 
