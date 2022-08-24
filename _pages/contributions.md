@@ -16,8 +16,8 @@ When teaching, especially in laboratory sections, I create opportunities for stu
 
 ## Example tutorial for optical mineralogy students
 
- <a href="https://www.youtube.com/watch?v=muPhXJS_qwk/"><img src="https://img.youtube.com/vi/muPhXJS_qwk/0.jpg" style="width:400px" align="left” alt="Thumbnail showing two views of mineral under microscope. Left side shows straight lines across light background. This is clinopyroxene under plane polarized light. Right side shows same view under cross polarized light where the light areas are now all dark. This indicates that this is clinopyroxene, because the lines do not align vertically, but are diagonal.">
-      </a> 
+ <a href="https://www.youtube.com/watch?v=muPhXJS_qwk/"><img src="https://img.youtube.com/vi/muPhXJS_qwk/0.jpg" style="width:400px" alt="Thumbnail showing two views of mineral under microscope. Left side shows straight lines across light background. This is clinopyroxene under plane polarized light. Right side shows same view under cross polarized light where the light areas are now all dark. This indicates that this is clinopyroxene, because the lines do not align vertically, but are diagonal.">
+      </a>
       
 Instructional video for undergraduate optical mineralogy students to distinguish between clinopyroxene/orthopyroxene in thin section. No sound. [Link to YouTube Video](https://www.youtube.com/watch?v=muPhXJS_qwk/) or click thumbnail above.
 
