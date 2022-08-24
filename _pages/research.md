@@ -21,6 +21,7 @@ Suite of Pb isotopes will be collected to test for heterogeneity the underlying 
 
 Read the full article in *Chemical Geology*:
 * **[Publisher's website](https://doi.org/10.1016/j.chemgeo.2017.11.024)** or **[pdf copy](https://thi-truong.github.io/files/Truong2018.pdf)**
+* * [2018 Presentation slides (pdf)](/_talks/2018-04-12-JF)
 
 These are an enigmatic group of islands off the coast of Chile. They are historically uninhabited, aside from goats, lobsters, and a poor shipwrecked soul. Picrites (basalts with a significant volume % of olivines) were originally termed *masafuerites*, named after the specimens found here. Lava samples from this small island group near Chile have puzzled geochemists since the 1980s. By the early 1990s, mantle geochemists constructed various flavors of mantle endmember compositions that might be sampled by oceanic islands. 
 
