@@ -23,10 +23,16 @@ Instructional video for undergraduate optical mineralogy students to distinguish
 
 <details>
 <summary>Sample narrative for teaching</summary>
+ 
+This video shows how one might use cleavage traces of two unknown pyroxene minerals for identification. Set up the view of the mineral in plane polarized light.
 <ul>
-  <li>Adele</li>
+<li>Locate cleavage traces (dark lines) and align them so they are vertically aligned up/down with crosshairs. This is the starting angle.</li>
+<li>Switch to cross-polarized light and observe if extinction occurs while remaining in this view.</li>
+<li>If the mineral is extinct, then 0 degrees of rotation was needed to observe extinction. The extinction angle is 0. This indicates orthopyroxene[^1].</li>
+<li>If I must rotate the stage to see extinction, then this means the extinction angle is greater than 0. This indicates inclined extinction, and the mineral is clinopyroxene  (see note).</li>
  </ul>
-
+[^1]: Looking down the {100} face of clionopyroxene may produce parallel extinction. Be sure to examine several grains and use other diagnostic observations to support your identification.
+ 
 </details>
 
 
