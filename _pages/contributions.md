@@ -21,19 +21,17 @@ When teaching, especially in laboratory sections, I create opportunities for stu
       
 Instructional video for undergraduate optical mineralogy students to distinguish between clinopyroxene/orthopyroxene in thin section. No sound. [Link to YouTube Video](https://www.youtube.com/watch?v=muPhXJS_qwk/) or click thumbnail above.
 
-<details>
-<summary>Sample narrative for teaching</summary>
+### Sample narrative for teaching
  
 This video shows how one might use cleavage traces of two unknown pyroxene minerals for identification. Set up the view of the mineral in plane polarized light.
-<ul>
-<li>Locate cleavage traces (dark lines) and align them so they are vertically aligned up/down with crosshairs. This is the starting angle.</li>
-<li>Switch to cross-polarized light and observe if extinction occurs while remaining in this view.</li>
-<li>If the mineral is extinct, then 0 degrees of rotation was needed to observe extinction. The extinction angle is 0. This indicates orthopyroxene[^1].</li>
-<li>If I must rotate the stage to see extinction, then this means the extinction angle is greater than 0. This indicates inclined extinction, and the mineral is clinopyroxene  (see note).</li>
- </ul>
+
+1. Locate cleavage traces (dark lines) and align them so they are vertically aligned up/down with crosshairs. This will be the starting angle to test for parallel extinction.
+2. Switch to cross-polarized light and observe if extinction occurs while remaining in this view.
+3. If the mineral remains extinct without rotating the stage, then the extinction angle is 0 degrees That means this has parallel extinction and is likely orthopyroxene[^1].
+4. If I must rotate the stage to see extinction, then this means the extinction angle is greater than 0. This indicates inclined extinction, and the mineral is clinopyroxene
+
 [^1]: Looking down the {100} face of clionopyroxene may produce parallel extinction. Be sure to examine several grains and use other diagnostic observations to support your identification.
  
-</details>
 
 
 # Justice and Access
