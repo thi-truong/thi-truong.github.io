@@ -5,7 +5,7 @@ permalink: /contributions/
 author_profile: true
 ---
 
-Below are some of my materials prepared for introductory college and university upper-division teaching, and recent contributions to social justice in STEM. I have taught laboratory components of oceanography, mineralogy, petrology, and general geology classes.
+Below are some of my materials prepared for introductory college and university upper-division teaching, and recent contributions to social justice in STEM. I have taught laboratory components of oceanography, mineralogy, petrology, and general geology classes. I have facilitated 2 panel discussions (WOC panel AAPIiG International Scholars) amd 2 conference activities (GSA Pardee, SNC).
 
 
 # Example tutorial for optical mineralogy students
