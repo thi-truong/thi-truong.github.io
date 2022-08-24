@@ -19,7 +19,7 @@ Manuscript in progress, results were presented at [AGU 2021 Fall Meeting](https:
 
 Suite of Pb isotopes will be collected to test for heterogeneity the underlying mantle source.
 
-<img src="images/thi-pb-isotopes.jpg" alt="Thi in clean lab attire (coat, hair net), black mask in front of computer. Multi-collector ICP-MS measurements are underway, seen on screen as peak intensity plots." width="600px">
+<img src="/images/thi-pb-isotopes.jpg" alt="Thi in clean lab attire (coat, hair net), black mask in front of computer. Multi-collector ICP-MS measurements are underway, seen on screen as peak intensity plots." width="600px">
 
 #  The mantle plume source of the Juan Fernández Islands
 
