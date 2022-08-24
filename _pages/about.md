@@ -31,4 +31,4 @@ I seek to answer such questions over the course of my career. Learn about some o
 
 # Connect with me
 
-Feel free to e-mail me (truonthi@oregonstate.edu). I enjoy connecting with all types of geoscientists as well as science education and communication experts, and historians and philosophers.
+Feel free to e-mail me (truonthi@oregonstate.edu).
