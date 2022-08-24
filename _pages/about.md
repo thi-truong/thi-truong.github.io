@@ -33,7 +33,6 @@ Scientific advances reflect the work of scholarly communities, whether they are 
 
 * If Geology is a global science, then why is exclusion the norm? 
 * How can we dismantle this exclusion today?
-* How can history and philosophy of geochemistry guide us in our collaborations for the next big synthesis of the interior?
 
 I seek to answer such questions over the course of my career.
 
