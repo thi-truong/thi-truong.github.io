@@ -23,7 +23,7 @@ Some of my interests:
 * Origin and behavior of volatiles and their distribution in the solid Earth
 * How the mantle plume hypothesis holds up over time, across global studies, in the study of intraplate ocean islands
 
-# Teaching
+# Teaching and Practice
 
 My teaching philosophy focuses on generating authentic connections with the practice of science and scientific thinking. While teaching concepts, I emphasize geology as a historical science, the social aspect of scientific communities, and the role of consensus. I am also interested in the origin of geoscience misconceptions (especially about plate tectonics and Earth's interior), and ways to address and disrupt their persistence.
 
