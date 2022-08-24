@@ -11,15 +11,10 @@ author_profile: true
 
 Manuscript in progress, results were presented at [AGU 2021 Fall Meeting](https://thi-truong.github.io/talks/2021-12-14-AGU)
 
-
-
-<img src="/images/thi_helium_lab.jpg" alt="Thi in noble gas lab, black mask in front of computer. Helium measurements are underway. Nu software showing extraction line settings is seen on screen behind her." width="600px">
-
 ## Spatial variability of Pb isotopes (current/upcoming)
 
 Suite of Pb isotopes will be collected to test for heterogeneity the underlying mantle source.
 
-<img src="/images/thi-pb-isotopes.jpg" alt="Thi in clean lab attire (coat, hair net), black mask in front of computer. Multi-collector ICP-MS measurements are underway, seen on screen as peak intensity plots." width="600px">
 
 #  The mantle plume source of the Juan Fernández Islands
 
