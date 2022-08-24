@@ -29,8 +29,5 @@ These are an enigmatic group of islands off the coast of Chile. They are histori
 ## Results
 
 * The mantle source of Juan Fernández is heterogeneous but well-mixed and can be characterized as dominantly FOZO.
-* Low-3He/4He samples need not derive from depleted mantle material, and the isotope signature of Alexander Selkirk late stage basalts depict a possible EM2 source.
+* Low-<sup>He</sup>/<sup>4</sup>He samples need not derive from depleted mantle material, and the isotope signature of Alexander Selkirk late stage basalts depict a possible EM2 source.
 * Overall, the trace element compositions, Sr-Nd-Pb isotopes of lavas and Sr-Nd of olivines indicate variable sampling of a dominantly FOZO-like source during shield and post-shield volcanic stages. 
-
-Findings were integrated to produce a schematic of plume and island chain evolution over 4 million years.
-
