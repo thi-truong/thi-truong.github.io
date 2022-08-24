@@ -23,11 +23,7 @@ Some of my interests:
 
 # Teaching
 
-Rocks have never been self-explanatory, yet the pace of undergraduate geology courses seem to suggest they are. In laboratory classrooms, we ask students to become adept at identifying rocks and minerals and associate them with specific geologic phenomena immediately. I have observed that students often rely on sight, memorization, and likely instinct, to finish assignments. The experience bears little resemblance to the practice of geology, and is inconsistent with the long history of classification of minerals and rocks.
-
-My teaching philosophy focuses on generating authentic connections with the practice of science and scientific thinking. I create opportunities for students to practice "seeing" and recognizing patterns, and emphasize documenting observations first. To address overwhelm and jargon, I give scaffolded instruction with examples, exemplars, and encourage students to seek digital resources/Internet content.
-
-I emphasize that geology is primarily a historical science. I avoid the hero narrative and emphasize the social aspect of scientific communities, and the role of consensus. I am also interested in geoscience misconceptions (especially about plate tectonics and Earth's interior), and am always thinking of ways to reduce their persistence. Creating accessible material is also a huge effort of mine.
+My teaching philosophy focuses on generating authentic connections with the practice of science and scientific thinking. I create opportunities for students to practice "seeing" and recognizing patterns, and emphasize documenting observations. In addition, creating accessibility and universal design when I create teaching materials. I also emphasize geology as a historical science, the social aspect of scientific communities, and the role of consensus. I am also interested in the origin of geoscience misconceptions (especially about plate tectonics and Earth's interior), and ways to address and disrupt their persistence. Learn about some of my [contributions to social justice and education](https://thi-truong.github.io/contributions/).
 
 # Questions I'm thinking about
 
@@ -37,7 +33,7 @@ Scientific advances reflect the work of scholarly communities, whether they are 
 * How can we dismantle this exclusion today?
 * How can history and philosophy of geochemistry guide us in our collaborations for the next big synthesis of the interior?
 
-I seek to answer such questions over the course of my career. Learn about some of my [contributions to social justice and education](https://thi-truong.github.io/contributions/).
+I seek to answer such questions over the course of my career.
 
 # Connect with me
 
