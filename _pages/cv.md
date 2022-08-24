@@ -7,9 +7,7 @@ redirect_from:
   - /resume
 ---
 
-{% include base_path %}
-
-View full version of [CV here](https://thi-truong.github.io/files/CV_Truong_web-21-06-19.pdf)[^1].
+View full version of [CV here](https://thi-truong.github.io/files/CV_Truong_web-21-06-19.pdf)
 
 <b>Education</b>
 * Ph.D in Geology, Oregon State University (2017--present)
@@ -31,5 +29,3 @@ View full version of [CV here](https://thi-truong.github.io/files/CV_Truong_web-
 <b>Positions</b>
 * 2019 - 2021 - Graduate Research Assistant, OSU, NSF-funded project to study C-He isotopes at Loihi Seamount and implications for mantle dynamics. Prepared 53 submarine glass samples from Loihi seamount and analyzed for CO2-He concentrations and isotopes in melt/vesicles by noble gas mass spectrometry (MS), trace elements by laser ablation-ICP-MS. 
 * 2018 - Graduate Teaching Assistant, OSU, Argon Geochronology Laboratory. Aid in lab operations, mineral separation processes to prepare samples for Ar-Ar geochronology.
-
-[^1]: Last edited on 2021-10-23.
