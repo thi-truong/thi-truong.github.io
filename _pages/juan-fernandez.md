@@ -10,7 +10,7 @@ author_profile: true
 
 **Motivation and Context**:
 * By the late 1980s, mantle geochemists constructed various flavors of mantle endmember compositions within oceanic island lavas [^1].
-* Explorations of the historically uninhabited Juan Fernandez Islands[^2] near the coast of Chile revealed basalts with significant olivine crystals[^3].
+* Explorations of the historically uninhabited Juan Fernandez Islands[^2] near Chile revealed basalts with high volumes of olivine crystals[^3].
 * The coarse olivines were promising candidates for Helium isotope analyses. A range of <sup>3</sup>He/<sup>4</sup>He=12-18 R<sub>A</sub> from the older, larger island, was consistent with a deeply sourced mantle plume. However, lavas from the younger island exhibited a narrow range similar to MORB = 8-11 R<sub>A</sub>[^4]. 
 * Sr-Nd isotopes measured in lavas were homogeneous, yet inconsistent with MORB-OIB mixing.
 * Another study of global oxygen isotopes grouped Juan Fernandez with other high-<sup>3</sup>He/<sup>4</sup>He localities, for their similar ratios [^5].
