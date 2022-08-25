@@ -7,7 +7,7 @@ author_profile: true
 
 #  The mantle plume source of the Juan Fernández Islands
 
-**Motivation**:
+**Motivation and Context**:
 By the late 1980s, mantle geochemists constructed various flavors of mantle endmember compositions within oceanic island lavas [^1]. Explorations of the historically uninhabited Juan Fernandez Islands[^2] near the coast of Chile revealed basalts containing a large volume of olivine crystals[^3]. The coarse olivines were promising candidates for Helium isotope analyses. A range of <sup>3</sup>He/<sup>4</sup>He=12-18 R<sub>A</sub> on the older, larger island, was consistent with a deeply sourced mantle plume. However, the younger island were more restricted in their range, and the range was similar to MORB lavas=8-11 R<sub>A</sub>[^4]. Sr-Nd isotopes measured in lavas were homogeneous, and inconsistent with MORB-OIB mixing. Oxygen isotopes were typical of other high-<sup>3</sup>He/<sup>4</sup>He localities[^5]. Skeptics of deep mantle plume sources proposed a xenocryst origin of the olivines, where the Helium isotope ratios were from volatiles pervading shallow magma chambers [^6]. 
 
 **Research Questions**:
