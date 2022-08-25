@@ -1,7 +1,7 @@
 ---
 layout: archive
 title: "Research: Lō‘ihi Seamount"
-permalink: /research/
+permalink: /loihi-helium/
 author_profile: true
 ---
 
