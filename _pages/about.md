@@ -34,4 +34,4 @@ Learn about some of my [contributions to social justice and education](https://t
 
 # Connect with me
 
-[E-mail me](truonthi@oregonstate.edu){: .btn .btn--primary} or connect on [Twitter](https://twitter.com/bostonthiparty)
+[E-mail me](#truonthi@oregonstate.edu){: .btn .btn--primary} or connect on [Twitter](https://twitter.com/bostonthiparty)
