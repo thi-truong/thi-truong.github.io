@@ -1,6 +1,6 @@
 ---
 layout: archive
-title: "Research: Juan Fernandez"
+title: "Research"
 permalink: /juan-fernandez/
 author_profile: true
 ---
