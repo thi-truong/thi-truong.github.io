@@ -35,3 +35,4 @@ We found that the mantle source of Juan Fernández is heterogeneous but well-mix
 [^3]: In reference to the island's name, the basalts were were deemed *masafuerites* at first. This was phased out and replaced with the general *picrite*
 [^4]: Farley (1991) and Farley et al. (1993)
 [^5]: Eiler et al. (1997)
+[^6]: Natland (2003)
