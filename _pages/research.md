@@ -32,6 +32,7 @@ Suite of Pb isotopes will be collected to test for heterogeneity the underlying 
 * Do trace elements reveal differences in magmatic evolution between the older and younger island?
 * Are isotopic ratios, overall, a product of mantle plume evolution or variation, or mixing with MORB mantle? 
 
+**Summary**
 We found that the mantle source of Juan Fernández is heterogeneous but well-mixed and can be characterized as dominantly FOZO. Low-<sup>3</sup>He/<sup>4</sup>He samples need not derive from depleted mantle material, and the isotope signature of Alexander Selkirk late stage basalts depict a possible EM2 source. Overall, the trace element compositions, Sr-Nd-Pb isotopes of lavas and Sr-Nd of olivines indicate variable sampling of a dominantly FOZO-like source during shield and post-shield volcanic stages. 
 
 [^1]: Zindler and Hart (1986), in which a call to geochemical philosophers was made.
