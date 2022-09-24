@@ -36,3 +36,32 @@ There are almost 5,000 values in this sheet, so I wanted to see if I could strea
 ![image](https://user-images.githubusercontent.com/92915699/192112774-2bb7872b-45ae-4efc-9967-e6014b90abd5.png)
 
 For series 1-5, I wrote them all out. For 7, I thought, oh I could just copy and paste and still use the keyboard shortcut. but that spit me out to the beginning. So I just went through the whole thing again with the keyboard shortcut. By the time I got to 13, I decided to just manually scroll through the rows, spot new series numbers, and simply copy and paste the rows, and add 1 later to each number in the leftmost column.
+
+![image](https://user-images.githubusercontent.com/92915699/192112869-a447ff2d-f497-46c8-980b-703b19d32ebf.png)
+
+Though I could easily pull down the formula to easily calculate the rest up to row 26, I had to delete the first row without compromising the latter. So I copied the new calculations and pasted into a new column, then replaced the calculation column so that I could safely delete the stuff in column A without causing errors.
+
+Next step was to fill in column D "Row End" with the next row start minus 1. Added 4940 for the last, or else it was -1.
+![image](https://user-images.githubusercontent.com/92915699/192112978-a4a285fe-169f-446c-91c8-ec2d0624b33d.png)
+
+Did a random check with series 7 Samoa and series 22 Iceland to make sure the row start and ends are correct, and indeed they are.
+
+By this time, the process has taken 30 minutes. I paste over the info as plain text in a new tab "Information". I had been doing this all in another sheet solely so that I could have windows side by side. This is way easier than navigating tab-to-tab within one sheet (I get lost easily and forget what I was doing).
+
+I experiment with making an Sr-Nd plot that has all the series with correct names. I make the first one for Series 1 and 2 by manually dragging the "Select data" tool to the spreadsheet. For the rest, I want to semi-automate it by changing the data cell numbers (rows). I may manually select the locality names but we'll see. The pai of plots-in-progress in Excel are that I never know where to find them within the sheet when I am done selecting the data. This plot sits in the rows where presumably, the last series group starts. At least I think that's the logic. Still tough in a nearly 5,000 row sheet. I do not make the plot in anew tab because of aforementioned object permanence issues, but maybe soon I can do that.
+
+![image](https://user-images.githubusercontent.com/92915699/192113168-bdd28b54-1994-456f-bd58-4254a2b2d89f.png)
+
+I will follow this template for the rest. One screen has the working Excel sheet, and the other screen has the information for reference.
+
+Left screen, where the action happens (external monitor, large):
+![image](https://user-images.githubusercontent.com/92915699/192113203-f8106b2a-11a7-4a9a-92ee-dabeeb2c3420.png)
+
+Reference screen (laptop), to the right:
+
+![image](https://user-images.githubusercontent.com/92915699/192113194-212f9f7b-91c3-42f6-9cbb-748d87a3eed6.png)
+
+
+
+![image](https://user-images.githubusercontent.com/92915699/192113128-03d4e123-35bb-4688-8c0c-4be93abd8ee9.png)
+
