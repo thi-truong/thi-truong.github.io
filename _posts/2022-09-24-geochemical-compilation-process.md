@@ -21,17 +21,16 @@ Today, I am making a simple "mantle components"/endmember/reservoir (I should kn
 
 ## Microsoft Excel
 
-* Download the supplementary file, which has the amazing file name "1-s2.0-S000925411200366X-mmc1.xls". It goes into "My Downloads" folder on Windows.
+### Getting set up:
+
+* I downloaded the supplementary file, which has the amazing file name "1-s2.0-S000925411200366X-mmc1.xls". It goes into "My Downloads" folder on Windows.
 * Move the file to Hawaiian Literature--> Supplementary Data Files-->rename to Stracke2012-supp-table-1. Get lost trying to find "open in new window" option in the huge Windows right click toolbar.
 * Table 1 shows 2 tabs: "Data" and "References". I will duplicate "Data" and then rename former to "Data (original)", "References (original)".
 * I work in "Data" tab, knowing that the original data is also within reach, if needed.
-* Assign unique number values into left side. There is probably a better way to do this, but I have them as 1 to 4939. I also freeze paned first column and row for ease of looking at the data. 
+* I inspect [the data sheet](https://user-images.githubusercontent.com/92915699/192112241-4b9f13e0-2007-405e-ba4f-5a9fbe7fe2c4.png) to see what I am working with. I want to produce a sheet where every row/column is a value, so I look for remove columns that are not needed. I end up deleting C and D because they are not numerical and will not be useful when plotting (not to worry, the data still lives in the other tab, "Data (original)".
+* I assigned [unique number values into leftmost column](https://user-images.githubusercontent.com/92915699/192112331-6b066799-d89c-4462-82ef-df72f467a575.png. There is probably a better way to do this, but I have them as 1 to 4939. I also freeze paned first column and row for ease of looking at the data. 
 
-![image](https://user-images.githubusercontent.com/92915699/192112331-6b066799-d89c-4462-82ef-df72f467a575.png)
-
-* I inspect what I am working with. I want to produce a sheet where every row/column is a value, so I look for remove columns that are not needed. I end up deleting C and D because they are not numerical and I can go back to that data any time because of the unique numbers I made. Renamed Series name to the new labels that I want. I am keeping the series number because it is actually useful (I can use it as a JCode or something).
-
-![image](https://user-images.githubusercontent.com/92915699/192112241-4b9f13e0-2007-405e-ba4f-5a9fbe7fe2c4.png)
+### Creating an Sr-Nd plot where the 25 groups are shown with different symbols
 
 There are almost 5,000 values in this sheet, so I wanted to see if I could streamline grouping everything without turning it all into a table. [Learned how to jump to unique values](https://superuser.com/questions/873242/is-there-a-way-to-skip-down-to-the-next-change-in-value-in-excel) (start of 1, end of 1 or start of 2, end of 2 or start of 3... by highlighting column C and pressing CTRL + SHIFT + \. The only problem is that has to be done from the beginning every time. how can you highlight a column but in the middle? You can't! Okay it's faster to just copy the first 3 rows and add 1 to the leftmost row later.
 
