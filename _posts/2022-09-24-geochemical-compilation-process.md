@@ -77,7 +77,13 @@ Now I am wondering if I even set myself up at all to plot Pb-Pb-Pb plots with th
 
 ## IgPet 
 
-I copied and pasted all the data into a new sheet, and I made sure to have first column renamed to "Sample", and then include the JCode, KCode, and LCode columns to create the [working tab delimited text file](https://user-images.githubusercontent.com/92915699/192115066-12a28b2f-f954-4339-abcb-64a9ca26be75.png). I do not have symbols or legend codes figured out yet, but this should plot okay. Conveniently, the excel file where I tracked the series number will be useful because I can actually make the legend very quickly in a [notepad file](https://github.com/thi-truong/thi-truong.github.io/files/9639530/Stracke2012-legend-1-to-25.txt), and I use those numbers as both KCode and JCode.
+### Data
+
+I copied and pasted all the data into a new sheet, and I made sure to have first column renamed to "Sample", and then include the JCode, KCode, and LCode columns to create the [working tab delimited text file](https://user-images.githubusercontent.com/92915699/192115066-12a28b2f-f954-4339-abcb-64a9ca26be75.png). I do not have symbols or legend codes figured out yet, but this should plot okay.
+
+Conveniently, the excel file where I tracked the series number will be useful because I can actually make the legend very quickly in a [notepad file](https://github.com/thi-truong/thi-truong.github.io/files/9639530/Stracke2012-legend-1-to-25.txt), and I use those numbers as both KCode and JCode.
+
+### Plotting
 
 I go over to the MacBook which I always put to sleep, so turning it on takes about 10 seconds.
 
@@ -98,8 +104,8 @@ Next, I make th Pb-Pb-Pb plots. I have to refamiliarize myself with the process 
 * Go to Position, then Aspect, then make sure it is on "PortraitLower", since 207 is shown below 208 usually (hopefully I am not getting this reversed!). I changed the legend to be inside the diagram now, as it was now off the page.
 * Save as pdf, select the "add last diagram + continue" option, which I think is actually worded confusingly. But it just means that the next time you click "save to pdf", it will be superimposed on whatever you last saved.
 * Go to "New Y". Simply change the "Y" to 208Pb/204Pb. It will show the plot on top of the 207. Do not panic! Go to position again, then aspect, and then select "PortraitUpper". Now you shold see two plots with the same x-axis, one stacked on top of the other. Select "save as pdf" and choose the "last diagram + finish" option.
-* 
-* This is what you get as a result of the simple process:
+
+This is what you get as a result of the simple process:
 
 <img width="627" alt="Screen Shot 2022-09-24 at 12 38 44 PM" src="https://user-images.githubusercontent.com/92915699/192115674-82f682f0-c09b-42cd-ba69-ab376e283075.png">
 
