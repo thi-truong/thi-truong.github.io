@@ -44,10 +44,8 @@ I experiment with making an Sr-Nd plot that has all the series with correct name
 
 ![image](https://user-images.githubusercontent.com/92915699/192113128-03d4e123-35bb-4688-8c0c-4be93abd8ee9.png)
 
-Really tedious data steps that aren't even worth looking at:
-
 <details>
-  <summary>Click me</summary>
+  <summary><b>Really tedious data steps that aren't even worth looking at</b></summary>
  
 For the rest, I want to semi-automate it by changing the data cell numbers (rows). I may manually select the locality names but we'll see. The pair of plots-in-progress in Excel are that I never know where to find them within the sheet when I am done selecting the data. This plot sits in the rows where presumably, the last series group starts. At least I think that's the logic. Still tough in a nearly 5,000 row sheet. I do not make the plot in anew tab because of aforementioned object permanence issues, but maybe soon I can do that.
 
