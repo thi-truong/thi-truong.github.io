@@ -33,7 +33,13 @@ Today, I am making a simple "mantle components"/endmember/reservoir (I should kn
 
 ### Creating an Sr-Nd plot where the 25 groups are shown with different symbols
 
-There are almost 5,000 values in this sheet, so I wanted to see if I could streamline grouping everything without turning it all into a table. [Learned how to jump to unique values](https://superuser.com/questions/873242/is-there-a-way-to-skip-down-to-the-next-change-in-value-in-excel) (start of 1, end of 1 or start of 2, end of 2 or start of 3... by highlighting column C and pressing CTRL + SHIFT + \. The only problem is that has to be done from the beginning every time. How can you highlight a column but in the middle? You can't! Okay it's faster to just copy the first 3 rows and add 1 to the leftmost row later.
+I experiment with making an Sr-Nd plot that has all the series with correct names. I make the first one for Series 1 and 2 by manually dragging the "Select data" tool to the spreadsheet, opposed to typing them into the fields. Atlantic and Pacific MORB are shown here. I am reminded by how easy it is to lose this plot when scrolling.
+
+![image](https://user-images.githubusercontent.com/92915699/192113128-03d4e123-35bb-4688-8c0c-4be93abd8ee9.png)
+
+For the rest, I want to semi-automate it by changing the data cell numbers (rows). I may manually select the locality names but we'll see. The pair of plots-in-progress in Excel are that I never know where to find them within the sheet when I am done selecting the data. This plot sits in the rows where presumably, the last series group starts. At least I think that's the logic. Still tough in a nearly 5,000 row sheet. I do not make the plot in anew tab because of aforementioned object permanence issues, but maybe soon I can do that.
+
+There are almost 5,000 values in this sheet, so I wanted to see if I could streamline grouping everything without turning it all into a table. I learned how to [jump to unique values](https://superuser.com/questions/873242/is-there-a-way-to-skip-down-to-the-next-change-in-value-in-excel) (start of 1, end of 1 or start of 2, end of 2 or start of 3... by highlighting column C and pressing CTRL + SHIFT + \. The only problem is that has to be done from the beginning every time. How can you highlight a column but in the middle? You can't! Okay it's faster to just copy the first 3 rows and add 1 to the leftmost row later.
 
 I start compiling [list in another Excel sheet](https://user-images.githubusercontent.com/92915699/192112774-2bb7872b-45ae-4efc-9967-e6014b90abd5.png) that shows the series name, series number, and the rows associated with each one (25 in total).
 
@@ -43,15 +49,9 @@ Though I could easily pull down the formula to easily calculate the rest up to r
 
 Next step was to fill in column D "Row End" with the next row start minus 1, to get the [correct row end values](https://user-images.githubusercontent.com/92915699/192112978-a4a285fe-169f-446c-91c8-ec2d0624b33d.png). I had to type out "4940" for the last one, or else it was -1. Nuances of pulling through Excel calculations.
 
-I did a random check with series 7 Samoa and series 22 Iceland to make sure the row start and ends are correct, and indeed they are. The series numbers all match up with where they are supposed to, so that is reassuring.
-
 I had been doing this all in another sheet solely so that I could have windows side by side. This is way easier than navigating tab-to-tab within one sheet (I get lost easily and forget what I was doing). To keep a record of my work here, I insert the series number/row start/row end info as plain text in a new tab "Information". 
 
-I experiment with making an Sr-Nd plot that has all the series with correct names. I make the first one for Series 1 and 2 by manually dragging the "Select data" tool to the spreadsheet. For the rest, I want to semi-automate it by changing the data cell numbers (rows). I may manually select the locality names but we'll see. The pai of plots-in-progress in Excel are that I never know where to find them within the sheet when I am done selecting the data. This plot sits in the rows where presumably, the last series group starts. At least I think that's the logic. Still tough in a nearly 5,000 row sheet. I do not make the plot in anew tab because of aforementioned object permanence issues, but maybe soon I can do that.
-
-I manually create the plot with the first two groups (as in, I go to "Select Data" and I select data by clicking and dragging cells on the sheet, opposed to typing them into the fields. Atlantic and Pacific MORB are shown here. I am reminded by how easy it is to lose this plot when scrolling.
-
-![image](https://user-images.githubusercontent.com/92915699/192113128-03d4e123-35bb-4688-8c0c-4be93abd8ee9.png)
+I did a random check with series 7 Samoa and series 22 Iceland to make sure the row start and ends are correct, and indeed they are. The series numbers all match up with where they are supposed to, so that is reassuring. You can see the product of my hard work in the right screen picture below.
 
 Now that I know the "formulas" and have things set up, I tried to challenge myself to see if I could plot the rest of the 23 groups in the Sr-Nd plot in 5 minutes. My most efficient system involves working on two screens, where the [left screen is the large external monitor where the Excel action happens](https://user-images.githubusercontent.com/92915699/192113203-f8106b2a-11a7-4a9a-92ee-dabeeb2c3420.png) and the [right screen is my laptop, where the information is kept in sequential order](https://user-images.githubusercontent.com/92915699/192113194-212f9f7b-91c3-42f6-9cbb-748d87a3eed6.png)
 
@@ -59,9 +59,9 @@ That did not work. You can't really streamline manually adding a group to plot i
 
 Yes, I am aware there is a data editor somewhere that allows me to make a plot through some kind of Excel code, but I am taking the simple way out today to make a point. Because of weird Excel copy/paste issues, I should write theses formulas in plain text and paste them one by one in the edit series maker. 
 
-20 minutes later, I have made progresse because I actually pre-wrote all the formulas on a separate notepad file to paste, one by one, into the Excel fields.
+20 minutes later, I have made progress because I actually pre-wrote all the formulas on a separate notepad file to paste, one by one, into the Excel fields.
 
-Why is this happening? All the Canary Island values are fine and not acidentally off by orders of magnitude...
+Urgh, why is this happening? All the Canary Island values are fine and not acidentally off by orders of magnitude...
 
 ![image](https://user-images.githubusercontent.com/92915699/192114551-13fc567e-4e99-4e03-9a4c-8d97bab4f705.png)
 
@@ -84,16 +84,38 @@ Starting at about 12:20, I copied and pasted all the data into a new sheet, and 
  
  ![image](https://user-images.githubusercontent.com/92915699/192115215-9d83f735-8b66-467a-b726-c04f0293b6c4.png)
 
-I go over to the MacBook which I always put to sleep, so turning it on takes about 10 seconds. I have a Dropbox document folder synced up, though it's not the SAME IgPetDocs folder as on the Macbook, becuase I am still not sure how these things work. It's still an instantly transferrable file, even if I have some not-super-matching redundant folders. This took a minute:
+I go over to the MacBook which I always put to sleep, so turning it on takes about 10 seconds.
 
-<img width="1680" alt="Screen Shot 2022-09-24 at 12 29 16 PM" src="https://user-images.githubusercontent.com/92915699/192115378-416873a3-9a58-4a1b-9ade-b7e019f4fcb7.png">
+I have a Dropbox document folder synced up, though it's not the SAME IgPetDocs folder as on the Macbook, becuase I am still not sure how these things work. It's still an instantly transferrable file, even if I have some not-super-matching redundant folders.
 
-This was done quickly to demonstrate how quickly I could make a plot, but it is not ready to show with my data yet. For  that, i just have to make sure all the column headers match. I'll standardize this next. I made this in a few minutes:
+I open IgPet, load the .txt file I just made, and make an X-Y plot where I select 87Sr/86Sr Nd first, and then 143Nd/144Nd second. I select the legend .txt file that I just made. I generate this in about a minute:
+
+<img width="1091" alt="Screen Shot 2022-09-24 at 12 33 29 PM" src="https://user-images.githubusercontent.com/92915699/192116656-ceac6661-eaf1-40b5-8134-d989bf22b207.png">
+
+I also experiment with making plots that only show MORB, Hawaii, and the Austral-Cook endmembers. This requires a bit of self-referencing to know that 1 = Atlantic MORB, 2 = Pacific MORB, etc., but I have the numbers written out, so it is easy enough to reference. I use the subselect tool to choose these:
+
+<img width="1093" alt="Screen Shot 2022-09-24 at 12 33 22 PM" src="https://user-images.githubusercontent.com/92915699/192116689-b2e61ac6-c906-457c-b22d-8bab0b17db58.png">
+
+Next, I make th Pb-Pb-Pb plots. I have to refamiliarize myself with the process a bit, and I accidentally end up plotting 208Pb/206Pb the first time. It is easy enough to re-do. To show Austral-Cook endmembers better, I just select groups 23-25 and do not plot MORB here. My sequence is roughly:
+
+* Subselect to match/include JCode = 23,24, 25
+* Make X-Y plot with 206Pb/204Pb as the X and 207Pb/204Pb as the Y
+* Go to Position, then Aspect, then make sure it is on "PortraitLower", since 207 is shown below 208 usually (hopefully I am not getting this reversed!). I changed the legend to be inside the diagram now, as it was now off the page.
+* Save as pdf, select the "add last diagram + continue" option, which I think is actually worded confusingly. But it just means that the next time you click "save to pdf", it will be superimposed on whatever you last saved.
+* Go to "New Y". Simply change the "Y" to 208Pb/204Pb. It will show the plot on top of the 207. Do not panic! Go to position again, then aspect, and then select "PortraitUpper". Now you shold see two plots with the same x-axis, one stacked on top of the other. Select "save as pdf" and choose the "last diagram + finish" option.
+* 
+* This is what you get as a result of the simple process:
 
 <img width="627" alt="Screen Shot 2022-09-24 at 12 38 44 PM" src="https://user-images.githubusercontent.com/92915699/192115674-82f682f0-c09b-42cd-ba69-ab376e283075.png">
 
 # Conclusion
 
-Total time to make a Sr-Nd plot in Excel with literature compilation: Roughly 1.5 hours. Part of that was due to me familiarizing myself with Excel on Windows 11 and not knowing *all* the tips and tricks that one should probably know by now.
+**Total time to make a Sr-Nd plot in Excel with literature compilation: Roughly 1.5 hours.**
 
-Total time to make an IgPet plot of Sr-Nd, Pb-Pb-Pb: Roughly 15 minutes, where most of that was spent data wrangling the 25 groups of samples. The actual plotting took maybe 5 minutes, and I did not alter any of the symbols, font size, design, etc.
+Part of that was due to me familiarizing myself with Excel on Windows 11 and not knowing *all* the tips and tricks that one should probably know by now.
+
+**Total time to make an IgPet plot of Sr-Nd, Pb-Pb-Pb: Roughly 29 minutes**
+
+Most of that was spent data wrangling the 25 groups of samples and working in Excel (overlapping working time). The actual plotting took maybe 5 minutes, and I did not alter any of the symbols, font size, design, etc. It's pretty much ready to edit in Illustrator.
+
+This was done quickly to demonstrate how quickly I could make a plot, but it is not ready to show with my data yet. For  that, i just have to make sure all the column headers match. I'll standardize this next. I made this in a few minutes:
