@@ -50,23 +50,23 @@ I experiment with making an Sr-Nd plot that has all the series with correct name
   
 * For the rest, I want to semi-automate it by changing the data cell numbers (rows). I may manually select the locality names but we'll see. The pair of plots-in-progress in Excel are that I never know where to find them within the sheet when I am done selecting the data. This plot sits in the rows where presumably, the last series group starts. At least I think that's the logic. Still tough in a nearly 5,000 row sheet. I do not make the plot in anew tab because of aforementioned object permanence issues, but maybe soon I can do that.
 
-* There are almost 5,000 values in this sheet, so I wanted to see if I could streamline grouping everything without turning it all into a table. 
+* There are almost 5,000 values in this sheet, so I wanted to see if I could streamline grouping everything without turning it all into a table. I learned how to [jump to unique values](https://superuser.com/questions/873242/is-there-a-way-to-skip-down-to-the-next-change-in-value-in-excel) (start of 1, end of 1 or start of 2, end of 2 or start of 3... by highlighting column C and pressing CTRL + SHIFT + \. The only problem is that has to be done from the beginning every time. How can you highlight a column but in the middle? You can't! Okay it's faster to just copy the first 3 rows and add 1 to the leftmost row later.
 
-* I start compiling [list in another Excel sheet (screenshot)](https://user-images.githubusercontent.com/92915699/192112774-2bb7872b-45ae-4efc-9967-e6014b90abd5.png) that shows the series name, series number, and the rows associated with each one (25 in total).
+* I start compiling [list in another Excel sheet](https://user-images.githubusercontent.com/92915699/192112774-2bb7872b-45ae-4efc-9967-e6014b90abd5.png) that shows the series name, series number, and the rows associated with each one (25 in total).
 
-* For series 1-5, I wrote them all out. 
-  For 7, I thought, oh I could just copy and paste and still use the keyboard shortcut. I learned how to [jump to unique values](https://superuser.com/questions/873242/is-there-a-way-to-skip-down-to-the-next-change-in-value-in-excel) (start of 1, end of 1 or start of 2, end of 2 or start of 3...) by highlighting column C and pressing CTRL + SHIFT + \. The only problem is that has to be done from the beginning every time. What if you are halfway and click somewhere else on the sheet? You can't highlight the column but in the middle. I was eventually brought back to the beginning. So I just went through the whole thing again with the keyboard shortcut.
-  
-  By the time I got to 13, I decided to just manually scroll through the rows, spot new series numbers, and simply copy and paste the rows, and add 1 later to each number in the leftmost column. [Making progress on the table (screenshot)](https://user-images.githubusercontent.com/92915699/192112869-a447ff2d-f497-46c8-980b-703b19d32ebf.png).
+* For series 1-5, I wrote them all out. For 7, I thought, oh I could just copy and paste and still use the keyboard shortcut. but that spit me out to the beginning. So I just went through the whole thing again with the keyboard shortcut. By the time I got to 13, I decided to just manually scroll through the rows, spot new series numbers, and simply copy and paste the rows, and add 1 later to each number in the leftmost column. [Making progress on the table](https://user-images.githubusercontent.com/92915699/192112869-a447ff2d-f497-46c8-980b-703b19d32ebf.png).
 
 * Though I could easily pull down the formula to easily calculate the rest up to row 26, I had to delete the first row without compromising the latter. So I copied the new calculations and pasted into a new column, then replaced the calculation column so that I could safely delete the stuff in column A without causing errors.
 
 * Next step was to fill in column D "Row End" with the next row start minus 1, to get the [correct row end values](https://user-images.githubusercontent.com/92915699/192112978-a4a285fe-169f-446c-91c8-ec2d0624b33d.png). I had to type out "4940" for the last one, or else it was -1. Nuances of pulling through Excel calculations.
 
-I had been doing this all in another sheet solely so that I could have windows side by side. This is way easier than navigating tab-to-tab within one sheet (I get lost easily and forget what I was doing). To keep a record of my work here, I insert the series number/row start/row end info as plain text in a new tab "Information". 
-** I did a random check with series 7 Samoa and series 22 Iceland to make sure the row start and ends are correct, and indeed they are. The series numbers all match up with where they are supposed to, so that is reassuring. You can see the product of my hard work in the right screen picture below.
-** Now that I know the "formulas" and have things set up, I tried to challenge myself to see if I could plot the rest of the 23 groups in the Sr-Nd plot in 5 minutes. My most efficient system involves working on two screens, where the [left screen is the large external monitor where the Excel action happens](https://user-images.githubusercontent.com/92915699/192113203-f8106b2a-11a7-4a9a-92ee-dabeeb2c3420.png) and the [right screen is my laptop, where the information is kept in sequential order](https://user-images.githubusercontent.com/92915699/192113194-212f9f7b-91c3-42f6-9cbb-748d87a3eed6.png)
-  *** That did not work. You can't really streamline manually adding a group to plot in the "select data" function. It's all one-by-one.
+* I had been doing this all in another sheet solely so that I could have windows side by side. This is way easier than navigating tab-to-tab within one sheet (I get lost easily and forget what I was doing). To keep a record of my work here, I insert the series number/row start/row end info as plain text in a new tab "Information". 
+
+* I did a random check with series 7 Samoa and series 22 Iceland to make sure the row start and ends are correct, and indeed they are. The series numbers all match up with where they are supposed to, so that is reassuring. You can see the product of my hard work in the right screen picture below.
+
+* Now that I know the "formulas" and have things set up, I determine that my most efficient system involves working on two screens, where the [left screen is the large external monitor where the Excel action happens](https://user-images.githubusercontent.com/92915699/192113203-f8106b2a-11a7-4a9a-92ee-dabeeb2c3420.png) and the [right screen is my laptop, where the information is kept in sequential order](https://user-images.githubusercontent.com/92915699/192113194-212f9f7b-91c3-42f6-9cbb-748d87a3eed6.png).
+ 
+ * I tried to challenge myself to see if I could plot the rest of the 23 groups in the Sr-Nd plot in 5 minutes. That did not work. You can't really streamline manually adding a group to plot in the "select data" function. It's all one-by-one.
 
 Yes, I am aware there is a data editor somewhere that allows me to make a plot through some kind of Excel code, but I am taking the simple way out today to make a point. Because of weird Excel copy/paste issues, I should write theses formulas in plain text and paste them one by one in the edit series maker. 
   
@@ -92,9 +92,9 @@ Now I am wondering if I even set myself up at all to plot Pb-Pb-Pb plots with th
 
 ### Data
 
-I copied and pasted all the data into a new sheet, and I made sure to have first column renamed to "Sample", and then include the JCode, KCode, and LCode columns to create the [working tab delimited text file (screenshot)](https://user-images.githubusercontent.com/92915699/192115066-12a28b2f-f954-4339-abcb-64a9ca26be75.png). I do not have symbols or legend codes figured out yet, but this should plot okay.
+I copied and pasted all the data into a new sheet, and I made sure to have first column renamed to "Sample", and then include the JCode, KCode, and LCode columns to create the [working tab delimited text file](https://user-images.githubusercontent.com/92915699/192115066-12a28b2f-f954-4339-abcb-64a9ca26be75.png). I do not have symbols or legend codes figured out yet, but this should plot okay.
 
-Conveniently, the excel file where I tracked the series number will be useful because I can actually make the legend very quickly in [notepad (.txt file)](https://github.com/thi-truong/thi-truong.github.io/files/9639530/Stracke2012-legend-1-to-25.txt), and I use those numbers as both KCode and JCode.
+Conveniently, the excel file where I tracked the series number will be useful because I can actually make the legend very quickly in [notepad, in a .txt file](https://github.com/thi-truong/thi-truong.github.io/files/9639530/Stracke2012-legend-1-to-25.txt), and I use those numbers as both KCode and JCode.
 
 ### Plotting
 
@@ -106,7 +106,7 @@ I open IgPet, load the .txt file I just made, and make an X-Y plot where I selec
 
 <img width="600" alt="Screen Shot 2022-09-24 at 12 29 16 PM" src="https://user-images.githubusercontent.com/92915699/192117835-e55e8966-4447-4f99-975a-ccec9024c629.png">
 
-I also experiment with making plots that only show MORB, Hawaii, and the Austral-Cook endmembers. This requires a bit of self-referencing to know that 1 = Atlantic MORB, 2 = Pacific MORB, etc., but I have the numbers written out, so it is easy enough to reference. I use the [subselect tool (screenshot)](https://user-images.githubusercontent.com/92915699/192116689-b2e61ac6-c906-457c-b22d-8bab0b17db58.png), and this is the resulting Sr-Nd plot:
+I also experiment with making plots that only show MORB, Hawaii, and the Austral-Cook endmembers. This requires a bit of self-referencing to know that 1 = Atlantic MORB, 2 = Pacific MORB, etc., but I have the numbers written out, so it is easy enough to reference. I use the [subselect tool](https://user-images.githubusercontent.com/92915699/192116689-b2e61ac6-c906-457c-b22d-8bab0b17db58.png), and this is the resulting Sr-Nd plot:
 
 <img width="600" alt="Screen Shot 2022-09-24 at 12 33 29 PM" src="https://user-images.githubusercontent.com/92915699/192116656-ceac6661-eaf1-40b5-8134-d989bf22b207.png">
 
