@@ -52,20 +52,18 @@ By this time, the process has taken 30 minutes. I paste over the info as plain t
 
 I experiment with making an Sr-Nd plot that has all the series with correct names. I make the first one for Series 1 and 2 by manually dragging the "Select data" tool to the spreadsheet. For the rest, I want to semi-automate it by changing the data cell numbers (rows). I may manually select the locality names but we'll see. The pai of plots-in-progress in Excel are that I never know where to find them within the sheet when I am done selecting the data. This plot sits in the rows where presumably, the last series group starts. At least I think that's the logic. Still tough in a nearly 5,000 row sheet. I do not make the plot in anew tab because of aforementioned object permanence issues, but maybe soon I can do that.
 
-Left screen, where the action happens (external monitor, large):
-![image](https://user-images.githubusercontent.com/92915699/192113203-f8106b2a-11a7-4a9a-92ee-dabeeb2c3420.png)
 
-Reference screen (laptop), to the right:
-![image](https://user-images.githubusercontent.com/92915699/192113194-212f9f7b-91c3-42f6-9cbb-748d87a3eed6.png)
-
-
+I manually create the plot with the first two groups (as in, I go to "Select Data" and I select data by clicking and dragging cells on the sheet, opposed to typing them into the fields. Atlantic and Pacific MORB are shown here. I am reminded by how easy it is to lose this plot when scrolling.
 
 ![image](https://user-images.githubusercontent.com/92915699/192113128-03d4e123-35bb-4688-8c0c-4be93abd8ee9.png)
 
-7 minutes 30 left in FocusMate
+Now that I know the "formulas" and have things set up, I tried to challenge myself to see if I could plot the rest of the 23 groups in the Sr-Nd plot in 5 minutes. My most efficient system involves working on two screens, where the [left screen is the large external monitor where the Excel action happens](https://user-images.githubusercontent.com/92915699/192113203-f8106b2a-11a7-4a9a-92ee-dabeeb2c3420.png) and the [right screen is my laptop, where the information is kept in sequential order](https://user-images.githubusercontent.com/92915699/192113194-212f9f7b-91c3-42f6-9cbb-748d87a3eed6.png)
 
-I tried to challenge myself to see if I could plot the rest of the 23 groups in the Sr-Nd plot in 5 minutes. That did not work. You can't really streamline manually adding a group to plot in the "select data" function. It's all one-by-one. I am aware there is a data editor somewhere that allows me to make a plot through some kind of Excel code, but I am taking the simple way out today to make a point. Because of weird Excel copy/paste issues, I should write theses formulas in plain text and paste them one by one in the edit series maker. 
-12:05 pm
+That did not work. You can't really streamline manually adding a group to plot in the "select data" function. It's all one-by-one.
+
+Yes, I am aware there is a data editor somewhere that allows me to make a plot through some kind of Excel code, but I am taking the simple way out today to make a point. Because of weird Excel copy/paste issues, I should write theses formulas in plain text and paste them one by one in the edit series maker. 
+
+20 minutes later, I have made progresse because I actually pre-wrote all the formulas on a separate notepad file to paste, one by one, into the Excel fields.
 
 Why is this happening? All the Canary Island values are fine and not acidentally off by orders of magnitude...
 
