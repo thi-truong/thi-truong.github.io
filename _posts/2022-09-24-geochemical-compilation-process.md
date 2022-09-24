@@ -1,7 +1,7 @@
 ---
 title: 'Geochemical Data Compilation Process'
-date: 2022-01-16
-permalink: /posts/2022/09/24/geochemical-compilation-process
+date: 2023-01-16
+permalink: /posts/202/09/24/geochemical-compilation-process
 tags:
   - data
   - geochemistry
@@ -91,13 +91,13 @@ I have a Dropbox document folder synced up, though it's not the SAME IgPetDocs f
 
 I open IgPet, load the .txt file I just made, and make an X-Y plot where I select 87Sr/86Sr Nd first, and then 143Nd/144Nd second. I select the legend .txt file that I just made. I generate this in about a minute:
 
-<img width="" alt="Screen Shot 2022-09-24 at 12 33 29 PM" src="https://user-images.githubusercontent.com/92915699/192116656-ceac6661-eaf1-40b5-8134-d989bf22b207.png">
+<img width="600" alt="Screen Shot 2022-09-24 at 12 29 16 PM" src="https://user-images.githubusercontent.com/92915699/192117835-e55e8966-4447-4f99-975a-ccec9024c629.png">
 
-I also experiment with making plots that only show MORB, Hawaii, and the Austral-Cook endmembers. This requires a bit of self-referencing to know that 1 = Atlantic MORB, 2 = Pacific MORB, etc., but I have the numbers written out, so it is easy enough to reference. I use the subselect tool to choose these:
+I also experiment with making plots that only show MORB, Hawaii, and the Austral-Cook endmembers. This requires a bit of self-referencing to know that 1 = Atlantic MORB, 2 = Pacific MORB, etc., but I have the numbers written out, so it is easy enough to reference. I use the [subselect tool](https://user-images.githubusercontent.com/92915699/192116689-b2e61ac6-c906-457c-b22d-8bab0b17db58.png), and this is the resulting Sr-Nd plot:
 
-<img width="600" alt="Screen Shot 2022-09-24 at 12 33 22 PM" src="https://user-images.githubusercontent.com/92915699/192116689-b2e61ac6-c906-457c-b22d-8bab0b17db58.png">
+<img width="600" alt="Screen Shot 2022-09-24 at 12 33 29 PM" src="https://user-images.githubusercontent.com/92915699/192116656-ceac6661-eaf1-40b5-8134-d989bf22b207.png">
 
-Next, I make th Pb-Pb-Pb plots. I have to refamiliarize myself with the process a bit, and I accidentally end up plotting 208Pb/206Pb the first time. It is easy enough to re-do. To show Austral-Cook endmembers better, I just select groups 23-25 and do not plot MORB here. My sequence is roughly:
+Next, I make the Pb-Pb-Pb plots. I have to refamiliarize myself with the process a bit, and I accidentally end up plotting 208Pb/206Pb the first time. It is easy enough to re-do. To show Austral-Cook endmembers better, I just select groups 23-25 and do not plot MORB here. My sequence is roughly:
 
 * Subselect to match/include JCode = 23,24, 25
 * Make X-Y plot with 206Pb/204Pb as the X and 207Pb/204Pb as the Y
