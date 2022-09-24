@@ -1,7 +1,7 @@
 ---
-title: 'Excel vs. Igpet. An informal geochemistry plotting showdown'
-date: 2023-01-16
-permalink: /posts/202/09/24/geochemical-compilation-process
+title: 'Excel vs. IgPet. An informal geochemistry plotting showdown'
+date: 2022-09-24
+permalink: /posts/2022/09/24/geochemical-compilation-process
 tags:
   - data
   - geochemistry
@@ -24,7 +24,7 @@ I have a primary Windows laptop that I use for dissertating (LaTeX, Zotero), dat
 
 I also am borrowing a MacBook Pro from my department, solely to use the program IgPet, for which my research group has a Mac OS X site license, but not one for Windows. I do all of the data processing, organization, collating on the Windows, and simply generate figures on the Macbook. I am still considering paying the $300 fee for a Windows site license, because you'll come to see the my brain can only tolerate a small level of things-being-in-several-places before I start to forget they exist, or that I was searching for those things to begin with.
 
-## Working in Windows (Microsoft Excel)
+## Microsoft Excel
 
 Disclaimer: I acknowledge there are probably much more streamlined ways to do this, however, this process is likely to be a frequent one for me, even if I accomplish more efficient means in the future.
 
