@@ -23,16 +23,15 @@ Today, I am making a simple "mantle components"/endmember/reservoir (I should kn
 
 * Download the supplementary file, which has the amazing file name "1-s2.0-S000925411200366X-mmc1.xls". It goes into "My Downloads" folder on Windows.
 * Move the file to Hawaiian Literature--> Supplementary Data Files-->rename to Stracke2012-supp-table-1. Get lost trying to find "open in new window" option in the huge Windows right click toolbar.
-* Table 1 shows 2 tabs: "Data" and "References". I will duplicate "Data" and then rename former to "Data (original)", "References (original".
-* I will inspect Data and start to remove columns that are not needed, and see if there is an easy way to preserve original order
-
-![image](https://user-images.githubusercontent.com/92915699/192112241-4b9f13e0-2007-405e-ba4f-5a9fbe7fe2c4.png)
-
-Assign unique number values into left side. There is probably a better way to do this, but I have them as 1 to 4939. I also freeze paned first column and row for ease of looking at the data.
+* Table 1 shows 2 tabs: "Data" and "References". I will duplicate "Data" and then rename former to "Data (original)", "References (original)".
+* I work in "Data" tab, knowing that the original data is also within reach, if needed.
+* Assign unique number values into left side. There is probably a better way to do this, but I have them as 1 to 4939. I also freeze paned first column and row for ease of looking at the data. 
 
 ![image](https://user-images.githubusercontent.com/92915699/192112331-6b066799-d89c-4462-82ef-df72f467a575.png)
 
-Next is deleting rows that I do not need so that I can turn everything into a table. renaming Series name to the new labels that I want. I am keeping the series number because it is actually useful (I can use it as a JCode or something).
+* I inspect what I am working with. I want to produce a sheet where every row/column is a value, so I look for remove columns that are not needed. I end up deleting C and D because they are not numerical and I can go back to that data any time because of the unique numbers I made. Renamed Series name to the new labels that I want. I am keeping the series number because it is actually useful (I can use it as a JCode or something).
+
+![image](https://user-images.githubusercontent.com/92915699/192112241-4b9f13e0-2007-405e-ba4f-5a9fbe7fe2c4.png)
 
 There are almost 5,000 values in this sheet, so I wanted to see if I could streamline grouping everything without turning it all into a table. [Learned how to jump to unique values](https://superuser.com/questions/873242/is-there-a-way-to-skip-down-to-the-next-change-in-value-in-excel) (start of 1, end of 1 or start of 2, end of 2 or start of 3... by highlighting column C and pressing CTRL + SHIFT + \. The only problem is that has to be done from the beginning every time. how can you highlight a column but in the middle? You can't! Okay it's faster to just copy the first 3 rows and add 1 to the leftmost row later.
 
@@ -70,17 +69,10 @@ Reference screen (laptop), to the right:
 
 7 minutes 30 left in FocusMate
 
-Let's see how many I can add in 5 minutes.
-
-Because of weird Excel copy/paste issues, I should write theses formulas in plain text and paste them one by one in the edit series maker. Or, I can just go to the tool bar.
-
-Ugh. need to find out how to plot empty values as zero.
-
-![image](https://user-images.githubusercontent.com/92915699/192113482-b76fd6a4-f38e-41fe-94b8-2d48b76719c9.png)
-
+I tried to challenge myself to see if I could plot the rest of the 23 groups in the Sr-Nd plot in 5 minutes. That did not work. You can't really streamline manually adding a group to plot in the "select data" function. It's all one-by-one. I am aware there is a data editor somewhere that allows me to make a plot through some kind of Excel code, but I am taking the simple way out today to make a point. Because of weird Excel copy/paste issues, I should write theses formulas in plain text and paste them one by one in the edit series maker. 
 12:05 pm
 
-Why is this happening? All the values are fine 
+Why is this happening? All the Canary Island values are fine and not acidentally off by orders of magnitude...
 
 ![image](https://user-images.githubusercontent.com/92915699/192114551-13fc567e-4e99-4e03-9a4c-8d97bab4f705.png)
 
@@ -88,10 +80,11 @@ This is what happens when you plot Canary Islands alone...
 
 ![image](https://user-images.githubusercontent.com/92915699/192114580-2caae585-bb05-456a-a39c-5e2df56442d9.png)
 
-I have no patience for this, so I deleted the Canary Islands. Sorry.
+I have no patience for this, so I deleted the Canary Islands. Sorry. This is the Sr-Nd plot:
 
 ![image](https://user-images.githubusercontent.com/92915699/192114624-cce8a25e-48f9-43e6-822e-580f80329b8e.png)
 
+Now I am wondering if I even set myself up at all to plot Pb-Pb-Pb plots with this system. I think I still have to go group by group (all 25) and painstakingly replace the column letters!
 
 ## IgPet 
 Starting at about 12:20, I copied and pasted all the data into a new sheet, and I made sure to have first column renamed to "Sample", and then include the JCode, KCode, and LCode columns.
