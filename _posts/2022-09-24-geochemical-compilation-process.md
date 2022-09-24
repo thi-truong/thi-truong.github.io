@@ -22,7 +22,7 @@ Today, I am making a simple "mantle components" isotope diagram from [Stracke et
 
 I have a primary Windows laptop that I use for dissertating (LaTeX, Zotero), data processing (Excel, sometimes play around with Python and SQL), and general use. I will use this for the Microsoft Excel part, and the data processing for IgPet.
 
-I also am borrowing a MacBook Pro from my department, solely to use the program IgPet, for which my research group has a Mac OS X site license, but not one for Windows. I do all of the data processing, organization, collating on the Windows, and simply generate figures on the Macbook. I am still considering paying the $300 fee for a Windows site license, because you'll come to see the my brain can only tolerate a small level of things-being-in-several-places before I start to forget they exist, or that I was searching for those things to begin with.
+I also am borrowing a MacBook Pro from my department, solely to use the program IgPet, for which my research group has a Mac OS X site license, but not one for Windows. I do all of the data processing, organization, collating on the Windows, and simply generate figures on the Macbook. 
 
 ## Microsoft Excel
 
@@ -76,11 +76,11 @@ This is what happens when you plot Canary Islands alone...
 
 ![image](https://user-images.githubusercontent.com/92915699/192114580-2caae585-bb05-456a-a39c-5e2df56442d9.png)
 
-I have no patience for this, so I deleted the Canary Islands. Sorry. This is the Sr-Nd plot:
+I have no patience for this, so I deleted the Canary Islands. Usually I would stick with this longer, but I tried plotting this in a few different ways, but it might be some numbers/data property that I am not understanding. Apologies for removing this group.
+
+This is the resulting Sr-Nd plot:
 
 ![image](https://user-images.githubusercontent.com/92915699/192114624-cce8a25e-48f9-43e6-822e-580f80329b8e.png)
-
-Now I am wondering if I even set myself up at all to plot Pb-Pb-Pb plots with this system. I think I still have to go group by group (all 25) and painstakingly replace the column letters!
 
 ## IgPet 
 
@@ -121,11 +121,12 @@ This is what you get as a result of the simple process:
 How long did it take to make a Sr-Nd plot from Stracke et al. (2021)'s  supplementary table 1 with separate groups showing different symbol sizes?
 
 **Microsoft Excel: 1.5 hours.**
-
-Part of that was due to me familiarizing myself with Excel on Windows 11 and not knowing *all* the tips and tricks that one should probably know by now.
-
 **IgPet: 15 minutes**
 
-Note that this includes some time spent data wrangling the 25 groups of samples and working in Excel (overlapping working time). The actual IgPet plotting and exporting took maybe 5 minutes, and I did not alter any of the symbols, font size, design, etc. It's pretty much ready to edit in Illustrator.
+Part the 1.5 hours in Excel was due to me familiarizing myself with Excel on Windows 11 and not knowing *all* the tips and tricks that one should probably know by now. My efforts to experiment made me more aware of some shortcuts, but I was still limited in my efficiency.
 
-This was done quickly to demonstrate how quickly I could make a plot, but it is not ready to show with my data yet. For  that, i just have to make sure all the column headers match. I'll standardize this next!
+I often feel restricted in what I can do in Excel-- I have to use both mouse and keyboard, but they don't synchronize well. For example, while editing cells, you cannot use arrow keys or click in different areas of the sheet, unless you want to introduce chaos into every data range or calculation. So there is a lot of clicking, highlighting, copy and pasting, deleting that has to be done precisely and in separate steps. Quite tedious.
+
+Now I am wondering how I could plot a different set of variables, like to make Pb isotope plots, in a streamlined way. I am thinking I'd have to work group-by-group yet again, and painstakingly replace the column letters to display new variables. It is just slightly less work than going through the entire Sr-Nd process again.
+
+Some of the 15 minutes in IgPet is actually the time spent wrangling the 25 groups of samples and working in Excel. The actual IgPet plotting and exporting took maybe 5 minutes, and I did not alter any of the symbols, font size, design, etc. It's pretty much ready to edit in Illustrator. However, the plots were made quickly to demonstrate how quickly I could make them. These are hardly ready for presentations or publications. To make this work with my own research, the next step is to make sure all the column headers match with mine, or else IgPet won't plot them at the same time. This standardization process is next!
