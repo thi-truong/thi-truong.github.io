@@ -89,11 +89,19 @@ I have no patience for this, so I deleted the Canary Islands. Sorry.
 
 ![image](https://user-images.githubusercontent.com/92915699/192114624-cce8a25e-48f9-43e6-822e-580f80329b8e.png)
 
-How I formatted the .txt file for IgPet. I do not have symbols or legend codes figured out yet, but this should plot okay.
+
+
+
+# IgPet Process
+Starting at about 12:20, I copied and pasted all the data into a new sheet, and I made sure to have first column renamed to "Sample", and then include the JCode, KCode, and LCode columns.
 
 ![image](https://user-images.githubusercontent.com/92915699/192115066-12a28b2f-f954-4339-abcb-64a9ca26be75.png)
 
+ I do not have symbols or legend codes figured out yet, but this should plot okay. Conveniently, the excel file where I tracked the series number will be useful because I can actually make the legend very quickly in a notepad file. I set both KCode and JCode as tbe same thing (seems to be my standard practice unless something changes...I think I wanted to work in some consistency).
+ 
+ ![image](https://user-images.githubusercontent.com/92915699/192115215-9d83f735-8b66-467a-b726-c04f0293b6c4.png)
 
+I go over to the MacBook which I always put to sleep, so turning it on takes about 10 seconds. I have a Dropbox document folder synced up, though it's not the SAME IgPetDocs folder as on the Macbook, becuase I am still not sure how these things work. It's still an instantly transferrable file, even if I have some not-super-matching redundant folders. This took a minute:
 
-
+<img width="1680" alt="Screen Shot 2022-09-24 at 12 29 16 PM" src="https://user-images.githubusercontent.com/92915699/192115378-416873a3-9a58-4a1b-9ade-b7e019f4fcb7.png">
 
