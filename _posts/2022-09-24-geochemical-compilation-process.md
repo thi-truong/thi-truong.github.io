@@ -1,5 +1,5 @@
 ---
-title: 'Geochemical Data Compilation Process'
+title: 'Excel vs. Igpet. An informal geochemistry plotting showdown'
 date: 2023-01-16
 permalink: /posts/202/09/24/geochemical-compilation-process
 tags:
@@ -8,22 +8,25 @@ tags:
   - learning
 ---
 
+I have a penchant for the program IgPet to make geochemical figures because of the ease of generating bivariate plots with minimal steps. On the superficial side, I like the default appearance of the plots. But IgPet brings me closer to the goal of learning tidy data.
 
-Sometimes I wonder if my data compilation process is too haphazard, random, and unorganized. So I will swing the other way and be overly organized and document my steps. I am not confident that this will help anyone else, but it will be useful for me when I inevitably retrace my steps to produce figures from the data that I compile. 
+Sometimes I wonder if my data compilation process is too haphazard, random, and unorganized when I use Microsoft Excel. I am aware that scientists are using it beyond the intended purpose to display accounting data. It makes sense that, while, "data processing", calculations, visualizations, etc., can be done on Excel, that does not mean that we *should*.
 
-I have a penchant for the program IgPet to make geochemical figures because of the ease of generating bivariate plots with minimal steps. On the superficial side, I like the default appearance of the plots. I really dislike Excel "shadows" and and not quite 1 pt lines! I think that IgPet also brings me closer to the goal of learning tidy data.
+Still, perhaps the difficulties are mine alone, and I can work towards being more organized while documenting my workflow and issues. Today, I will be overly organized and document my steps. 
 
-# Today's objective
+# Objective
 
 Today, I am making a simple "mantle components" isotope diagram from [Stracke et al. (2012)](https://www.sciencedirect.com/science/article/pii/S000925411200366X). The paper contains figures showing such components, but no straightforward single value or data table for say, averages, etc. My simple goal is to create an <sup>87</sup>Sr/<sup>86</sup>Sr-<sup>143</sup>Nd/<sup>144</sup>Nd plot where the 25 groups are shown with different symbols
 
-I acknowledge there are probably much more streamlined ways to do this, however, this process is likely to be a frequent one for me, even if I accomplish more efficient means in the future.
+# The Showdown
 
-I have a primary Windows laptop that I use for dissertating (LaTeX, Zotero), data processing (Excel, sometimes play around with Python and SQL), and general use.
+I have a primary Windows laptop that I use for dissertating (LaTeX, Zotero), data processing (Excel, sometimes play around with Python and SQL), and general use. I will use this for the Microsoft Excel part, and the data processing for IgPet.
 
-I also am borrowing a MacBook Pro from my department, solely to use the program IgPet, for which my research group has a Mac OS X site license, but not one for Windows. I am still considering paying the $300 fee for a Windows site license, because you'll come to see the my brain can only tolerate a small level of things-being-in-several-places before I start to forget they exist, or that I was searching for those things to begin with.
+I also am borrowing a MacBook Pro from my department, solely to use the program IgPet, for which my research group has a Mac OS X site license, but not one for Windows. I do all of the data processing, organization, collating on the Windows, and simply generate figures on the Macbook. I am still considering paying the $300 fee for a Windows site license, because you'll come to see the my brain can only tolerate a small level of things-being-in-several-places before I start to forget they exist, or that I was searching for those things to begin with.
 
 ## Working in Windows (Microsoft Excel)
+
+Disclaimer: I acknowledge there are probably much more streamlined ways to do this, however, this process is likely to be a frequent one for me, even if I accomplish more efficient means in the future.
 
 ### Data
 
@@ -35,7 +38,7 @@ I also am borrowing a MacBook Pro from my department, solely to use the program 
 * I want to produce a sheet where every row/column is a value, so I look for remove columns that are not needed. I end up deleting C and D because they are not numerical and will not be useful when plotting (not to worry, the data still lives in the other tab, "Data (original)".
 * I assigned [unique number values into leftmost column](https://user-images.githubusercontent.com/92915699/192112331-6b066799-d89c-4462-82ef-df72f467a575.png). There is probably a better way to do this, but I have them as 1 to 4939. I also freeze paned first column and row for ease of looking at the data. 
 
-### Olotting
+### Plotting
 
 I experiment with making an Sr-Nd plot that has all the series with correct names. I make the first one for Series 1 and 2 by manually dragging the "Select data" tool to the spreadsheet, opposed to typing them into the fields. Atlantic and Pacific MORB are shown here. I am reminded by how easy it is to lose this plot when scrolling.
 
