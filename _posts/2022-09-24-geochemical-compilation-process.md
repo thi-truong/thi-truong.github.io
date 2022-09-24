@@ -52,15 +52,10 @@ By this time, the process has taken 30 minutes. I paste over the info as plain t
 
 I experiment with making an Sr-Nd plot that has all the series with correct names. I make the first one for Series 1 and 2 by manually dragging the "Select data" tool to the spreadsheet. For the rest, I want to semi-automate it by changing the data cell numbers (rows). I may manually select the locality names but we'll see. The pai of plots-in-progress in Excel are that I never know where to find them within the sheet when I am done selecting the data. This plot sits in the rows where presumably, the last series group starts. At least I think that's the logic. Still tough in a nearly 5,000 row sheet. I do not make the plot in anew tab because of aforementioned object permanence issues, but maybe soon I can do that.
 
-![image](https://user-images.githubusercontent.com/92915699/192113168-bdd28b54-1994-456f-bd58-4254a2b2d89f.png)
-
-I will follow this template for the rest. One screen has the working Excel sheet, and the other screen has the information for reference.
-
 Left screen, where the action happens (external monitor, large):
 ![image](https://user-images.githubusercontent.com/92915699/192113203-f8106b2a-11a7-4a9a-92ee-dabeeb2c3420.png)
 
 Reference screen (laptop), to the right:
-
 ![image](https://user-images.githubusercontent.com/92915699/192113194-212f9f7b-91c3-42f6-9cbb-748d87a3eed6.png)
 
 
