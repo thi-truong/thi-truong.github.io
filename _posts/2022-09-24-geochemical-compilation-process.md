@@ -105,3 +105,6 @@ I go over to the MacBook which I always put to sleep, so turning it on takes abo
 
 <img width="1680" alt="Screen Shot 2022-09-24 at 12 29 16 PM" src="https://user-images.githubusercontent.com/92915699/192115378-416873a3-9a58-4a1b-9ade-b7e019f4fcb7.png">
 
+This was done quickly to demonstrate how quickly I could make a plot, but it is not ready to show with my data yet. For  that, i just have to make sure all the column headers match. I'll standardize this next. I made this in a few minutes:
+
+<img width="627" alt="Screen Shot 2022-09-24 at 12 38 44 PM" src="https://user-images.githubusercontent.com/92915699/192115674-82f682f0-c09b-42cd-ba69-ab376e283075.png">
