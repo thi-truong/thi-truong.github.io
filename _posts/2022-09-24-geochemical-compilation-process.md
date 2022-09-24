@@ -76,13 +76,8 @@ I have no patience for this, so I deleted the Canary Islands. Sorry. This is the
 Now I am wondering if I even set myself up at all to plot Pb-Pb-Pb plots with this system. I think I still have to go group by group (all 25) and painstakingly replace the column letters!
 
 ## IgPet 
-Starting at about 12:20, I copied and pasted all the data into a new sheet, and I made sure to have first column renamed to "Sample", and then include the JCode, KCode, and LCode columns.
 
-![image](https://user-images.githubusercontent.com/92915699/192115066-12a28b2f-f954-4339-abcb-64a9ca26be75.png)
-
- I do not have symbols or legend codes figured out yet, but this should plot okay. Conveniently, the excel file where I tracked the series number will be useful because I can actually make the legend very quickly in a notepad file. I set both KCode and JCode as tbe same thing (seems to be my standard practice unless something changes...I think I wanted to work in some consistency).
- 
- ![image](https://user-images.githubusercontent.com/92915699/192115215-9d83f735-8b66-467a-b726-c04f0293b6c4.png)
+I copied and pasted all the data into a new sheet, and I made sure to have first column renamed to "Sample", and then include the JCode, KCode, and LCode columns to create the [working tab delimited text file](https://user-images.githubusercontent.com/92915699/192115066-12a28b2f-f954-4339-abcb-64a9ca26be75.png). I do not have symbols or legend codes figured out yet, but this should plot okay. Conveniently, the excel file where I tracked the series number will be useful because I can actually make the legend very quickly in a [notepad file](https://github.com/thi-truong/thi-truong.github.io/files/9639530/Stracke2012-legend-1-to-25.txt), and I use those numbers as both KCode and JCode.
 
 I go over to the MacBook which I always put to sleep, so turning it on takes about 10 seconds.
 
@@ -90,11 +85,11 @@ I have a Dropbox document folder synced up, though it's not the SAME IgPetDocs f
 
 I open IgPet, load the .txt file I just made, and make an X-Y plot where I select 87Sr/86Sr Nd first, and then 143Nd/144Nd second. I select the legend .txt file that I just made. I generate this in about a minute:
 
-<img width="1091" alt="Screen Shot 2022-09-24 at 12 33 29 PM" src="https://user-images.githubusercontent.com/92915699/192116656-ceac6661-eaf1-40b5-8134-d989bf22b207.png">
+<img width="" alt="Screen Shot 2022-09-24 at 12 33 29 PM" src="https://user-images.githubusercontent.com/92915699/192116656-ceac6661-eaf1-40b5-8134-d989bf22b207.png">
 
 I also experiment with making plots that only show MORB, Hawaii, and the Austral-Cook endmembers. This requires a bit of self-referencing to know that 1 = Atlantic MORB, 2 = Pacific MORB, etc., but I have the numbers written out, so it is easy enough to reference. I use the subselect tool to choose these:
 
-<img width="1093" alt="Screen Shot 2022-09-24 at 12 33 22 PM" src="https://user-images.githubusercontent.com/92915699/192116689-b2e61ac6-c906-457c-b22d-8bab0b17db58.png">
+<img width="600" alt="Screen Shot 2022-09-24 at 12 33 22 PM" src="https://user-images.githubusercontent.com/92915699/192116689-b2e61ac6-c906-457c-b22d-8bab0b17db58.png">
 
 Next, I make th Pb-Pb-Pb plots. I have to refamiliarize myself with the process a bit, and I accidentally end up plotting 208Pb/206Pb the first time. It is easy enough to re-do. To show Austral-Cook endmembers better, I just select groups 23-25 and do not plot MORB here. My sequence is roughly:
 
@@ -110,12 +105,14 @@ Next, I make th Pb-Pb-Pb plots. I have to refamiliarize myself with the process 
 
 # Conclusion
 
-**Total time to make a Sr-Nd plot in Excel with literature compilation: Roughly 1.5 hours.**
+How long did it take to make a Sr-Nd plot from Stracke et al. (2021)'s  supplementary table 1 with separate groups showing different symbol sizes?
+
+**Microsoft Excel: 1.5 hours.**
 
 Part of that was due to me familiarizing myself with Excel on Windows 11 and not knowing *all* the tips and tricks that one should probably know by now.
 
-**Total time to make an IgPet plot of Sr-Nd, Pb-Pb-Pb: Roughly 29 minutes**
+**IgPet: 15 minutes**
 
-Most of that was spent data wrangling the 25 groups of samples and working in Excel (overlapping working time). The actual plotting took maybe 5 minutes, and I did not alter any of the symbols, font size, design, etc. It's pretty much ready to edit in Illustrator.
+Note that this includes some time spent data wrangling the 25 groups of samples and working in Excel (overlapping working time). The actual IgPet plotting and exporting took maybe 5 minutes, and I did not alter any of the symbols, font size, design, etc. It's pretty much ready to edit in Illustrator.
 
-This was done quickly to demonstrate how quickly I could make a plot, but it is not ready to show with my data yet. For  that, i just have to make sure all the column headers match. I'll standardize this next. I made this in a few minutes:
+This was done quickly to demonstrate how quickly I could make a plot, but it is not ready to show with my data yet. For  that, i just have to make sure all the column headers match. I'll standardize this next!
