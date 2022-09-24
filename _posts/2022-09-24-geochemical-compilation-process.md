@@ -44,6 +44,11 @@ I experiment with making an Sr-Nd plot that has all the series with correct name
 
 ![image](https://user-images.githubusercontent.com/92915699/192113128-03d4e123-35bb-4688-8c0c-4be93abd8ee9.png)
 
+Really tedious data steps that aren't even worth looking at:
+
+<details>
+  <summary>Click me</summary>
+ 
 For the rest, I want to semi-automate it by changing the data cell numbers (rows). I may manually select the locality names but we'll see. The pair of plots-in-progress in Excel are that I never know where to find them within the sheet when I am done selecting the data. This plot sits in the rows where presumably, the last series group starts. At least I think that's the logic. Still tough in a nearly 5,000 row sheet. I do not make the plot in anew tab because of aforementioned object permanence issues, but maybe soon I can do that.
 
 There are almost 5,000 values in this sheet, so I wanted to see if I could streamline grouping everything without turning it all into a table. I learned how to [jump to unique values](https://superuser.com/questions/873242/is-there-a-way-to-skip-down-to-the-next-change-in-value-in-excel) (start of 1, end of 1 or start of 2, end of 2 or start of 3... by highlighting column C and pressing CTRL + SHIFT + \. The only problem is that has to be done from the beginning every time. How can you highlight a column but in the middle? You can't! Okay it's faster to just copy the first 3 rows and add 1 to the leftmost row later.
@@ -65,6 +70,8 @@ Now that I know the "formulas" and have things set up, I tried to challenge myse
 That did not work. You can't really streamline manually adding a group to plot in the "select data" function. It's all one-by-one.
 
 Yes, I am aware there is a data editor somewhere that allows me to make a plot through some kind of Excel code, but I am taking the simple way out today to make a point. Because of weird Excel copy/paste issues, I should write theses formulas in plain text and paste them one by one in the edit series maker. 
+  
+  </details>
 
 20 minutes later, I have made progress because I actually pre-wrote all the formulas on a separate notepad file to paste, one by one, into the Excel fields.
 
