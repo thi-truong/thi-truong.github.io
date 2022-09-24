@@ -24,3 +24,15 @@ Today, I am making a simple "mantle components"/endmember/reservoir (I should kn
 * I will inspect Data and start to remove columns that are not needed, and see if there is an easy way to preserve original order
 
 ![image](https://user-images.githubusercontent.com/92915699/192112241-4b9f13e0-2007-405e-ba4f-5a9fbe7fe2c4.png)
+
+Assign unique number values into left side. There is probably a better way to do this, but I have them as 1 to 4939. I also freeze paned first column and row for ease of looking at the data.
+
+![image](https://user-images.githubusercontent.com/92915699/192112331-6b066799-d89c-4462-82ef-df72f467a575.png)
+
+Next is deleting rows that I do not need so that I can turn everything into a table. renaming Series name to the new labels that I want. I am keeping the series number because it is actually useful (I can use it as a JCode or something).
+
+There are almost 5,000 values in this sheet, so I wanted to see if I could streamline grouping everything without turning it all into a table. [Learned how to jump to unique values](https://superuser.com/questions/873242/is-there-a-way-to-skip-down-to-the-next-change-in-value-in-excel) (start of 1, end of 1 or start of 2, end of 2 or start of 3... by highlighting column C and pressing CTRL + SHIFT + \. The only problem is that has to be done from the beginning every time. how can you highlight a column but in the middle? You can't! Okay it's faster to just copy the first 3 rows and add 1 to the leftmost row later.
+
+![image](https://user-images.githubusercontent.com/92915699/192112774-2bb7872b-45ae-4efc-9967-e6014b90abd5.png)
+
+For series 1-5, I wrote them all out. For 7, I thought, oh I could just copy and paste and still use the keyboard shortcut. but that spit me out to the beginning. So I just went through the whole thing again with the keyboard shortcut. By the time I got to 13, I decided to just manually scroll through the rows, spot new series numbers, and simply copy and paste the rows, and add 1 later to each number in the leftmost column.
