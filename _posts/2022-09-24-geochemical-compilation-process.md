@@ -65,3 +65,35 @@ Reference screen (laptop), to the right:
 
 ![image](https://user-images.githubusercontent.com/92915699/192113128-03d4e123-35bb-4688-8c0c-4be93abd8ee9.png)
 
+7 minutes 30 left in FocusMate
+
+Let's see how many I can add in 5 minutes.
+
+Because of weird Excel copy/paste issues, I should write theses formulas in plain text and paste them one by one in the edit series maker. Or, I can just go to the tool bar.
+
+Ugh. need to find out how to plot empty values as zero.
+
+![image](https://user-images.githubusercontent.com/92915699/192113482-b76fd6a4-f38e-41fe-94b8-2d48b76719c9.png)
+
+12:05 pm
+
+Why is this happening? All the values are fine 
+
+![image](https://user-images.githubusercontent.com/92915699/192114551-13fc567e-4e99-4e03-9a4c-8d97bab4f705.png)
+
+This is what happens when you plot Canary Islands alone...
+
+![image](https://user-images.githubusercontent.com/92915699/192114580-2caae585-bb05-456a-a39c-5e2df56442d9.png)
+
+I have no patience for this, so I deleted the Canary Islands. Sorry.
+
+![image](https://user-images.githubusercontent.com/92915699/192114624-cce8a25e-48f9-43e6-822e-580f80329b8e.png)
+
+How I formatted the .txt file for IgPet. I do not have symbols or legend codes figured out yet, but this should plot okay.
+
+![image](https://user-images.githubusercontent.com/92915699/192115066-12a28b2f-f954-4339-abcb-64a9ca26be75.png)
+
+
+
+
+
