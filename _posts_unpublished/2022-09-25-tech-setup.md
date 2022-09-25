@@ -12,32 +12,31 @@ tags:
 
 # Hardware
 
-Laptop: 2022 ROG Zephyrus G14 GA402RJ_GA402RJ
-System: Windows 11
-
-I also use a 2015 Macbook Pro on loan from department. It is gigantic at 15".
+* Laptop: 2022 ROG Zephyrus G14 GA402RJ_GA402RJ, System: Windows 11
+* Second laptop: 2015 Macbook Pro on loan from department. It is gigantic at 15". I only use it for IgPet. 
+* I use [Chrome Remote Desktop](https://remotedesktop.google.com/) to do all of my work on Windows
 
 # Software
 
-TeXStudio + MikTeX
-Zotero
-Adobe Illustrator
-IgPet
-Microsoft Office Suite
-ImageJ
-Blender
+* TeXStudio + MikTeX
+* Zotero
+* Adobe Illustrator
+* IgPet
+* Microsoft Office Suite
+* ImageJ
+* Blender
 
 # Physical space
 
-Ducky Mechanical Keyboard
-Razer Mouse
-Laptop Stand
-External monitor (may bump up to 2 and bring the second one into office?
+* Ducky Mechanical Keyboard
+* Razer Mouse
+* Laptop Stand
+* External monitor (may bump up to 2 and bring the second one into office?
 
 ## Other services or subscriptions
 
-Dropbox
-Rescue Time
-Notions
-Scrivener
-Affinity Designer
+* Dropbox
+* Rescue Time
+* Notions
+* Scrivener
+* Affinity Designer
