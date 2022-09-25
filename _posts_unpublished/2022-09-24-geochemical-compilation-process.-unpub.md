@@ -8,9 +8,11 @@ tags:
   - learning
 ---
 
-I have a penchant for the program IgPet to make geochemical figures because of the ease of generating bivariate plots with minimal steps. On the superficial side, I like the default appearance of the plots. On the practical side, IgPet brings me closer to the goal of learning tidy data, which is more consistent with good programming practices.
+Today I attempted to solve the problem of streamlining geochemical compilations with Excel and IgPet. I prioritize traceability and reproducibility, so while it may be easy to generate a cloud of data points that is vaguely related to a reference, I prefer to keep the data as complete as possible, because I foresee several edits in my future.r
 
-I am aware that scientists are using it beyond the intended purpose to display accounting data. It makes sense that, while, "data processing", calculations, visualizations, etc., can be done on Excel, that does not mean that we *should*. But sometimes I wonder if my Excel use is needlessly haphazard, random, and unorganized, despite the fact that I know how to use macros, pivot tables, etc. Perhaps the difficulties are mine alone, and I can work towards being more organized while documenting my workflow and issues.
+I have a penchant for the program [IgPet](https://www.rockware.com/product/igpet/) to make geochemical figures because of the ease of generating bivariate plots with minimal steps. On the superficial side, I like the default appearance of the plots. On the practical side, IgPet brings me closer to the goal of learning tidy data, which is more consistent with good programming practices.
+
+I am aware that scientists are using Microsoft Excdel beyond the intended purpose to display accounting data. It makes sense that, while, "data processing", calculations, visualizations, etc., can be done on Excel, that does not mean that we *should*. But sometimes I wonder if my Excel use is needlessly haphazard, random, and unorganized, despite the fact that I know how to use macros, pivot tables, etc. Perhaps the difficulties are mine alone, and I can work towards being more organized while documenting my workflow and issues.
 
 Today, I will be overly organized and document my steps to compare how one graduate student makes plots with Microsoft Excel and with IgPet.
 
