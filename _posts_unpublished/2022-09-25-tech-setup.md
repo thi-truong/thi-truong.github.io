@@ -34,7 +34,7 @@ tags:
 * Notions
 * Scrivener
 * Affinity Designer
-* 
+
 # Physical space
 
 * Ducky Mechanical Keyboard
