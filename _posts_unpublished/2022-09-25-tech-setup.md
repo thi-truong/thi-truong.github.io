@@ -26,12 +26,6 @@ tags:
 * ImageJ
 * Blender
 
-# Physical space
-
-* Ducky Mechanical Keyboard
-* Razer Mouse
-* Laptop Stand
-* External monitor (may bump up to 2 and bring the second one into office?
 
 ## Other services or subscriptions
 
@@ -40,3 +34,11 @@ tags:
 * Notions
 * Scrivener
 * Affinity Designer
+* 
+# Physical space
+
+* Ducky Mechanical Keyboard
+* Razer Mouse
+* Laptop Stand
+* External monitor (may bump up to 2 and bring the second one into office?
+
