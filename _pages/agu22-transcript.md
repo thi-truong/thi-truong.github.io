@@ -5,11 +5,11 @@ permalink: /agu22-transcript/
 author_profile: true
 ---
 
-Note: I did not use Hawaiian language accent marks in case of screen reader issues.
+Note: I used Hawaiian language accent marks for the first appearance of a word, and then used anglicized names due to screen reader issues (tested on NVDA).
 
-Thank you for tuning in to my talk today about Loihi Seamount, which is the youngest volcano of the Hawaiian Island chain. My name is Thi Truong and I'm presenting research that I have done with my collaborators, David Graham, Mike Garcia and Peter Michael.
+Thank you for tuning in to my talk today about Lō‘ihi (Loihi) Seamount, which is the youngest volcano of the Hawaiian Island chain. My name is Thi Truong and I'm presenting research that I have done with my collaborators, David Graham, Mike Garcia and Peter Michael.
 
-To study Loihi, we must start with Hawaii. If we orient ourselves on the south coast of Hawaii and move offshore about thirty kilometers, we will see an underwater volcano at about a kilometer below the sea surface. This is Loihi Seamount. It is a young volcano with two rift zones, which developed early in its history.
+To study Loihi, we must start with Hawai‘i (Hawaii). If we orient ourselves on the south coast of Hawaii and move offshore about thirty kilometers, we will see an underwater volcano at about a kilometer below the sea surface. This is Loihi Seamount. It is a young volcano with two rift zones, which developed early in its history.
 
 Loihi has erupted a diversity of lava types despite its short life. For these reasons, Loihi has transformed our understanding of the earliest stage of Hawaiian volcanism, called the pre-shield stage. In addition, the presence of tholeiite basalt flows indicate that a shield transition has already occurred or is ongoing. 
 
