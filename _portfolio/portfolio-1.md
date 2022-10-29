@@ -6,4 +6,24 @@ permalink: /portfolio/summary
 excerpt: "organized work"
 ---
 
-This is an item in your portfolio. It can be have images or nice text. If you name the file .md, it will be parsed as markdown. If you name the file .html, it will be parsed as HTML.
+
+List of courses that I have taught at OSU:
+**Geology major sequence:**
+- Petrology Lab
+- Petroraphy Lab
+- Mineralogy Lab
+
+**Bacc core/Synthesis courses:**
+- Earthquakes in the Pacific Northwest* (Instructor of Record)
+- Living with Active Cascade Volcanoes
+- Global Change and Earth Science*
+- Minerals, Resources, Energy*
+
+* = eCampus
+
+List of courses that I taught at UC San Diego:
+SIO 15 
+SIO 50 
+
+List of courses that I taught at Grossmont-Cuyamaca Community College:
+Oceanography Lab (syllabus) (Instructor of Record)
