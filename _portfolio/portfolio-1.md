@@ -35,7 +35,6 @@ Additional links: Student Evaluations, Example activities
 - GEO 310 Mineralogy Lab (OSU)
 - OCEA 113 Oceanography Lab (Cuyamaca Community College)
   - Instructor of Record
-  - Syllabus
 - GEO 201 Planet Earth Laboratory (OSU)
 
 ### Bacc core/Science synthesis courses:
@@ -44,18 +43,16 @@ These are all courses at Oregon State University:
 
 - GEO 305 Living with Active Cascade Volcanoes (OSU)
 - eGEO 380 Earthquakes in the Pacific Northwest (OSU)
-  - Instructor of Record in Summer 2022
+  - Instructor of Record
 
 ### Survey-style, introductory geoscience coursework
 
 - SIO 15 Natural Disasters (UCSD)
-  - Instructor Evaluation
 - SIO 50 The Oceans (UCSD)
 
 ### Grader, remote learning
 
 - eGEO 101 Planet Earth Laboratory (OSU)
 - eGEO 308 Global Change and Earth Science (OSU)
-  - Instructor Evaluation
 - eGEO 306 Minerals, Energy, Water, and the Environment (OSU)
 - eGEO 380 Earthquakes in the Pacific Northwest (OSU)
