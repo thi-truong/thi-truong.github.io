@@ -2,7 +2,7 @@
 title: "Examples of activities and assignments"
 excerpt: "Short description of portfolio item number 1<br/><img src='/images/500x300.png'>"
 collection: portfolio
-permalink: /teaching-portfolio/examples
+permalink: /portfolio/examples
 excerpt: "organized work"
 ---
 
