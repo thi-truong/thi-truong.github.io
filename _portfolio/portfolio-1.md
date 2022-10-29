@@ -16,7 +16,7 @@ excerpt: "organized work"
 
 **Learning in the field**: I have led field trips in 5 classes (2 overnight/multi-day) in Southern California, Eastern Oregon, and Coastal Oregon.
 
-**Collaborating and Innovating**: I have served as instructor of record in 2 classes. I have worked with 12 instructors in my capacity as a GTA and collaborate often to maximize student usability of course materials. I am adept at Blackboard and Canvas.
+**Collaboration**: I have served as instructor of record in 2 classes. I have worked with 12 instructors in my capacity as a GTA and collaborate often to maximize student usability of course materials. I am adept at Blackboard and Canvas.
 
 ## List of Courses
 
