@@ -10,27 +10,46 @@ excerpt: "organized work"
 
 ## Geology major sequence and laboratory (over 20 hours sole instruction in classroom)
 
-- Petrology Lab (OSU), evaluations, field trip
-  - Another thing?
-- Petrography Lab (OSU), evaluations
-- Mineralogy Lab (OSU), evaluations, field trip
-- Oceanography Lab (Instructor of Record) (Cuyamaca Community College), syllabus, evaluations
+- GEO 315 Petrology Lab (Oregon State University)
+  - Field Trip
+  - Evaluations
+- GEO 415 Petrography Lab (Oregon State University)
+  - Field Trip
+  - Evaluations
+- GEO 310 Mineralogy Lab (Oregon State University)
+  - Field Trip
+  - Evaluations
+- OCEA 113 Oceanography Lab (Cuyamaca Community College)
+  - Instructor of Record
+  - Syllabus
+  - Evaluations
+  - Example coursework
+- GEO 201 Planet Earth
+  - Evaluations
+  - Example Materials
 
 ## Bacc core/Science synthesis courses:
 
 These are all courses at OSU.
 
-- Living with Active Cascade Volcanoes, field trip
-- Earthquakes in the Pacific Northwest* (Instructor of Record)
+- Living with Active Cascade Volcanoes
+  - Field trip
+  - Writing feedback
+  - Evaluations
+- Earthquakes in the Pacific Northwest
+  - Instructor of Record in Summer 2022
+  - Evaluations
 
 ## Survey-style, introductory geoscience coursework
 
-- SIO 15, field trip
-- SIO 50 
-- GEO 201, field trip
+- SIO 15
+  - Field Trip
+  - Evaluations
+- SIO 50 The Oceans
 
 ## Grader, remote learning
 
 - Planet Earth Laboratory
-- Global Change and Earth Science*
-- Minerals, Resources, Energy*
+- Global Change and Earth Science
+- Minerals, Resources, Energy
+- Earthquakes in the Pacific Northwest
