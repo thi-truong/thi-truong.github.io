@@ -30,7 +30,7 @@ Additional links: Student Evaluations, Example activities
 
 ### Laboratory
 
-In each class, 10-15 laboratory assignments were delivered. My duties include over 20 hours as sole instructor in the classroom.
+I was responsible for delivering and grading weekly laboratory assignments and occasional laboratory exams. In each class, I completed over 20 hours as sole instructor in the classroom.
 
 - GEO 315 Petrology Lab (OSU)
 - GEO 415 Petrography Lab (OSU)
