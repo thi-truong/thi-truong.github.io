@@ -18,36 +18,40 @@ excerpt: "organized work"
 
 ## List of Courses
 
+Oregon State University = OSU
+University of California San Diego = UCSD
+eGEO = eCampus Geology classes at Oregon State University
+
+Additional links: Student Evaluations, Example activities
+
 ### Laboratory (over 20 hours sole instructor in classroom)
 
-- GEO 315 Petrology Lab (Oregon State University)
-- GEO 415 Petrography Lab (Oregon State University)
-- GEO 310 Mineralogy Lab (Oregon State University)
+- GEO 315 Petrology Lab (OSU)
+- GEO 415 Petrography Lab (OSU)
+- GEO 310 Mineralogy Lab (OSU)
 - OCEA 113 Oceanography Lab (Cuyamaca Community College)
   - Instructor of Record
   - Syllabus
-- GEO 201 Planet Earth Laboratory (Oregon State University)
+- GEO 201 Planet Earth Laboratory (OSU)
 
 ### Bacc core/Science synthesis courses:
 
 These are all courses at Oregon State University:
 
-- Living with Active Cascade Volcanoes
-- Earthquakes in the Pacific Northwest
+- GEO 305 Living with Active Cascade Volcanoes
+- eGEO 380 Earthquakes in the Pacific Northwest
   - Instructor of Record in Summer 2022
 
 ### Survey-style, introductory geoscience coursework
 
-- SIO 15 Natural Disasters (University of California, San Diego)
+- SIO 15 Natural Disasters (UCSD)
   - Instructor Evaluation
-- SIO 50 The Oceans (University of California, San Diego)
+- SIO 50 The Oceans (UCSD)
 
 ### Grader, remote learning
 
-These are all courses at Oregon State University
-
-- GEO 101 Planet Earth Laboratory
-- GEO 308 Global Change and Earth Science
+- eGEO 101 Planet Earth Laboratory (OSU)
+- eGEO 308 Global Change and Earth Science (OSU)
   - Instructor Evaluation
-- GEO 306 Minerals, Energy, Water, and the Environment
-- GEO 380 Earthquakes in the Pacific Northwest
+- eGEO 306 Minerals, Energy, Water, and the Environment (OSU)
+- eGEO 380 Earthquakes in the Pacific Northwest (OSU)
