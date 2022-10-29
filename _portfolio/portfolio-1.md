@@ -11,6 +11,7 @@ excerpt: "organized work"
 ## Geology major sequence and laboratory (over 20 hours sole instruction in classroom)
 
 - Petrology Lab (OSU), evaluations, field trip
+  - Another thing?
 - Petrography Lab (OSU), evaluations
 - Mineralogy Lab (OSU), evaluations, field trip
 - Oceanography Lab (Instructor of Record) (Cuyamaca Community College), syllabus, evaluations
@@ -24,9 +25,9 @@ These are all courses at OSU.
 
 ## Survey-style, introductory geoscience coursework
 
-SIO 15, field trip
-SIO 50 
-GEO 201, field trip
+- SIO 15, field trip
+- SIO 50 
+- GEO 201, field trip
 
 ## Grader, remote learning
 
