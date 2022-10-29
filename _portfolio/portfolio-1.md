@@ -8,11 +8,19 @@ excerpt: "organized work"
 
 # Summary of Teaching Experience
 
-This is a summary of teaching experience with course names, titles, and basic duties. Overall, I have competency in developing assignments, designing exam questions and proctoring, and guiding students through scientific writing and presentations. The majority of my teaching is in 10-week quarters in which the pace of information must be delivered in a logical sequence to promote understanding and retention. Courses in which I have taught multiple times show improved student ratings and evidence of engagement-- reflecting my ability to adapt during the course, and future opportunities to teach the same material.
+This is an abbreviated summary of my previous teaching experience.
+
+Overall, I have competency in developing assignments, designing exam questions and proctoring, and guiding students through scientific writing and presentations. The majority of my teaching is in 10-week quarters in which the pace of information must be delivered in a logical sequence to promote understanding and retention. 
+
+Courses in which I have taught multiple times show improved student ratings and evidence of engagement-- reflecting my ability to adapt during the course, and future opportunities to teach the same material.
+
+I design coursework for accessibility whether my interactions with students are in-person, remote, asynchronous, and/or synchronous. Radical improvements in accessible materials (specifically related to vision and physical accessibility on field trips) is often out of my control as a TA. However, when I have been the instructor of record or lead laboratory sections, I provide multiple formats of media and have written alternative field trip assignments.
 
 I have led field trips in 5 classes (2 overnight/multi-day) in Southern California, Eastern Oregon, and Coastal Oregon.
 
-Bolded courses are taught as Instructor of Record.
+I have produced novel assignments for oceanography and geology since 2012 with an emphasis on building skills related to the natural sciences.
+
+**Bolded** courses are taught as Instructor of Record.
 
 ## Laboratory (over 20 hours sole instructor in classroom)
 
