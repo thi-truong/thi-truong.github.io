@@ -15,7 +15,9 @@ excerpt: "organized work"
 - Mineralogy Lab (OSU), evaluations, field trip
 - Oceanography Lab (Instructor of Record) (Cuyamaca Community College), syllabus, evaluations
 
-**Bacc core/Synthesis courses:**
+## Bacc core/Science synthesis courses:
+
+These are all courses at OSU.
 
 - Living with Active Cascade Volcanoes, field trip
 - Earthquakes in the Pacific Northwest* (Instructor of Record)
