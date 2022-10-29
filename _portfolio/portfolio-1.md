@@ -8,15 +8,13 @@ excerpt: "organized work"
 
 # Summary of Teaching Experience
 
-Overall, I have competency in developing assignments, designing exam questions and proctoring, and guiding students through scientific writing and presentations. The majority of my teaching is in 10-week quarters in which the pace of information must be delivered in a logical sequence to promote understanding and retention. 
+**Core competencies**: Developing assignments, designing exam questions and proctoring, and guiding students through scientific writing and presentations. The majority of my teaching is in 10-week quarters in which the pace of information must be delivered in a logical sequence to promote understanding and retention. 
 
-Courses in which I have taught multiple times show improved student ratings and evidence of engagement-- reflecting my ability to adapt during the course, and future opportunities to teach the same material.
+**Ability to adapt**: Many geoscience courses are increasingly "turn key" and optimized for learning from specific textbooks. Even while teaching for the first time, I have been able to quickly modify and develop novel assignments with an emphasis on building skills related to the natural sciences. I do this while collecting student feedback throughout the course to assess effectiveness. This usually results in additional material being presented, in addition to the original curriculum. Courses in which I have taught multiple times show improved student ratings and evidence of engagement-- reflecting my ability to adapt during the course, and future opportunities to teach the same material.
 
-I design coursework for accessibility whether my interactions with students are in-person, remote, asynchronous, and/or synchronous. Radical improvements in accessible materials (specifically related to vision and physical accessibility on field trips) is often out of my control as a TA. However, when I have been the instructor of record or lead laboratory sections, I provide multiple formats of media and have written alternative field trip assignments.
+**Designing for accessibility**: I design coursework for accessibility whether my interactions with students are in-person, remote, asynchronous, and/or synchronous. Radical improvements in accessible materials (specifically related to vision and physical accessibility on field trips) is often out of my control as a TA. However, when I have been the instructor of record or lead laboratory sections, provide materials in multiple formats, and have written alternative field trip assignments.
 
-I have led field trips in 5 classes (2 overnight/multi-day) in Southern California, Eastern Oregon, and Coastal Oregon.
-
-I have produced novel assignments for oceanography and geology since 2012 with an emphasis on building skills related to the natural sciences.
+**Learning in the field**: I have led field trips in 5 classes (2 overnight/multi-day) in Southern California, Eastern Oregon, and Coastal Oregon.
 
 ## List of Courses
 
