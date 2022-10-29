@@ -6,24 +6,28 @@ permalink: /portfolio/summary
 excerpt: "organized work"
 ---
 
+# Summary of Teaching Experience
 
-List of courses that I have taught at OSU:
-**Geology major sequence:**
-- Petrology Lab
-- Petroraphy Lab
-- Mineralogy Lab
+## Geology major sequence and laboratory (over 20 hours sole instruction in classroom)
+
+- Petrology Lab (OSU), evaluations, field trip
+- Petrography Lab (OSU), evaluations
+- Mineralogy Lab (OSU), evaluations, field trip
+- Oceanography Lab (Instructor of Record) (Cuyamaca Community College), syllabus, evaluations
 
 **Bacc core/Synthesis courses:**
+
+- Living with Active Cascade Volcanoes, field trip
 - Earthquakes in the Pacific Northwest* (Instructor of Record)
-- Living with Active Cascade Volcanoes
+
+## Survey-style, introductory geoscience coursework
+
+SIO 15, field trip
+SIO 50 
+GEO 201, field trip
+
+## Grader, remote learning
+
+- Planet Earth Laboratory
 - Global Change and Earth Science*
 - Minerals, Resources, Energy*
-
-* = eCampus
-
-List of courses that I taught at UC San Diego:
-SIO 15 
-SIO 50 
-
-List of courses that I taught at Grossmont-Cuyamaca Community College:
-Oceanography Lab (syllabus) (Instructor of Record)
