@@ -21,7 +21,9 @@ excerpt: "organized work"
 ## List of Courses
 
 Oregon State University = OSU
+
 University of California San Diego = UCSD
+
 eGEO = eCampus Geology classes at Oregon State University
 
 Additional links: Student Evaluations, Example activities
