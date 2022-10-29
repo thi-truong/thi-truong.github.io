@@ -2,7 +2,7 @@
 title: "Evidence of Teaching Effectiveness"
 excerpt: "Short description of portfolio item number 2<br/><img src='/images/500x300.png'>"
 collection: portfolio
-permalink: /teaching-portfolio/evidence
+permalink: /portfolio/evidence
 excerpt: "organized work"
 ---
 
