@@ -41,8 +41,6 @@ I was responsible for delivering and grading weekly laboratory assignments and o
 
 ### Bacc core/Science synthesis courses:
 
-These are all courses at Oregon State University:
-
 - GEO 305 Living with Active Cascade Volcanoes (OSU)
 - eGEO 380 Earthquakes in the Pacific Northwest (OSU)
   - Instructor of Record
