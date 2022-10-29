@@ -8,7 +8,7 @@ excerpt: "organized work"
 
 # Overview
 
-**Core competencies**: Developing assignments, designing exam questions and proctoring, and guiding students through scientific writing and presentations. The majority of my teaching is in 10-week quarters in which the pace of information must be delivered in a logical sequence to promote understanding and retention. 
+**Core competencies**: Developing assignments, designing exam questions and proctoring, and guiding students through scientific writing and presentations. The majority of my teaching is in 10-week quarters in which the pace of information must be delivered in a logical sequence to promote understanding and retention.
 
 **Ability to adapt**: Many geoscience courses are increasingly "turn key" and optimized for learning from specific textbooks. Even while teaching for the first time, I have been able to quickly modify and develop novel assignments with an emphasis on building skills related to the natural sciences. I do this while collecting student feedback throughout the course to assess effectiveness. This usually results in additional material being presented, in addition to the original curriculum. Courses in which I have taught multiple times show improved student ratings and evidence of engagement-- reflecting my ability to adapt during the course, and future opportunities to teach the same material.
 
@@ -18,14 +18,12 @@ excerpt: "organized work"
 
 ## List of Courses
 
-**Bolded** courses are taught as Instructor of Record.
-
 ### Laboratory (over 20 hours sole instructor in classroom)
 
 - GEO 315 Petrology Lab (Oregon State University)
 - GEO 415 Petrography Lab (Oregon State University)
 - GEO 310 Mineralogy Lab (Oregon State University)
-- **OCEA 113 Oceanography Lab (Cuyamaca Community College)**
+- OCEA 113 Oceanography Lab (Cuyamaca Community College)
   - Instructor of Record
   - Syllabus
 - GEO 201 Planet Earth Laboratory (Oregon State University)
@@ -35,7 +33,7 @@ excerpt: "organized work"
 These are all courses at Oregon State University:
 
 - Living with Active Cascade Volcanoes
-- **Earthquakes in the Pacific Northwest**
+- Earthquakes in the Pacific Northwest
   - Instructor of Record in Summer 2022
 
 ### Survey-style, introductory geoscience coursework
