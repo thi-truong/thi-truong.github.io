@@ -1,10 +1,8 @@
 ---
-title: "Portfolio item number 1"
+title: "Summary of Teaching Experience"
 excerpt: "Short description of portfolio item number 1<br/><img src='/images/500x300.png'>"
 collection: portfolio
-permalink: /portfolio/portfolio-1
-date: 2020-04-21
-location: "School"
+permalink: /teaching-portfolio/summary
 excerpt: "organized work"
 ---
 
