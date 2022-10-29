@@ -14,7 +14,7 @@ I have led field trips in 5 classes (2 overnight/multi-day) in Southern Californ
 
 Bolded courses are taught as Instructor of Record.
 
-## Geology major sequence and laboratory (over 20 hours sole instruction in classroom)
+## Laboratory (over 20 hours sole instructor in classroom)
 
 - GEO 315 Petrology Lab (Oregon State University)
 - GEO 415 Petrography Lab (Oregon State University)
@@ -22,7 +22,7 @@ Bolded courses are taught as Instructor of Record.
 - **OCEA 113 Oceanography Lab (Cuyamaca Community College)**
   - Instructor of Record
   - Syllabus
-- GEO 201 Planet Earth (Oregon State University)
+- GEO 201 Planet Earth Laboratory (Oregon State University)
 
 ## Bacc core/Science synthesis courses:
 
