@@ -1,10 +1,8 @@
 ---
-title: "Portfolio item number 2"
+title: "Evidence of Teaching Effectiveness"
 excerpt: "Short description of portfolio item number 2<br/><img src='/images/500x300.png'>"
 collection: portfolio
-permalink: /portfolio/portfolio-2
-date: 2020-06-21
-location: "Elsewhere"
+permalink: /teaching-portfolio/evidence
 excerpt: "organized work"
 ---
 
