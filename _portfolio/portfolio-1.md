@@ -6,7 +6,7 @@ permalink: /portfolio/summary
 excerpt: "organized work"
 ---
 
-# Summary of Teaching Experience
+# Overview
 
 **Core competencies**: Developing assignments, designing exam questions and proctoring, and guiding students through scientific writing and presentations. The majority of my teaching is in 10-week quarters in which the pace of information must be delivered in a logical sequence to promote understanding and retention. 
 
