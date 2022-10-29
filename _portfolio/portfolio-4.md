@@ -7,7 +7,7 @@ excerpt: "Teaching Philosophy"
 ---
 
 
-**My teaching philosophy focuses on the unrealized potential of Geology to inform 21st century learners towards a global community of problem-solving. I draw from history/philosophy of science, science education, the psychology of learning, and the modern misinformation crisis to address this education gap.**
+My teaching philosophy focuses on the unrealized potential of Geology to inform 21st century learners towards a global community of problem-solving. I draw from history/philosophy of science, science education, the psychology of learning, and the modern misinformation crisis to address this education gap.
 
 **Unrealized potential**
 
