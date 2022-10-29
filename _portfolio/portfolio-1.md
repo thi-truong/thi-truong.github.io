@@ -28,7 +28,9 @@ eGEO = eCampus Geology classes at Oregon State University
 
 Additional links: Student Evaluations, Example activities
 
-### Laboratory (over 20 hours sole instructor in classroom)
+### Laboratory
+
+In each class, 10-15 laboratory assignments were delivered. My duties include over 20 hours as sole instructor in the classroom.
 
 - GEO 315 Petrology Lab (OSU)
 - GEO 415 Petrography Lab (OSU)
