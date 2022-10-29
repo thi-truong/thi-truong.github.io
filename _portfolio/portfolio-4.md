@@ -6,4 +6,8 @@ permalink: /teaching-portfolio/philosophy
 excerpt: "Teaching Philosophy"
 ---
 
-This is an item in your portfolio. It can be have images or nice text. If you name the file .md, it will be parsed as markdown. If you name the file .html, it will be parsed as HTML.
+My teaching philosophy focuses on the unrealized potential of Geology to inform 21st century learners towards a global community of problem-solving for humans. I draw from history/philosophy of science, science education, the psychology of learning, and the modern disinformation crisis to inform my teaching position and actions.
+
+To begin: Historically, the most significant contributions to knowledge about Geology has never been done by someone who majored in Geology. Though I make this comment in the spirit of jest, I think the realization that more outsiders have contributed to Geology than insiders is reassuring for someone like me, who did not feel like she belonged in Geology, even while sitting in a *graduate-level Geology course*.
+
+Geology is in a recruitment crisis, is among the least racially diverse STEM fields, is built on a history of gender exclusion, and has among the lowest enrollment of sudens with disabilities. Yet, arguably, the largest problems facing society are rooted in Geology: climate change, resource extraction, the lack of livable and safe regions on Earth to live, the carbon cycle. Citizens often feel powerless to address these issues, and policy is left up to those in power. The nuances of scientific crises, howevver, are both surrendered to scientists as experts. Scientists are equally glorified for their access to establishing "truth" about the natural world. At the same time, they are villified when those truths are revisited, challenged, and collapse over time. There is a solution to this, and this lies in history and humanism.
