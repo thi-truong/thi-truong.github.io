@@ -3,7 +3,7 @@ title: "Summary of Teaching Experience"
 excerpt: "Short description of portfolio item number 1<br/><img src='/images/500x300.png'>"
 collection: portfolio
 permalink: /portfolio/summary
-excerpt: "organized work"
+excerpt: "Overview of my skills and a complete list of courses"
 ---
 
 # Overview
