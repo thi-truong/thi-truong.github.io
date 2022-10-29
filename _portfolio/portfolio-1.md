@@ -8,8 +8,6 @@ excerpt: "organized work"
 
 # Summary of Teaching Experience
 
-This is an abbreviated summary of my previous teaching experience.
-
 Overall, I have competency in developing assignments, designing exam questions and proctoring, and guiding students through scientific writing and presentations. The majority of my teaching is in 10-week quarters in which the pace of information must be delivered in a logical sequence to promote understanding and retention. 
 
 Courses in which I have taught multiple times show improved student ratings and evidence of engagement-- reflecting my ability to adapt during the course, and future opportunities to teach the same material.
@@ -20,9 +18,11 @@ I have led field trips in 5 classes (2 overnight/multi-day) in Southern Californ
 
 I have produced novel assignments for oceanography and geology since 2012 with an emphasis on building skills related to the natural sciences.
 
+## List of Courses
+
 **Bolded** courses are taught as Instructor of Record.
 
-## Laboratory (over 20 hours sole instructor in classroom)
+### Laboratory (over 20 hours sole instructor in classroom)
 
 - GEO 315 Petrology Lab (Oregon State University)
 - GEO 415 Petrography Lab (Oregon State University)
@@ -32,7 +32,7 @@ I have produced novel assignments for oceanography and geology since 2012 with a
   - Syllabus
 - GEO 201 Planet Earth Laboratory (Oregon State University)
 
-## Bacc core/Science synthesis courses:
+### Bacc core/Science synthesis courses:
 
 These are all courses at Oregon State University:
 
@@ -40,13 +40,13 @@ These are all courses at Oregon State University:
 - **Earthquakes in the Pacific Northwest**
   - Instructor of Record in Summer 2022
 
-## Survey-style, introductory geoscience coursework
+### Survey-style, introductory geoscience coursework
 
 - SIO 15 Natural Disasters (University of California, San Diego)
   - Instructor Evaluation
 - SIO 50 The Oceans (University of California, San Diego)
 
-## Grader, remote learning
+### Grader, remote learning
 
 These are all courses at Oregon State University
 
