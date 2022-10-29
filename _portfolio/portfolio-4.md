@@ -14,4 +14,6 @@ Geology departments at institutions of higher learning are experiencing a recrui
 
 The nuances of scientific crises are often surrendered to scientists as experts, as the average citizen cannot devote their life to understanding the intricacies of complicated scientific problems. As a result, scientists are glorified for their access to establishing "truth" about the natural world. At the same time, they are villified when those truths are revisited, challenged, and collapse over time. This is the flip side to scientism, which describes a dogmatic prestige of science as a source of knowledge. What scientists achieve in unchallenged expertise and a respect for titles is quickly taken away when responsibility to respond to a new crisis outweighs theory.
 
-There is a solution to this, and this lies in history and humanism.
+As someone who was educated in a post-Plate Tectonics theory world with an exclusively Houghton Mifflin/Springer dominated market of educational materials, No Child Left Behind, and a collapse of higher education's appeal to the average person, I find that most geology education is incompatible for the modern student who has little previous experience with the topic. The incompatibility continues into graduate school. As specialization closes off access to information, even people with advanced geology degrees cannot unpack the problems at hand.
+
+There is one solution to this concrete barrier of access. My proposal is to teach geology with history and humanism.
