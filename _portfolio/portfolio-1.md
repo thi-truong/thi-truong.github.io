@@ -38,8 +38,8 @@ Additional links: Student Evaluations, Example activities
 
 These are all courses at Oregon State University:
 
-- GEO 305 Living with Active Cascade Volcanoes
-- eGEO 380 Earthquakes in the Pacific Northwest
+- GEO 305 Living with Active Cascade Volcanoes (OSU)
+- eGEO 380 Earthquakes in the Pacific Northwest (OSU)
   - Instructor of Record in Summer 2022
 
 ### Survey-style, introductory geoscience coursework
