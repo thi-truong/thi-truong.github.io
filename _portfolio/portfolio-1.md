@@ -12,12 +12,14 @@ This is a summary of teaching experience with course names, titles, and basic du
 
 I have led field trips in 5 classes (2 overnight/multi-day) in Southern California, Eastern Oregon, and Coastal Oregon.
 
+Bolded courses are taught as Instructor of Record.
+
 ## Geology major sequence and laboratory (over 20 hours sole instruction in classroom)
 
 - GEO 315 Petrology Lab (Oregon State University)
 - GEO 415 Petrography Lab (Oregon State University)
 - GEO 310 Mineralogy Lab (Oregon State University)
-- OCEA 113 Oceanography Lab (Cuyamaca Community College)
+- **OCEA 113 Oceanography Lab (Cuyamaca Community College)**
   - Instructor of Record
   - Syllabus
 - GEO 201 Planet Earth (Oregon State University)
@@ -27,7 +29,7 @@ I have led field trips in 5 classes (2 overnight/multi-day) in Southern Californ
 These are all courses at Oregon State University:
 
 - Living with Active Cascade Volcanoes
-- Earthquakes in the Pacific Northwest
+- **Earthquakes in the Pacific Northwest**
   - Instructor of Record in Summer 2022
 
 ## Survey-style, introductory geoscience coursework
