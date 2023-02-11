@@ -8,7 +8,7 @@ redirect_from:
   - /about.html
 ---
 
-<img src="/images/thi-microscope-lab-01.png" alt="Thi in front of a Meiji microscope, wearing blank hoodie and mask. A box of Kimtech wipes is an easy reach away" width="500"/>
+<img src="/images/thi-microscope-lab-01.png" alt="Thi posing next to microscope. A box of Kimtech wipes is an easy reach away." width="500"/>
 
 My name is Thi Truong ([hear name pronunciation](https://namedrop.io/thitruong)). I am currently a PhD Candidate in Geology at Oregon State University. I am originally from San Diego, California.
 
