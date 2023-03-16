@@ -10,13 +10,13 @@ redirect_from:
 
 <img src="/images/thi-microscope-lab-01.png" alt="Thi posing next to microscope. A box of Kimtech wipes is an easy reach away." width="500"/>
 
-My name is Thi Truong ([hear name pronunciation](https://namedrop.io/thitruong)). I am currently a PhD Candidate in Geology at Oregon State University. I am originally from San Diego, California.
+My name is Thi Truong ("tee-troong", [hear name pronunciation](https://namedrop.io/thitruong)). I am currently a PhD Candidate in Geology at Oregon State University. I am originally from San Diego, California.
 
 # Research
 
 I use geochemistry to understand processes that create anomalous, intraplate volcanism on Earth. My focus is on the creation and evolution of oceanic islands and seamounts, which are understood to contain signals of the mantle. 
 
-My examinations focus on one type of rock (basalt), but considers the behavior of more than half of the elements listed of the periodic table! For specifics about my research objectives and results, check out my [research page](https://thi-truong.github.io/research/).
+My examinations focus on one type of rock (basalt), but considers the behavior of more than half of the elements listed of the periodic table! For specifics about my research objectives and results, check out my [research](https://thi-truong.github.io/research/).
 
 Some of my interests:
 * Scales of heterogeneity in the mantle and the signature in ocean island basalts
