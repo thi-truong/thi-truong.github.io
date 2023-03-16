@@ -16,10 +16,9 @@ Rocks have never been self-explanatory, yet the pace of undergraduate geology co
 
 ## Example tutorial for optical mineralogy students
 
- <a href="https://www.youtube.com/watch?v=muPhXJS_qwk/"><img src="https://img.youtube.com/vi/muPhXJS_qwk/0.jpg" style="width:400px" alt="Thumbnail showing two views of mineral under microscope. Left side shows straight lines across light background. This is clinopyroxene under plane polarized light. Right side shows same view under cross polarized light where the light areas are now all dark. This indicates that this is clinopyroxene, because the lines do not align vertically, but are diagonal.">
-      </a>
+ <a href="https://www.youtube.com/watch?v=muPhXJS_qwk"><img src="https://img.youtube.com/vi/muPhXJS_qwk/0.jpg" style="width:400px" alt="Thumbnail showing two views of mineral under microscope. Left side shows straight lines across light background. This is clinopyroxene under plane polarized light. Right side shows same view under cross polarized light where the light areas are now all dark. This indicates that this is clinopyroxene, because the lines do not align vertically, but are diagonal."></a>
       
-Instructional video for undergraduate optical mineralogy students to distinguish between clinopyroxene/orthopyroxene in thin section. No sound. [Link to YouTube Video](https://www.youtube.com/watch?v=muPhXJS_qwk/) or click thumbnail above.
+Instructional video for undergraduate optical mineralogy students to distinguish between clinopyroxene/orthopyroxene in thin section. No sound. [Link to YouTube Video](https://www.youtube.com/watch?v=muPhXJS_qwk) or click thumbnail above.
 
 ### Sample narrative for teaching
  
@@ -38,9 +37,10 @@ This video shows how one might use cleavage traces of two unknown pyroxene miner
 
 ## 2021 Unpacking Diversity Keynote Event
 
- <a href="https://www.youtube.com/watch?v=EKhZKJEdODk/"><img src="https://img.youtube.com/vi/EKhZKJEdODk/0.jpg" align="left" style="width:400px" alt="YouTube thumbnail showing Zoom Webinar with views of Thi Truong, speaker Aradhna Tripati, interpreter"></a>
+<img src="https://img.youtube.com/vi/EKhZKJEdODk/0.jpg" align="left" style="width:400px" alt="YouTube thumbnail showing Zoom Webinar with views of Thi Truong, speaker Aradhna Tripati, interpreter"></a>
+<br>
  
-[Link to YouTube recording of event](https://www.youtube.com/watch?v=EKhZKJEdODk/), or click thumbnail. 
+[Watch on YouTube](https://www.youtube.com/watch?v=EKhZKJEdODk)
  
 I coordinated multiple aspects of a 2021 keynote event with Dr. Aradhna Tripati (UCLA, CDLS). Planned initial conception of in-person event in October 2019 to execution of virtual event in May 2021. The first year's planning efforts resulted in an original date, late May 2020.
 
@@ -51,36 +51,34 @@ This event reflects continued efforts and success in delivering relevant and tim
 <details>
 <summary>Roles</summary>
  
-*  Created and maintained project planning document and timelines. Led communication with speaker, vendors, on-campus and external stakeholders, and revised plans and timelines as needed throughout the process
-* Prioritized accommodations in the budget, communicated with OSU DAS to coordinate appropriate vendors for captioning/ASL interpreters. Prepared event glossary and introduction script.
-* Ran keynote event with Zoom Webinar500 platform, set up registration page and backend settings for webinar, wrote scripts, prepared run-of-show documents, tested event with captioners and interpreters and test users, set up livestreaming options.
+<ul>  Created and maintained project planning document and timelines. Led communication with speaker, vendors, on-campus and external stakeholders, and revised plans and timelines as needed throughout the process</ul>
+<ul> Prioritized accommodations in the budget, communicated with OSU DAS to coordinate appropriate vendors for captioning/ASL interpreters. Prepared event glossary and introduction script</ul>
+<ul>Ran keynote event with Zoom Webinar500 platform, set up registration page and backend settings for webinar, wrote scripts, prepared run-of-show documents, tested event with captioners and interpreters and test users, set up livestreaming options.</ul>
  </details>
  
 <details>
 <summary>Outcomes</summary>
-
-* Acquired $6,000 funding from eight sponsors, including on-campus and state organizations.
-* Over 163 attended the Zoom Webinar, representing 22 institutions/organizations outside of Oregon State University, and from 5 countries.
-* 18 additional viewers joined the YouTube livestream.
-* The 2-day virtual visit included a technical talk for the Geology & Geophysics departmental seminar, an undergraduate student workshop, a Women of Color discussion panel with 3 invited guest scientists, and a number of meetings with community members and organizations.
+<ul>Acquired $6,000 funding from eight sponsors, including on-campus and state organizations.</ul>
+<ul>Over 163 attended the Zoom Webinar, representing 22 institutions/organizations outside of Oregon State University, and from 5 countries.</ul>
+<ul>18 additional viewers joined the YouTube livestream.</ul>
+ <ul>The 2-day virtual visit included a technical talk for the Geology & Geophysics departmental seminar, an undergraduate student workshop, a Women of Color discussion panel with 3 invited guest scientists, and a number of meetings with community members and organizations.</ul>
     </details>
 
-For more information, see the [Unpacking Diversity Keynote 2021 page](https://unpackingdiversity.wixsite.com/ceoas/keynote-2021), which lists other events hosted as part of the 2-day event.
+For more information, visit [Unpacking Diversity Keynote 2021](https://unpackingdiversity.wixsite.com/ceoas/keynote-2021), which lists other events hosted as part of the 2-day event.
     
 ## Compiling NSF demographic data in the geosciences
 
-<a href="/images/NSF-Table-16-Earth-Sciences-doctorate-data.png"><img src="/images/NSF-Table-16-Earth-Sciences-doctorate-data.png" align="left" style="width:400px" alt="Graph showing number of U.S. Doctorates in Earth Sciences, by ethnicity. X-axis shows years 2008 to 2018. Y-axis shows number of degree recipients, from 0 to 400. Dots connected by lines are color coded to show different ethnicities: Black - Total, Grey - White, Purple - Hispanic or Latino, Black or African-American, Orange - Asian, Green - Native Hawaiian or Other Pacific Islander, Blue - More than one race, Gold - American Indian or Alaska Native. In 2008, the total number of degree recipients was around 275, with white recipients accounting for nearly 250. In 2018, total recipients increased to about 375. White recipients make up over 300 of those recipients. Almost no change observed from 2016 to 2018.">
-</a>
+<a href="/images/NSF-Table-16-Earth-Sciences-doctorate-data.png"><img src="/images/NSF-Table-16-Earth-Sciences-doctorate-data.png" align="left" style="width:400px" alt="Graph showing number of U.S. Doctorates in Earth Sciences, by ethnicity. X-axis shows years 2008 to 2018. Y-axis shows number of degree recipients, from 0 to 400. Dots connected by lines are color coded to show different ethnicities: Black - Total, Grey - White, Purple - Hispanic or Latino, Black or African-American, Orange - Asian, Green - Native Hawaiian or Other Pacific Islander, Blue - More than one race, Gold - American Indian or Alaska Native. In 2008, the total number of degree recipients was around 275, with white recipients accounting for nearly 250. In 2018, total recipients increased to about 375. White recipients make up over 300 of those recipients. Almost no change observed from 2016 to 2018."></a>
    
-Inspired by Dr. Rachel Bernard's paper, [No progress in geoscience for 40 years](https://www.nature.com/articles/s41561-018-0116-6), and [her blog post during her PhD years](https://www.jsg.utexas.edu/science-yall/who-gets-geology-phds/), it was evident that data from 1973-2016 showed a dismal outcome for Black and Indigineous students in the geosciences.
+Inspired by Dr. Rachel Bernard's paper, titled [No progress in geoscience for 40 years](https://www.nature.com/articles/s41561-018-0116-6), and [Dr. Bernard's blog post during her PhD years](https://www.jsg.utexas.edu/science-yall/who-gets-geology-phds/), where data from 1973-2016 pointed to a worse outcomes for Black and Indigineous students in geoscience.
 
 When new data from the [NSF Survey of Earned Doctorates](https://www.nsf.gov/statistics/srvydoctorates/) was released in 2020, I was motivated to see if two years of additional data (2017, 2018) would show the same trends that Dr. Bernard found. I compiled the new data and created these plots to assess if progress had occurred since 2016. These were shared on the Unpacking Diversity Twitter.
 
 Example of data for Earth Sciences majors shown above. View the full set of plots in the [Twitter thread](https://twitter.com/UnpkngDIVERSITY/status/1273507530509959168).
 
 Results have been featured in a number of presentations:
-* [NSF Ocean Sciences "Frontiers of Ocean Sciences" virtual symposium](https://www.youtube.com/watch?v=sI2TTOeA0Tk) in June 2020 (presenter: Dr. Hilary Palevsky)
-* "Nuances of Asian American experiences in ecology and evolutionary biology" talk in October 2021 (presenters: Andy Lee and Erin de Leon Sanchez)
+* June 2020 in NSF Ocean Sciences "Frontiers of Ocean Sciences" virtual symposium, presented by Dr. Hilary Palevsky. [Watch on Youtube](https://www.youtube.com/watch?v=sI2TTOeA0Tk). 
+* Oct 2021 in "Nuances of Asian American experiences in ecology and evolutionary biology", presented by Andy Lee and Erin de Leon Sanchez.
 
 Suggested credit for images: "Thi Truong, on behalf of @UnpkngDIVERSITY at OSU (2020)".
 
