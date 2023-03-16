@@ -15,10 +15,12 @@ Rocks have never been self-explanatory, yet the pace of undergraduate geology co
 
 
 ## Example tutorial for optical mineralogy students
-
- <a href="https://www.youtube.com/watch?v=muPhXJS_qwk"><img src="https://img.youtube.com/vi/muPhXJS_qwk/0.jpg" style="width:400px" alt="Thumbnail showing two views of mineral under microscope. Left side shows straight lines across light background. This is clinopyroxene under plane polarized light. Right side shows same view under cross polarized light where the light areas are now all dark. This indicates that this is clinopyroxene, because the lines do not align vertically, but are diagonal."></a>
       
-Instructional video for undergraduate optical mineralogy students to distinguish between clinopyroxene/orthopyroxene in thin section. No sound. [Link to YouTube Video](https://www.youtube.com/watch?v=muPhXJS_qwk) or click thumbnail above.
+Instructional video for undergraduate optical mineralogy students to distinguish between clinopyroxene/orthopyroxene in thin section.
+
+No audio. [Watch on YouTube](https://www.youtube.com/watch?v=muPhXJS_qwk).
+
+<img src="https://img.youtube.com/vi/muPhXJS_qwk/0.jpg" style="width:400px" alt="Thumbnail showing two views of mineral under microscope. Left side shows straight lines across light background. This is clinopyroxene under plane polarized light. Right side shows same view under cross polarized light where the light areas are now all dark. This indicates that this is clinopyroxene, because the lines do not align vertically, but are diagonal.">
 
 ### Sample narrative for teaching
  
@@ -35,10 +37,9 @@ This video shows how one might use cleavage traces of two unknown pyroxene miner
 
 # Justice and Access
 
-## 2021 Unpacking Diversity Keynote Event
+## Keynote Programming, "Transforming the culture of geosciences" with Dr. Aradhna Tripati
 
 <img src="https://img.youtube.com/vi/EKhZKJEdODk/0.jpg" align="left" style="width:400px" alt="YouTube thumbnail showing Zoom Webinar with views of Thi Truong, speaker Aradhna Tripati, interpreter"></a>
-<br>
  
 [Watch on YouTube](https://www.youtube.com/watch?v=EKhZKJEdODk)
  
@@ -66,7 +67,7 @@ This event reflects continued efforts and success in delivering relevant and tim
 
 For more information, visit [Unpacking Diversity Keynote 2021](https://unpackingdiversity.wixsite.com/ceoas/keynote-2021), which lists other events hosted as part of the 2-day event.
     
-## Compiling NSF demographic data in the geosciences
+## Compiling and presenting NSF demographic data in the geosciences
 
 <a href="/images/NSF-Table-16-Earth-Sciences-doctorate-data.png"><img src="/images/NSF-Table-16-Earth-Sciences-doctorate-data.png" align="left" style="width:400px" alt="Graph showing number of U.S. Doctorates in Earth Sciences, by ethnicity. X-axis shows years 2008 to 2018. Y-axis shows number of degree recipients, from 0 to 400. Dots connected by lines are color coded to show different ethnicities: Black - Total, Grey - White, Purple - Hispanic or Latino, Black or African-American, Orange - Asian, Green - Native Hawaiian or Other Pacific Islander, Blue - More than one race, Gold - American Indian or Alaska Native. In 2008, the total number of degree recipients was around 275, with white recipients accounting for nearly 250. In 2018, total recipients increased to about 375. White recipients make up over 300 of those recipients. Almost no change observed from 2016 to 2018."></a>
    
