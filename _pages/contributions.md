@@ -14,10 +14,11 @@ Rocks have never been self-explanatory, yet the pace of undergraduate geology co
 [comment]: # (Rocks have never been self-explanatory, yet the pace of undergraduate geology courses seem to suggest they are. In laboratory classrooms, we ask students to become adept at identifying rocks and minerals and associate them with specific geologic phenomena immediately. I have observed that students often rely on sight, memorization, and likely instinct, to finish assignments. The experience bears little resemblance to the practice of geology, and is inconsistent with the long history of classification of minerals and rocks. When teaching, especially in laboratory sections, I create opportunities for students to practice "seeing" and recognizing patterns, while being sensitive to disability and strategies to incorporate universal design. To address overwhelm and jargon, I give scaffolded instruction with examples, exemplars, and encourage students to seek digital resources/Internet content.)
 
 
-## Example tutorial for optical mineralogy students
-      
-This is an istructional video that I created for undergraduate optical mineralogy students to distinguish between clinopyroxene/orthopyroxene in thin section. Two views are demonstrated with annotations. [Watch video on YouTube](https://www.youtube.com/watch?v=muPhXJS_qwk).
+## Video tutorial for optical mineralogy
 
+<img src="https://img.youtube.com/vi/muPhXJS_qwk/0.jpg" style="width:400px" alt="Thumbnail showing two views of mineral under microscope. Left side shows straight lines across light background. This is clinopyroxene under plane polarized light. Right side shows same view under cross polarized light where the light areas are now all dark. This indicates that this is clinopyroxene, because the lines do not align vertically, but are diagonal.">
+
+This is an instructional video that I created for undergraduate optical mineralogy students to distinguish between clinopyroxene/orthopyroxene in thin section. Two views are demonstrated with annotations. [Watch video on YouTube](https://www.youtube.com/watch?v=muPhXJS_qwk).
 
 ### Sample narrative for teaching
  
@@ -29,9 +30,8 @@ This video shows how one might use cleavage traces of two unknown pyroxene miner
 4. If I must rotate the stage to see extinction, then this means the extinction angle is greater than 0. This indicates inclined extinction, and the mineral is clinopyroxene
 
 [^1]: Looking down the {100} face of clionopyroxene may produce parallel extinction. Be sure to examine several grains and use other diagnostic observations to support your identification.
- 
-<img src="https://img.youtube.com/vi/muPhXJS_qwk/0.jpg" style="width:400px" alt="Thumbnail showing two views of mineral under microscope. Left side shows straight lines across light background. This is clinopyroxene under plane polarized light. Right side shows same view under cross polarized light where the light areas are now all dark. This indicates that this is clinopyroxene, because the lines do not align vertically, but are diagonal.">
 
+---
 
 # Equity and Access in Geoscience
 
@@ -50,19 +50,23 @@ After much uncertainty amidst the pandemic, we successfully held the event durin
 This event reflects continued efforts and success in delivering relevant and timely educational events, whether they are in-person, hybrid, or virtual.
 
 ### Contributions
-<ul>  Created and maintained project planning document and timelines. Led communication with speaker, vendors, on-campus and external stakeholders, and revised plans and timelines as needed throughout the process</ul>
-<ul> Prioritized accommodations in the budget, communicated with OSU DAS to coordinate appropriate vendors for captioning/ASL interpreters. Prepared event glossary and introduction script</ul>
-<ul>Ran keynote event with Zoom Webinar500 platform, set up registration page and backend settings for webinar, wrote scripts, prepared run-of-show documents, tested event with captioners and interpreters and test users, set up livestreaming options.</ul>
+<ol>
+      <li> Created and maintained project planning document and timelines. Led communication with speaker, vendors, on-campus and external stakeholders, and revised plans and timelines as needed throughout the process</li>
+<li> Prioritized accommodations in the budget, communicated with OSU DAS to coordinate appropriate vendors for captioning/ASL interpreters. Prepared event glossary and introduction script</li>
+<li>Ran keynote event with Zoom Webinar500 platform, set up registration page and backend settings for webinar, wrote scripts, prepared run-of-show documents, tested event with captioners and interpreters and test users, set up livestreaming options.</li>
+</ol>
 
 ### Outcomes
-<ul>Acquired $6,000 funding from eight sponsors, including on-campus and state organizations.</ul>
-<ul>Over 163 attended the Zoom Webinar, representing 22 institutions/organizations outside of Oregon State University, and from 5 countries.</ul>
-<ul>18 additional viewers joined the YouTube livestream.</ul>
- <ul>The 2-day virtual visit included a technical talk for the Geology & Geophysics departmental seminar, an undergraduate student workshop, a Women of Color discussion panel with 3 invited guest scientists, and a number of meetings with community members and organizations.</ul>
+<ul>
+      <li>Acquired $6,000 funding from eight sponsors, including on-campus and state organizations.</li>
+      <li>Over 163 attended the Zoom Webinar, representing 22 institutions/organizations outside of Oregon State University, and from 5 countries.</li>
+      <li>18 additional viewers joined the YouTube livestream</li>
+      <li>The 2-day virtual visit included a technical talk for the Geology & Geophysics departmental seminar, an undergraduate student workshop, a Women of Color discussion panel with 3 invited guest scientists, and a number of meetings with community members and organizations</li>
+</ul>
 
 For more information, visit [Unpacking Diversity Keynote 2021](https://unpackingdiversity.wixsite.com/ceoas/keynote-2021), which lists other events hosted as part of the 2-day event.
     
-
+---
 
 ## Compiling and presenting NSF demographic data in the geosciences
 
