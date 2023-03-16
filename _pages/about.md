@@ -8,11 +8,13 @@ redirect_from:
   - /about.html
 ---
 
-<img src="/images/thi-microscope-lab-01.png" alt="Thi posing next to microscope. A box of Kimtech wipes is an easy reach away." width="500"/>
+<img src="/images/thi-microscope-lab-01.png" alt="Thi posing next to microscope. A box of Kimtech wipes is an easy reach away." width="500">
+
+# Hi, I'm Thi.
 
 My name is Thi Truong ("tee-troong", [hear name pronunciation](https://namedrop.io/thitruong)). I am currently a PhD Candidate in Geology at Oregon State University. I am originally from San Diego, California.
 
-# Research
+## Research
 
 I use geochemistry to understand processes that create anomalous, intraplate volcanism on Earth. My focus is on the creation and evolution of oceanic islands and seamounts, which are understood to contain signals of the mantle. 
 
@@ -23,7 +25,7 @@ Some of my interests:
 * Origin and behavior of volatiles and their distribution in the solid Earth
 * How the mantle plume hypothesis holds up over time, across global studies, in the study of intraplate ocean islands
 
-# Teaching and Practice
+## Teaching and Practice
 
 My teaching philosophy focuses on generating authentic connections with the practice of science and scientific thinking. While teaching concepts, I emphasize geology as a historical science, the social aspect of scientific communities, and the role of consensus. I am also interested in the origin of geoscience misconceptions (especially about plate tectonics and Earth's interior), and ways to address and disrupt their persistence.
 
@@ -32,6 +34,6 @@ Learn about some of my [contributions to social justice and education](https://t
 
 [comment]: # (Scientific advances reflect the work of scholarly communities, whether they are equitable or not. I invite the geoscience community to engage in these questions with me: If Geology is a global science, then why is exclusion the norm? How can we dismantle this exclusion today? I seek to answer such questions over the course of my career.)
 
-# Connect with me
+## Connect with me
 
 [E-mail me](#truonthi@oregonstate.edu) or connect on [Twitter](https://twitter.com/bostonthiparty)
