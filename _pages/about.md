@@ -8,7 +8,7 @@ redirect_from:
   - /about.html
 ---
 
-<img src="/images/thi-microscope-lab-01.png" alt="Thi in rock procesing laboratory, with a binocular microscope and a box of Kimtech wipes nearby" width="500">
+<img src="/images/thi-microscope-lab-01.png" alt="Thi in rock processing laboratory and posing next to Meiji binocular microscope. She is set up for comfortable rock picking, with sample vials, weighing paper, and a box of Kimtech wipes within reach." width="500">
 
 # Hi, I'm Thi.
 
