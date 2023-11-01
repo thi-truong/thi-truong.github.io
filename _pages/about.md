@@ -8,7 +8,7 @@ redirect_from:
   - /about.html
 ---
 
-<img src="/images/thi-microscope-lab-01.png" alt="Thi posing next to microscope. A box of Kimtech wipes is an easy reach away." width="500">
+<img src="/images/thi-microscope-lab-01.png" alt="Thi in rock procesing laboratory, with a binocular microscope and a box of Kimtech wipes nearby" width="500">
 
 # Hi, I'm Thi.
 
