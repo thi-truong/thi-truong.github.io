@@ -9,8 +9,8 @@
 locale                   : "en-US"
 title                    : "Thi Bich Truong"
 title_separator          : "-"
-name                     : &name "Thi Truong"
-description              : &description "PhD Candidate in Geology at Oregon State University"
+name                     :
+description              : &description "Postdoctoral Scholar"
 url                      : https://thi-truong.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
 repository               : "academicpages/academicpages.github.io"
