@@ -8,9 +8,7 @@ redirect_from:
   - /about.html
 ---
 
-![Thi in rock processing laboratory and posing next to Meiji binocular microscope. She is set up for comfortable rock picking, with sample vials, weighing paper, and a box of Kimtech wipes within reach.](/images/thi-microscope-lab-01.png)
-
-<img src="/images/thi-microscope-lab-01.png" alt="Thi in rock processing laboratory and posing next to Meiji binocular microscope. She is set up for comfortable rock picking, with sample vials, weighing paper, and a box of Kimtech wipes within reach." width="500">
+<img src="/images/thi-microscope-lab-01.png" alt="Thi in rock processing laboratory and posing next to Meiji binocular microscope. She is set up for comfortable rock picking, with sample vials, weighing paper, and a box of Kimtech wipes within reach." width="50%">
 
 My name is Thi Truong ("tee-troong", [hear name pronunciation](https://namedrop.io/thitruong)). I am currently a PhD Candidate in Geology at Oregon State University. I am originally from San Diego, California.
 
