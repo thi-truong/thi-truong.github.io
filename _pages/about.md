@@ -1,6 +1,6 @@
 ---
 permalink: /
-title: "Thi Truong"
+title: "About"
 excerpt: "About me"
 author_profile: true
 redirect_from: 
@@ -8,9 +8,9 @@ redirect_from:
   - /about.html
 ---
 
-<img src="/images/thi-microscope-lab-01.png" alt="Thi in rock processing laboratory and posing next to Meiji binocular microscope. She is set up for comfortable rock picking, with sample vials, weighing paper, and a box of Kimtech wipes within reach." width="500">
+![Thi in rock processing laboratory and posing next to Meiji binocular microscope. She is set up for comfortable rock picking, with sample vials, weighing paper, and a box of Kimtech wipes within reach.](/images/thi-microscope-lab-01.png)
 
-# Hi, I'm Thi.
+<img src="/images/thi-microscope-lab-01.png" alt="Thi in rock processing laboratory and posing next to Meiji binocular microscope. She is set up for comfortable rock picking, with sample vials, weighing paper, and a box of Kimtech wipes within reach." width="500">
 
 My name is Thi Truong ("tee-troong", [hear name pronunciation](https://namedrop.io/thitruong)). I am currently a PhD Candidate in Geology at Oregon State University. I am originally from San Diego, California.
 
@@ -34,6 +34,6 @@ Learn about some of my [contributions to social justice and education](https://t
 
 [comment]: # (Scientific advances reflect the work of scholarly communities, whether they are equitable or not. I invite the geoscience community to engage in these questions with me: If Geology is a global science, then why is exclusion the norm? How can we dismantle this exclusion today? I seek to answer such questions over the course of my career.)
 
-## Connect with me
+## Contact
 
-[E-mail me](#truonthi@oregonstate.edu) or connect on [Twitter](https://twitter.com/bostonthiparty)
+[E-mail me](#tbtruon1@uci.edu) or connect on [Twitter @bostonthiparty](https://twitter.com/bostonthiparty)
