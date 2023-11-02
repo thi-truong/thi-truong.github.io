@@ -1,6 +1,6 @@
 ---
 layout: archive
-title: "Contributions to teaching, leadership and engagement"
+title: "Contributions to Teaching, Leadership, and Access"
 permalink: /contributions/
 author_profile: true
 ---
@@ -11,12 +11,13 @@ Below are some of my materials prepared for introductory college and university 
 
 Rocks have never been self-explanatory, yet the pace of undergraduate geology courses seem to suggest they are. When teaching, especially in laboratory sections, I create opportunities for students to practice "seeing" and recognizing patterns, while being sensitive to disability and strategies to incorporate universal design.
 
+## Optical Mineralogy Concepts in Video Format
 
-## Video tutorial for optical mineralogy
+### Description
+
+This screenshot shows a view from an instructional video I created for undergraduate optical mineralogy students to distinguish between two minerals, clinopyroxene and orthopyroxene, in thin section under two types of light (plane polarized light, also referred to as PPL and cross polarized light, referred to as XPL). In this video, the same view for each mineral to demonstrate differences in extinction. Difference are also noted in annotations. [Watch video on YouTube](https://www.youtube.com/watch?v=muPhXJS_qwk).
 
 <img src="https://img.youtube.com/vi/muPhXJS_qwk/0.jpg" style="width:400px" alt="Thumbnail showing two views of mineral under microscope. Left side shows straight lines across light background. This is clinopyroxene under plane polarized light. Right side shows same view under cross polarized light where the light areas are now all dark. This indicates that this is clinopyroxene, because the lines do not align vertically, but are diagonal.">
-
-This is an instructional video that I created for undergraduate optical mineralogy students to distinguish between clinopyroxene/orthopyroxene in thin section. Two views are demonstrated with annotations. [Watch video on YouTube](https://www.youtube.com/watch?v=muPhXJS_qwk).
 
 ### Sample narrative for teaching
  
@@ -31,15 +32,17 @@ This video shows how one might use cleavage traces of two unknown pyroxene miner
 
 ---
 
-# Equity and Access in Geoscience
+# Leadership
 
-## Keynote "Transforming the culture of geosciences" with Dr. Aradhna Tripati
+## Unpacking Diversity Keynote Event, 2021
+
+ "Transforming the culture of geosciences" in 2021 with Dr. Aradhna Tripati was a multi-year effort at the institutional and community level.
 
 <img src="https://img.youtube.com/vi/EKhZKJEdODk/0.jpg" align="left" style="width:400px" alt="YouTube thumbnail showing Zoom Webinar with views of Thi Truong, speaker Aradhna Tripati, interpreter">
-
-### A multi-year effort at the institutional and community level
  
 [Watch on YouTube](https://www.youtube.com/watch?v=EKhZKJEdODk)
+
+### Key Details
  
 I coordinated multiple aspects of a 2021 keynote event with Dr. Aradhna Tripati (UCLA, CDLS). Planned initial conception of in-person event in October 2019 to execution of virtual event in May 2021. The first year's planning efforts resulted in an original date, late May 2020.
 
@@ -68,8 +71,6 @@ For more information, visit [Unpacking Diversity Keynote 2021](https://unpacking
 
 ## Compiling and presenting NSF demographic data in the geosciences
 
-<img src="/images/NSF-Table-16-Earth-Sciences-doctorate-data.png" style="width:400px" alt="Graph showing number of U.S. Doctorates in Earth Sciences, by ethnicity. X-axis shows years 2008 to 2018. Y-axis shows number of degree recipients, from 0 to 400. Dots connected by lines are color coded to show different ethnicities: Black - Total, Grey - White, Purple - Hispanic or Latino, Black or African-American, Orange - Asian, Green - Native Hawaiian or Other Pacific Islander, Blue - More than one race, Gold - American Indian or Alaska Native. In 2008, the total number of degree recipients was around 275, with white recipients accounting for nearly 250. In 2018, total recipients increased to about 375. White recipients make up over 300 of those recipients. Almost no change observed from 2016 to 2018.">
-
 ### Motivation
    
 Inspired by Dr. Rachel Bernard's paper, titled [No progress in geoscience for 40 years](https://www.nature.com/articles/s41561-018-0116-6), and [Dr. Bernard's blog post during her PhD years](https://www.jsg.utexas.edu/science-yall/who-gets-geology-phds/), where data from 1973-2016 pointed to a worse outcomes for Black and Indigineous students in geoscience.
@@ -78,9 +79,13 @@ When new data from the [NSF Survey of Earned Doctorates](https://www.nsf.gov/sta
 
 ### Outcomes
 
-<a href="/images/NSF-Table-16-Earth-Sciences-doctorate-data.png">View full size version of plot with NSF data</a>
+The line plot shows the number of U.S. Doctorates in Earth Sciences, by ethnicity between 2008 to 2018. Lines correspond to values for the following ethnicities: Total, White, Hispanic or Latino, Black or African-American, Asian, Native Hawaiian or Other Pacific Islander, More than one race, American Indian or Alaska Native. 
 
-Example of data for Earth Sciences majors shown above. View the full set of plots in the [Twitter thread](https://twitter.com/UnpkngDIVERSITY/status/1273507530509959168).
+<img src="/images/NSF-Table-16-Earth-Sciences-doctorate-data.png" style="width:50%" alt="In 2008, the total number of degree recipients was around 275, with white recipients accounting for nearly 250. In 2018, total recipients increased to about 375. White recipients make up over 300 of those recipients. Almost no change observed from 2016 to 2018.">
+
+<a href="/images/NSF-Table-16-Earth-Sciences-doctorate-data.png">View full size image</a>
+
+View the full set of plots in the [Twitter thread](https://twitter.com/UnpkngDIVERSITY/status/1273507530509959168).
 
 Results have been featured in a number of presentations:
 * June 2020 in NSF Ocean Sciences "Frontiers of Ocean Sciences" virtual symposium, presented by Dr. Hilary Palevsky. [Watch on Youtube](https://www.youtube.com/watch?v=sI2TTOeA0Tk). 
@@ -88,4 +93,4 @@ Results have been featured in a number of presentations:
 
 Suggested credit for images: "Thi Truong, on behalf of @UnpkngDIVERSITY at OSU (2020)".
 
-[E-mail me](mailto:truonthi@oregonstate.edu) to request full-size images for presentation or other use.
+[E-mail me](mailto:tbtruon1@uci.edu) to request full-size images for presentation or other use.
