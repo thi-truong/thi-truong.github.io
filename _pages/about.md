@@ -10,7 +10,7 @@ redirect_from:
 
 <img src="/images/thi-microscope-lab-01.png" alt="Thi in rock processing laboratory and posing next to Meiji binocular microscope. She is set up for comfortable rock picking, with sample vials, weighing paper, and a box of Kimtech wipes within reach.">
 
-My name is Thi Truong ("tee-troong", [hear name pronunciation](https://namedrop.io/thitruong)). I am currently a PhD Candidate in Geology at Oregon State University. I am originally from San Diego, California.
+My name is Thi Truong ("tee-troong", [hear name pronunciation](https://namedrop.io/thitruong)). I am currently a postdoctoral scholar at UC Irvine. I am originally from San Diego, California, and recently completed my PhD in Geology at Oregon State University.
 
 ## Research
 
