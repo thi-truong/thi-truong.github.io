@@ -6,7 +6,7 @@ tags:
   - internet
   - science education
 ---
-I want to write more about interdisciplinary conversations, which are so impactful for this point of my career. These days, I have the most conversations with James Adams, who is a postdoctoral scholar in Anthropology, also in the CLIMATE Justice Initiative with me. Last quarter, we collaborated on some lectures about data sharing and research questions, towards the goal of curriculum development. We have also had more expansive conversations about the state of historical sciences, and he has motivated me to read more of non-Latour authors about the topic of scales and Earth. Real growth happening in this space since this [2022 blog post](https://thi-truong.github.io/posts/2022/01/16/thoughts-reading-latour)!
+I want to write more about interdisciplinary conversations, which are so impactful for this point of my career. These days, I have the most conversations with James Adams, an anthropologist, who also works in the CLIMATE Justice Initiative. Last quarter, we collaborated on some lectures about data sharing and research questions, towards the goal of curriculum development. We have also had more expansive conversations about the state of historical sciences, and he has motivated me to read more of non-Latour authors about the topic of scales and Earth. Real growth happening in this space since this [2022 blog post](https://thi-truong.github.io/posts/2022/01/16/thoughts-reading-latour)!
 
 Recently, our conversation has turned to information and the Internet. James recommended a book by Alexander Galloway, [Protocol: How Control Exists after Decentralization](https://mitpress.mit.edu/9780262572330/protocol/). Here is an excerpt from the foreword about how the Internet functions as a network (p. xv):
 
