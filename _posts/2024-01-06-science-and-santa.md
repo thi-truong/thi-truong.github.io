@@ -8,11 +8,7 @@ tags:
 ---
 I want to write more about interdisciplinary conversations, which are so impactful for this point of my career. These days, I have the most conversations with James Adams, an anthropologist, who also works in the CLIMATE Justice Initiative. Last quarter, we collaborated on some lectures about data sharing and research questions, towards the goal of curriculum development. We have also had more expansive conversations about the state of historical sciences, and he has motivated me to read more of non-Latour authors about the topic of scales and Earth. Real growth happening in this space since this [2022 blog post](https://thi-truong.github.io/posts/2022/01/16/thoughts-reading-latour)!
 
-Recently, our conversation has turned to information and the Internet. James recommended a book by Alexander Galloway, [Protocol: How Control Exists after Decentralization](https://mitpress.mit.edu/9780262572330/protocol/). Here is an excerpt from the foreword about how the Internet functions as a network (p. xv):
-
-> More than that, this infrastructure and set of procedures grows out of U.S. government and military interests in developing high-technology communications capabilities (from ARPA to DARPA to dot-coms). At an even finer level of detail, the Internet is not a simple “ask and you shall receive” tool. 
-
-Our conversation and this quote reminded me about a secret that I have held for decades, but I am ready to come clean. Science made me believe in Santa Claus.
+Recently, our conversation has turned to information and the Internet. Our conversation reminded me about a secret that I have held for decades, but I am ready to come clean: Science made me believe in Santa Claus.
 
 Let me explain!
 
@@ -33,6 +29,10 @@ In hindsight, it is painfully obvious that the webcam pictures and the videos we
 
 Instead, I want to explore the question: why would scientific organizations like NOAA be in cahoots with Santa Claus? Recently, [NASA did not delay a mission to deliver human remains to the moon](https://www.space.com/nasa-responds-navajo-nation-objection-human-remains-moon), ignoring concerns from the Navajo Nation, stating that "we do not and never have let religious beliefs dictate humanity’s space efforts". Major government scientific organizations choose to ignore religion, while committing to the myth of Santa Claus for 50+ years in their outreach activities. 
 
-My guess is that the image of Santa Claus in the United States is a commercialized, marketed myth, reflecting a type of surveillance of year-round morality. Conveniently, the NORAD Santa Tracker makes a convincing case to worry about what Santa thinks about you. The success of NORAD in providing resources every year to convince people about Santa tracking is in line with the increased role of government in maintaining certain beliefs in greater society, which historically were in the purview of parents. In addition, it normalizes the possibility of surveillance of ocean, land and sky, for the purpose of locating Santa. It's a great testing ground for the U.S. military on the Internet, as suggested in the book excerpt above.
+My guess is that the image of Santa Claus in the United States is a commercialized, marketed myth, reflecting a type of surveillance of year-round morality. Conveniently, the NORAD Santa Tracker makes a convincing case to worry about what Santa thinks about you. The success of NORAD in providing resources every year to convince people about Santa tracking is in line with the increased role of government in maintaining certain beliefs in greater society, which historically were in the purview of parents. In addition, it normalizes the possibility of surveillance of ocean, land and sky, for the purpose of locating Santa.
+
+During our conversation, James recommended a book by Alexander Galloway, [Protocol: How Control Exists after Decentralization](https://mitpress.mit.edu/9780262572330/protocol/). Here is an excerpt from the foreword about how the Internet functions as a network (p. xv):
+
+> More than that, this infrastructure and set of procedures grows out of U.S. government and military interests in developing high-technology communications capabilities (from ARPA to DARPA to dot-coms). At an even finer level of detail, the Internet is not a simple “ask and you shall receive” tool. 
 
 In the week of Christmas 2023, the NORAD Santa Tracker website continued the yearly tradition of showing a map to track Santa, but also provided a hotline for inquiries. Had I known a few weeks ago, I would have called. My 10 year old self would have been too shy to ask. Today, I am intensely curious to know how technological and scientific vocabulary emerges in response to this burning question to the NORAD hotline: "Is this real?"
