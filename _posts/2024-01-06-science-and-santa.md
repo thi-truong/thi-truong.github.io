@@ -6,18 +6,12 @@ tags:
   - internet
   - science education
 ---
-I want to write more about interdisciplinary conversations, which are so impactful for this point of my career. These days, I have the most conversations with James Adams, an anthropologist, who also works in the CLIMATE Justice Initiative. Last quarter, we collaborated on some lectures about data sharing and research questions, towards the goal of curriculum development. We have also had more expansive conversations about the state of historical sciences, and he has motivated me to read more of non-Latour authors about the topic of scales and Earth. Real growth happening in this space since this [2022 blog post](https://thi-truong.github.io/posts/2022/01/16/thoughts-reading-latour)!
+These days, I have the most conversations with James Adams, an anthropologist, who also works in the CLIMATE Justice Initiative. He has motivated me to read more of non-Latour authors about the topic of scales and Earth. Real growth since [2022](https://thi-truong.github.io/posts/2022/01/16/thoughts-reading-latour)! Recently, our conversation has turned to information and the Internet. Our conversation reminded me about a secret that I have held for decades, but I am ready to come clean: Science made me believe in Santa Claus. Okay, let me explain.
 
-Recently, our conversation has turned to information and the Internet. Our conversation reminded me about a secret that I have held for decades, but I am ready to come clean: Science made me believe in Santa Claus.
-
-Let me explain!
-
-Around Y2K (the early 2000s), I was in the later years of elementary school. Today, my elementary school gets a 2/10 on the GreatSchools rating. I had not tested successfully into the GATE program, so I was not a "gifted" student. I barely had science education, and probably did not understand what "science" meant. During one winter break period, I had caught a commercial on TV that advertised Santa tracking by an entity called NORAD. This YouTube video [NORAD Tracks Santa 2006 Trailer](youtube.com/watch?v=XcMvAeic-sY) is similar to what I saw on TV. In particular, these screenshots show what the invitation looked like to learn more:
+Around Y2K (the early 2000s), I was in the later years of elementary school. During one random day during the holiday break, I caught a TV commercial advertising Santa tracking capabilities, by an entity called NORAD. This YouTube video [NORAD Tracks Santa 2006 Trailer](youtube.com/watch?v=XcMvAeic-sY) is similar to what I saw that day. In particular, these screenshots show what the invitation looked like to learn more:
 
 <img src="/images/NORAD_commercial_2006.png" alt="Screenshots of commercial showing graphics of Santa Claus and reindeer over a neighborhood, with text: Join NORAD on Christmas Eve to Track Santa. 1-877-Hi NORAD www.noradsanta.org, Santa footage by Analytical Graphics, Inc.">
 I easily found the website that advertised the compelling promise, that one could actually track Santa around the world on Christmas Eve.
-
-I was presented with these kinds of graphics and this kind of writing. 
 
 <img src="/images/NORAD_Track_Santa_Here_2004.png" alt="Screenshot of NORAD Santa Tracker page from December 2004 showing map and links to learn more">
 
