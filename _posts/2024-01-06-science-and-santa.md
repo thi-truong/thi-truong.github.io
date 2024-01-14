@@ -6,7 +6,7 @@ tags:
   - internet
   - science education
 ---
-These days, I bounce ideas often with James Adams, an anthropologist, who is also a postdoctoral researcher in the CLIMATE Justice Initiative. He has motivated me to read more of non-Latour authors about the topic of scales and Earth. Real growth since [the last time I talked about Latour](https://thi-truong.github.io/posts/2022/01/16/thoughts-reading-latour)! Recently, our conversation has turned to information and the Internet. Our conversation reminded me about a secret that I have held for decades, but I am ready to come clean: **Science made me believe in Santa Claus**. Okay, let me explain.
+These days, I bounce ideas often with James Adams, an anthropologist who is also a postdoctoral researcher in the CLIMATE Justice Initiative. He has motivated me to read more of non-Latour authors about the topic of scales and Earth. Real growth since [the last time I talked about Latour](https://thi-truong.github.io/posts/2022/01/16/thoughts-reading-latour)! Recently, our conversation has turned to information and the Internet. Our conversation reminded me about a secret that I have held for decades, but I am ready to come clean: **Science made me believe in Santa Claus**. Okay, let me explain.
 
 In the early 2000s, I was in 5th grade. During one random day during the holiday break, I caught a TV commercial advertising Santa tracking capabilities, by an entity called NORAD. This YouTube video [NORAD Tracks Santa 2006 Trailer](youtube.com/watch?v=XcMvAeic-sY) is similar to what I saw that day. In particular, these screenshots show what the commercial looked like:
 
