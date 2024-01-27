@@ -6,11 +6,36 @@ tags:
   - 
 ---
 
-Hi, my name is Thi. I am pursuing a doctorate in Geology. I seek to understand processes occurring in Earth's interior, in the present-day, and ideally, the past. I have found that academic blogs in geology tend to fall into one of these categories....
+      google.charts.load('current', {
+        'packages': ['sankey']
+      });
+      google.charts.setOnLoadCallback(drawChart);
 
-* Evidently was only created to fulfill the goal of personalizing all pages of a pre-designed website template. Usually has 2 posts from 2018. 
-* Relays findings from short-term scientific research activities, expeditions, etc. Is updated by a team of researchers, or the self-proclaimed writer of the group. Sometimes this satisfies broader impact statements, or counts as outreach to the public. 
-* Is owned by a corporation, but has a lot of different authors and the range of posts is surprisingly useful ([AGU blogosphere](https://blogs.agu.org/), believe it or not)
-* Thoughtfully updated on a regular basis over several years. The author seems to enjoy the act of writing, introspection, and reflection. Writes about a variety of topics, not just their current topic of study. They tend to be written by senior scientists who have a lot of personal anecdotes and warm testimonials to share. 
+      function drawChart() {
+        var data = new google.visualization.DataTable();
+        data.addColumn('string', 'From');
+        data.addColumn('string', 'To');
+        data.addColumn('number', 'Weight');
+        data.addRows([
+          ['High School 1', 'CSUSM', 5],
+          ['High School 1', 'UC San Diego', 7],
+          ['High School 1', 'Community College', 10],
+          ['High School 1', 'Harvard', 2],
+          ['High School 1', 'MIT', 2],
+          ['High School 2', 'CSUSM', 2],
+          ['High School 2', 'MIT', 3],
+          ['High School 2', 'UC San Diego', 9],
+          ['High School 2', 'Community College', 2],
+          ['High School 2', 'Yale', 2],
+          ['High School 2', 'Harvard', 4]
+        ]);
 
-Which one is this going to be? I am just as curious as you are!
+        // Sets chart options.
+        var options = {
+          width: 600,
+        };
+
+        // Instantiates and draws our chart, passing in some options.
+        var chart = new google.visualization.Sankey(document.getElementById('sankey_basic'));
+        chart.draw(data, options);
+      }
