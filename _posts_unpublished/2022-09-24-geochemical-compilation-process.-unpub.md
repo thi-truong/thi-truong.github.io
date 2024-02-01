@@ -138,4 +138,4 @@ Part of that was due to me familiarizing myself with Excel on Windows 11 and not
 
 Note that this includes some time spent data wrangling the 25 groups of samples and working in Excel (overlapping working time). The actual IgPet plotting and exporting took maybe 5 minutes, and I did not alter any of the symbols, font size, design, etc. It's pretty much ready to edit in Illustrator.
 
-This was done quickly to demonstrate how quickly I could make a plot, but it is not ready to show with my data yet. For  that, i just have to make sure all the column headers match. I'll standardize this next!
+This was done quickly to demonstrate how quickly I could make a plot, but it is not ready to show with my data yet. For  that, i just have to make sure all the column headers match. I'll standardize this next! **Note from present day Thi (February 2024): I did NOT standardize this next.**
