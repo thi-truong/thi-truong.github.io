@@ -8,6 +8,8 @@ tags:
   - learning
 ---
 
+**Note from present day Thi (February 2024): This software/data narrative about my dissertation work was written in 2022 just a few months before I completely switched over to using R. Fascinating stuff.**
+
 Today I attempted to solve the problem of streamlining geochemical compilations with Excel and IgPet. I prioritize traceability and reproducibility, so while it may be easy to generate a cloud of data points that is vaguely related to a reference, I prefer to keep the data as complete as possible, because I foresee several edits in my future.
 
 I have a penchant for the program [IgPet](https://www.rockware.com/product/igpet/) to make geochemical figures because of the ease of generating bivariate plots with minimal steps. On the superficial side, I like the default appearance of the plots. On the practical side, IgPet brings me closer to the goal of learning tidy data, which is more consistent with good programming practices.
