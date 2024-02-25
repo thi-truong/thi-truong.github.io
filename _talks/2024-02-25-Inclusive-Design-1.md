@@ -14,7 +14,7 @@ This workshop is an introductory primer on one aspect of inclusive design, tailo
 # Purpose
 The workshop aims to equip participants to address the gaps in alt-text availability on the web. By the end of this workshop, participants will be able to identify the presence of alt-text on various platforms, write appropriate alt-text for photographs and simple data visualizations, and provide constructive feedback about peers' alt-text for shared content. This workshop intervenes on the persistent lack of alternative text availability, which contributes to exclusion of Blind/low vision users on the Internet. 
 
-# Activities:
+# Activities
 The strategies and recommendations incorporated in the workshop derive predominantly from the work of Blind/low scholars, web users, programmers, and web accessibility organizations. 
 * A conceptual exploration of the social model of disability, misconceptions about blindness and technology, and a demonstration of screen reader software on various geoscience websites.
 * Structured practice to write alt-text for 6 example images, including a variety of data visualizations. The novel training images provide participants with a hands-on experience in remediating their personal content archives. In addition, the majority of the training images have available alt-text, which allows participants to compare their work.
