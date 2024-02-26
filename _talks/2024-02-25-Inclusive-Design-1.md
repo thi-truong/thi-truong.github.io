@@ -8,7 +8,7 @@ date: 2024-02-07
 location: "UC Irvine"
 excerpt: "This workshop is an introductory primer on one aspect of inclusive design, tailored for CLIMATE Justice Initiative fellows at UC Irvine"
 ---
-# Workshop
+# Inclusive Design Workshop #1
 
 ## Overview
 * The workshop was a 110 minute introduction to inclusive design and image accessibility, and designed for CLIMATE Justice Initiative fellows at UC Irvine. The group of fellows consists of postbaccalaureate and doctoral students trained in a range of science and social science fields.
