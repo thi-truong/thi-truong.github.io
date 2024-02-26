@@ -30,7 +30,7 @@ The workshop also sparked newfound awareness and knowledge about the inclusive d
   
 ## Introduction
 
-The workshop began with a poll to establish baseline experience with alt-text and screen readers. One quarter of respondents have never heard of the term "alternative text". About half were familiar with alternative text and have used it to some extent. When asked about screen reader software usage, half of respondents did not have any previous experience with screen reader software. 15% of respondents reported having a little bit of experience. There were no responses indicating greater than a moderate amount of experience.
+The workshop began with a poll to establish baseline experience with alt-text and screen readers. One quarter of respondents have never heard of the term "alternative text". When asked about screen reader software usage, half of respondents did not have any previous experience with screen reader software. There were no responses indicating greater than a moderate amount of experience.
 
 <img src="/images/inclusive_design_alt_text_piechart.png"  width="44%" height="44%" alt = "Pie chart showing responses for How familiar are you with alternative text? Results show 24% never heard of it, 15% heard of it but don't remember, 46% know of it and used a few times, 15% know of it and use it often"> <img src="/images/inclusive_design_screenreader_annotate.png"  width="42%" height="42%" alt = "Pie chart showing responses for Have you ever used screen reader software before? Results show 46% never, 38% a little bit, 15% not sure">
 
@@ -55,7 +55,10 @@ The workshop began with a poll to establish baseline experience with alt-text an
 
 ## Closing Discussion
 
-Analysis of trends on Twitter for posts with photos by 4 different university departments (2 - UCI, 1 - UCSD, 1 - URI) over a 2-week period from 1/24/24 to 2/7/24 shows that no department uses alt-text with 100% compliance. UCI's department of Social Ecology is particularly notable for publishing 68 posts total at a rate of 5 photos/day, with less than 10% containing alt-text. The lack of any alt-text from UCI Earth System Science (ESS) also reveals a clear opportunity to increase alt-text usage and follow the example of other geoscience departments, URI Graduate School of Oceanography and Scripps Institution of Oceanography.
+Analysis of trends on Twitter for posts with photos by 4 different university departments (2 - UCI, 1 - UCSD, 1 - URI) over a 2-week period from 1/24/24 to 2/7/24. These departments were chosen because of their active Twitter presence (many comparable departments had limited activity since December 2023)
+* None of these departments use alt-text to 100% compliance.
+* UCI department of Social Ecology is particularly notable for publishing 68 posts total at a rate of 5 photos/day, with less than 10% containing alt-text.
+* The lack of any alt-text from UCI Earth System Science (ESS) also reveals a clear opportunity to increase alt-text usage and follow the example of other geoscience departments, URI Graduate School of Oceanography and Scripps Institution of Oceanography.
 
 <img src="/images/Twitter_posts_jan_24.svg"  width="75%" height="75%" alt = "Bar chart showing number Twitter posts with images with and without alt-text since Jan 24 (2 weeks) for different university groups. UCI Social Ecology posts the most images without alt-text, whereas Scripps Ocean posts the most images with alt-text.">
 
