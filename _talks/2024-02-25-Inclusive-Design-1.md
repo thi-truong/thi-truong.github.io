@@ -28,11 +28,18 @@ excerpt: "This workshop is an introductory primer on one aspect of inclusive des
 # Activities
 
 ## Introduction and Concepts
-* Administered anonymous poll to establish baseline experience with alt-text and screen readers
+* Administered anonymous poll to establish baseline experience with alt-text and screen readers. 
 * Conceptual exploration of the social model of disability, misconceptions about blind users and technology
 * Demonstration of screen reader software on various geoscience websites
-  
-<img src="/images/inclusive_design_screenreader_annotate.png"  width="40%" height="40%" alt = "Pie chart showing screenreader usage: 46% never, 38% a little bit, 15% not sure">
+
+Poll responses to the question, **How familiar are you with "alternative text"?** show that one quarter of respondents have never heard of the term, and half knew of alternative text and have used it to some extent:
+
+<center><img src="/images/inclusive_design_alt_text_piechart.png"  width="60%" height="60%" alt = "Pie chart showing responses for How familiar are you with alternative text? Results show 24% never heard of it, 15% heard of it but don't remember, 46% know of it and used a few times, 15% know of it and use it often"></center>
+
+Responses to the question, **Have you ever used screen reader software before?** show that half do not have previous experience with screen reader software. There were no responses indicating greater than a moderate amount of experience with screen readers:
+
+<img src="/images/inclusive_design_screenreader_annotate.png"  width="58%" height="58%" alt = "Pie chart showing responses for Have you ever used screen reader software before? Results show 46% never, 38% a little bit, 15% not sure">
+
 
 ## Large group practice
 * Participants learned how to check for alt-text on existing images and individually practiced writing 1-3 sentence alt-text desriptions for 6 example images, including a variety of data visualizations. 
