@@ -13,7 +13,7 @@ excerpt: "This workshop is an introductory primer on one aspect of inclusive des
 **Jump to section:**
  - [Testimonials](#item-one)
  - [Participants Background](#item-two)
- - [Detailed Workshop Structure](#item-three)
+ - [Workshop Structure](#item-three)
    - [Introduction and software demo](#item-four)
    - [Application Part 1: Individual practice](#item-five)
    - [Application Part 2: Small group breakout task](#item-six)
@@ -52,7 +52,7 @@ When asked about screen reader software usage, half of respondents did not have 
 <img src="/images/inclusive_design_screenreader_annotate.png"  width="80%" height="80%" alt = "Pie chart showing responses for Have you ever used screen reader software before? Results show 46% never, 38% a little bit, 15% not sure">
 
  <a id="item-three"></a>
-## Detailed Workshop Structure
+## Workshop Structure
 
 <a id="item-four"></a>
 ### Introduction and software demo
@@ -66,8 +66,6 @@ When asked about screen reader software usage, half of respondents did not have 
 * Participants learned how to check for alt-text on existing images and learned about the difference between alternative text and captions
 * Participants individually practiced writing 1-3 sentence alt-text descriptions and submitted via Zoom chat. They were instructed to submit responses at the same time. Overall, they worked with 6 example images, which include photos, simple graphics, and data visualizations
 * Most practice images for exercises had suitable, existing alt-text for the images. Providing links to these source encourages participants to access alt-text information independently to compare their work.
-
-#### Results
 
 The following table shows various statistics from Zoom chat log. It is notable that the delay in response time improved for activity #2 and activity #3, however, increasing the allotted time to 1.5 minutes would be beneficial. Activities #4, 5, and 6 were data visualizations with increasing complexity, reflected by the average word count. It is possible that more time allotted would increase the 56% response rate, but I suspect participants were either fatigued, away from the desk, or left early.
 
@@ -95,7 +93,6 @@ The following table shows various statistics from Zoom chat log. It is notable t
 * Held a large group debrief where each breakout group explained their alt-text choices and process, followed by comments from original group members about the accuracy, context, and other information.
 <!--- * Discussion about resources needed to write complete alt-text for completely unfamiliar images. --->
 
-#### Results
 After 15 minutes of breakout room activity (3 rooms), alternative text had been written for 17/22 images (77%). This shows that collaborative alternative text writing for unfamiliar/novel images is highly efficient. Dividing up the workload likely results in less fatigue than writing alternative text continuously (as in Application Part 1)
 
 <a id="item-seven"></a>
@@ -129,5 +126,3 @@ The original workshop slides contain over 20 links to useful resources. Some are
 * Twitter accounts
   - [@HabenGirma](https://twitter.com/HabenGirma). Haben Girma, JD, Harvard Deafblind lawyer, often posts about daily experience as a traveling human rights lawyer
   - [@BlondeHistorian](https://twitter.com/BlondeHistorian). Dr. Amy Kavanagh often posts about daily experience navigating public spaces with guide dog and as a new parent.
- 
-
