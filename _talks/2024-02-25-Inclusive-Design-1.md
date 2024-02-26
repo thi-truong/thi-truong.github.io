@@ -25,33 +25,31 @@ The workshop was virtual, held over Zoom with invitations for interaction via ch
 
 ## Introduction
 * Administered anonymous poll to establish baseline experience with alt-text and screen readers
-* Conceptual exploration of the social model of disability
-* Misconceptions about blindness and technology
+* Conceptual exploration of the social model of disability, misconceptions about blind users and technology
 * Demonstration of screen reader software on various geoscience websites
-
-![Pie chart showing screenreader usage](/images/inclusive_design_screenreader_annotate.png)
+  
+<img src="/images/inclusive_design_screenreader_annotate.png"  width="40%" height="40%" alt = "Pie chart showing screenreader usage: 46% never, 38% a little bit, 15% not sure">
 
 ## Large group practice
-* Structured practice to write alt-text for 6 example images, including a variety of data visualizations. 
-* The novel training images provide participants with a hands-on experience with unfamiliar but approachable situations. 
+* Structured practice to write alt-text for 6 example images, including a variety of data visualizations.  
 * The majority of the training images for exercises have available alt-text, which allows participants to compare their work.
 
 ## Breakout room practice
 * Breakout group activities where they collaborate on crafting alt-text for each other's work, and format the images on a previous collaborative Google Slide deck of project overviews. Groups were instructed to write alt-text for *other* groups' work, which was feasible in the time allotted, as they all have shared previous context about their community-based research projects in class discussions, and participants chose the slides to work on.
-* During large group review and debrief, I facilitated a discussion with prepared prompts about the process. Participants were encouraged to articulate their choice to include or exclude information when writing alt-text. I provided comments and suggestions to the alt-text and invited original group to comment on accuracy, context or details. 
+* During large group review and debrief, I facilitated a discussion with prepared prompts about the process. I provided comments and suggestions to the alt-text and invited original group to comment on accuracy, context or details. 
 
 ## Closing
 
 A concluding discussion highlights recent alt-text compliance trends on Twitter, and caution against adding web/social media responsibilities that may exacerbate labor distribution inequities among junior scholars or staff members.
 
-|                 | Without alt-text | With alt-text |
+![Bar chart showing number Twitter posts with images with and without alt-text since Jan 24 (2 weeks) for different university groups. UCI Social Ecology posts the most images without alt-text, whereas Scripps Ocean posts the most images with alt-text.](/images/Twitter_posts_jan_24.svg "2-week period of Twitter Posts 1/24/24 to 2/6/24")
+
+| Twitter @       | Without alt-text | With alt-text |
 |-----------------|------------------|---------------|
 | @URIGSO         | 3                | 4             |
 | @Scripps_Ocean  | 7                | 19            |
 | @uciess         | 11               | 0             |
 | @Social_Ecology | 63               | 5             |
-
-![Bar chart showing number Twitter posts with images with and without alt-text since Jan 24 (2 weeks) for different university groups. UCI Social Ecology posts the most images without alt-text, whereas Scripps Ocean posts the most images with alt-text.](/images/Twitter_posts_jan_24.svg "2-week period of Twitter Posts 1/24/24 to 2/6/24")
 
 # Impact
 
