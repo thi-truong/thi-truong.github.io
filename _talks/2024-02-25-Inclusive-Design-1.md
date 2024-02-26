@@ -1,5 +1,5 @@
 ---
-title: "Inclusive Design Workshop #1"
+title: "Inclusive Design Workshop #1: Accessibility and Web Images"
 collection: talks
 type: "Oral Presentation"
 permalink: /talks/2024-02-25-Inclusive-Design-1
