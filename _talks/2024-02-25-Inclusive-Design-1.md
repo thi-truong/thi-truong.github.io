@@ -8,11 +8,15 @@ date: 2024-02-07
 location: "UC Irvine"
 excerpt: "This workshop is an introductory primer on one aspect of inclusive design, tailored for CLIMATE Justice Initiative fellows at UC Irvine"
 ---
-# Overview
+# Workshop
 
-* This workshop was an introductory primer on one aspect of inclusive design, tailored for CLIMATE Justice Initiative fellows at UC Irvine. Participants shared a foundation in research justice principles and versatile communication skills from previous coursework and ongoing workshops. 
-* This workshop focused on non-text media (images), which is relevant for developing an online presence, disseminating scholarly research products, and co-producing impactful deliverables with community organizations as a result of the fellowship. This work intervenes on the persistent lack of alternative text availability, which contributes to exclusion of Blind/low vision users online.
-* Participants learned how to identify missing alt-text on various platforms, write appropriate alt-text for photographs and simple data visualizations, and provide constructive feedback about peers' written descriptions.
+**Description:** A 2-hour introductory primer on one aspect of inclusive design, tailored for CLIMATE Justice Initiative fellows at UC Irvine. Participants shared a foundation in research justice principles and versatile communication skills from previous coursework and ongoing workshops.  The workshop focused on non-text media (images), which is relevant for developing an online presence, disseminating scholarly research products, and co-producing impactful deliverables with community organizations as a result of the fellowship. 
+
+**Format:** Virtual, held over Zoom with invitations for interaction via chat, breakout rooms, and large group discussion.
+
+**Outcomes:** Participants learned how to identify missing alt-text on various platforms, write appropriate alt-text for photographs and simple data visualizations, and provide constructive feedback about peers' written descriptions.
+
+This work intervenes on the persistent lack of alternative text availability, which contributes to exclusion of Blind/low vision users online. The strategies and recommendations incorporated in the workshop derive predominantly from the work of Blind/low scholars, web users, programmers, and web accessibility organizations. 
 
 **Participant Testimonials:** 
 
@@ -21,9 +25,8 @@ excerpt: "This workshop is an introductory primer on one aspect of inclusive des
 *"Dr. Thi did a wonderful job explaining the importance of different inclusive practices and also lead an engaging activity via zoom. It was the first time I had been part of a workshop that focused on inclusive design."*
 
 # Activities
-The workshop was virtual, held over Zoom with invitations for interaction via chat, breakout rooms, and large group discussion. The strategies and recommendations incorporated in the workshop derive predominantly from the work of Blind/low scholars, web users, programmers, and web accessibility organizations. 
 
-## Introduction
+## Introduction and Concepts
 * Administered anonymous poll to establish baseline experience with alt-text and screen readers
 * Conceptual exploration of the social model of disability, misconceptions about blind users and technology
 * Demonstration of screen reader software on various geoscience websites
