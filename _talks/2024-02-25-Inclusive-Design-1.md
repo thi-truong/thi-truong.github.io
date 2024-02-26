@@ -15,7 +15,7 @@ excerpt: "This workshop is an introductory primer on one aspect of inclusive des
   - No preparation or previous experience with web design or accessibility was required. However, fellows have learned about principles of research justice and communication skills for environmental scholars.
 * The workshop format was virtual and held as a Zoom Meeting.
   - Participants interacted with Google Slides, Zoom polls, Zoom chat, and Zoom breakout rooms.
-* My focus on alternative text for static images intervenes on the problem of high volumes of inaccessible media published by universities and research organizations online. I incorporate strategies, recommendations, and resources from the Blind/low vision individuals and communities.
+* My focus on alternative text for static images intervenes on the problem of high volumes of inaccessible media published by universities and research organizations online. I incorporate strategies, recommendations, and resources largely from  Blind/low vision individuals and communities online.
 
 ## Feedback
 Participant feedback described the workshop as an engaging introduction to accessibility through alternative text practices.
@@ -26,7 +26,7 @@ The workshop also sparked newfound awareness and knowledge about the inclusive d
 
 > *"Dr. Thi did a wonderful job explaining the importance of different inclusive practices and also lead an engaging activity via zoom. It was the first time I had been part of a workshop that focused on inclusive design."*
 
-# Workshop Agenda and Structure
+# Workshop Structure
   
 ## Introduction
 
