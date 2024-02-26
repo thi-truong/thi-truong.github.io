@@ -30,17 +30,17 @@ The workshop also sparked newfound awareness and knowledge about the inclusive d
 
 ## Workshop Structure
   
-### Introduction
+### Pre-workshop survey
 
 The workshop began with a poll to establish baseline experience with alt-text and screen readers. One quarter of respondents have never heard of the term "alternative text". 
 
-<img src="/images/inclusive_design_alt_text_piechart.png"  width="80%" height="850%" alt = "Pie chart showing responses for How familiar are you with alternative text? Results show 24% never heard of it, 15% heard of it but don't remember, 46% know of it and used a few times, 15% know of it and use it often">
+<img src="/images/inclusive_design_alt_text_piechart.png"  width="85%" height="85%" alt = "Pie chart showing responses for How familiar are you with alternative text? Results show 24% never heard of it, 15% heard of it but don't remember, 46% know of it and used a few times, 15% know of it and use it often">
 
 When asked about screen reader software usage, half of respondents did not have any previous experience with screen reader software. There were no responses indicating greater than a moderate amount of experience.
 
-<img src="/images/inclusive_design_screenreader_annotate.png"  width="75%" height="75%" alt = "Pie chart showing responses for Have you ever used screen reader software before? Results show 46% never, 38% a little bit, 15% not sure">
+<img src="/images/inclusive_design_screenreader_annotate.png"  width="80%" height="80%" alt = "Pie chart showing responses for Have you ever used screen reader software before? Results show 46% never, 38% a little bit, 15% not sure">
 
-#### Concepts and Demo
+### Introduction to concepts and software demo
 
 * Conceptual exploration of the social model of disability, misconceptions about blind users and technology, definitions of assistive technology, alternative text, and captions 
 * Demonstrated NonVisual Desktop Access (NVDA) screen reader software on images from geoscience organization websites
@@ -75,7 +75,7 @@ Analysis of trends on Twitter for posts with photos by 4 different university de
 
 A closing discussion further reveals opportunities, challenges, and suggestions for further reflection about maintaining alternative text standards among diverse teams and web platforms.
 
-## Abridged Resources List
+## Resources (abridged)
 
 The original workshop slides contain over 20 links to useful resources. Some are listed below.
 
