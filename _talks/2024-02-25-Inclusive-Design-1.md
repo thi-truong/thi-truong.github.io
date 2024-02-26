@@ -70,12 +70,12 @@ When asked about screen reader software usage, half of respondents did not have 
 
 Analysis of trends on Twitter for posts with photos by 4 different university departments (2 - UCI, 1 - UCSD, 1 - URI) over a 2-week period from 1/24/24 to 2/7/24. These departments were chosen because of their active Twitter presence (many comparable departments had limited activity since December 2023)
 * None of these departments use alt-text to 100% compliance.
-* UCI department of Social Ecology is particularly notable for publishing 68 posts total at a rate of 5 photos/day, with less than 10% containing alt-text.
+* UCI department of Social Ecology is particularly notable for publishing 68 posts total at a rate of 5 photos/day, with less than 10% containing alt-text. 
 * The lack of any alt-text from UCI Earth System Science (ESS) also reveals a clear opportunity to increase alt-text usage and follow the example of other geoscience departments, URI Graduate School of Oceanography and Scripps Institution of Oceanography.
 
 <img src="/images/Twitter_posts_jan_24.svg" alt = "Bar chart showing number Twitter posts with images with and without alt-text since Jan 24 (2 weeks) for different university groups. UCI Social Ecology posts the most images without alt-text, whereas Scripps Ocean posts the most images with alt-text.">
 
-| Twitter Handle  | :x: Without alt-text | :white_check_mark: With alt-text |
+| Twitter Handle  | Without alt-text | With alt-text |
 |-----------------|------------------|---------------|
 | [@URIGSO](https://twitter.com/URIGSO)         | 3                | 4             |
 | [@Scripps_Ocean](https://twitter.com/Scripps_Ocean)  | 7                | 19            |
