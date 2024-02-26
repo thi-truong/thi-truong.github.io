@@ -8,34 +8,41 @@ date: 2024-02-07
 location: "UC Irvine"
 excerpt: "This workshop is an introductory primer on one aspect of inclusive design, tailored for CLIMATE Justice Initiative fellows at UC Irvine"
 ---
-# Description
-This workshop is an introductory primer on one aspect of inclusive design, tailored for CLIMATE Justice Initiative fellows at UC Irvine. Participants share a foundation in research justice principles and versatile communication skills from previous coursework and ongoing workshops. This workshop focuses on non-text media (images), which is relevant for developing an online presence, disseminating scholarly research products, and co-producing impactful deliverables with community organizations as a result of the fellowship.
+# Overview
 
-# Purpose
-The workshop aims to equip participants to address the gaps in alt-text availability on the web. By the end of this workshop, participants will be able to identify the presence of alt-text on various platforms, write appropriate alt-text for photographs and simple data visualizations, and provide constructive feedback about peers' alt-text for shared content. This workshop intervenes on the persistent lack of alternative text availability, which contributes to exclusion of Blind/low vision users on the Internet. 
+* This workshop was an introductory primer on one aspect of inclusive design, tailored for CLIMATE Justice Initiative fellows at UC Irvine. Participants shared a foundation in research justice principles and versatile communication skills from previous coursework and ongoing workshops. 
+* This workshop focused on non-text media (images), which is relevant for developing an online presence, disseminating scholarly research products, and co-producing impactful deliverables with community organizations as a result of the fellowship. This work intervenes on the persistent lack of alternative text availability, which contributes to exclusion of Blind/low vision users online.
+* Participants learned how to identify missing alt-text on various platforms, write appropriate alt-text for photographs and simple data visualizations, and provide constructive feedback about peers' written descriptions.
+
+**Participant Testimonials:** 
+
+*"I like how Thi got the class engaged. It was a fun and learning journey for me"*
+
+*"Dr. Thi did a wonderful job explaining the importance of different inclusive practices and also lead an engaging activity via zoom. It was the first time I had been part of a workshop that focused on inclusive design."*
 
 # Activities
-The strategies and recommendations incorporated in the workshop derive predominantly from the work of Blind/low scholars, web users, programmers, and web accessibility organizations. 
+The workshop was virtual, held over Zoom with invitations for interaction via chat, breakout rooms, and large group discussion. The strategies and recommendations incorporated in the workshop derive predominantly from the work of Blind/low scholars, web users, programmers, and web accessibility organizations. 
 
 ## Introduction
-* Poll to survey familiarity and previous experience with alt-text and screen readers
+* Administered anonymous poll to establish baseline experience with alt-text and screen readers
 * Conceptual exploration of the social model of disability
 * Misconceptions about blindness and technology
 * Demonstration of screen reader software on various geoscience websites
 
-## Large group practice
+![Pie chart showing screenreader usage](/images/inclusive_design_screenreader_annotate.png)
 
-* Structured practice to write alt-text for 6 example images, including a variety of data visualizations.
-* The novel training images provide participants with a hands-on experience in remediating their personal content archives.
-* In addition, the majority of the training images have available alt-text, which allows participants to compare their work.
+## Large group practice
+* Structured practice to write alt-text for 6 example images, including a variety of data visualizations. 
+* The novel training images provide participants with a hands-on experience with unfamiliar but approachable situations. 
+* The majority of the training images for exercises have available alt-text, which allows participants to compare their work.
 
 ## Breakout room practice
-* Breakout group activities where they collaborate on crafting alt-text for each other's work.
-* Participants are encouraged to articulate their choice to include or exclude information when writing alt-text.
+* Breakout group activities where they collaborate on crafting alt-text for each other's work, and format the images on a previous collaborative Google Slide deck of project overviews. Groups were instructed to write alt-text for *other* groups' work, which was feasible in the time allotted, as they all have shared previous context about their community-based research projects in class discussions, and participants chose the slides to work on.
+* During large group review and debrief, I facilitated a discussion with prepared prompts about the process. Participants were encouraged to articulate their choice to include or exclude information when writing alt-text. I provided comments and suggestions to the alt-text and invited original group to comment on accuracy, context or details. 
 
 ## Closing
 
-A concluding discussion highlights recent alt-text compliance trends on Twitter, cautioning against added web/social media responsibilities that may exacerbate labor distribution inequities among junior scholars or staff members.
+A concluding discussion highlights recent alt-text compliance trends on Twitter, and caution against adding web/social media responsibilities that may exacerbate labor distribution inequities among junior scholars or staff members.
 
 |                 | Without alt-text | With alt-text |
 |-----------------|------------------|---------------|
@@ -52,9 +59,3 @@ A concluding discussion highlights recent alt-text compliance trends on Twitter,
 Participant feedback described the workshop as an engaging introduction to accessibility through alternative text practices, sparking newfound awareness and knowledge among participants through interactive group activities and hands-on exercises.
 
 To enhance the workshop experience, participants suggested incorporating additional examples of how government/scientific agencies describe complex images, allocating more time for exercises, changing the format to in-person to increase engagement, and hosting more workshops in the future.
-
-## Testimonials
-
-*"I like how Thi got the class engaged. It was a fun and learning journey for me"*
-
-*"Dr. Thi did a wonderful job explaining the importance of different inclusive practices and also lead an engaging activity via zoom. It was the first time I had been part of a workshop that focused on inclusive design."*
