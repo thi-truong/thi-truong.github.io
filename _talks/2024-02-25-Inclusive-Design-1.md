@@ -19,7 +19,7 @@ excerpt: "This workshop is an introductory primer on one aspect of inclusive des
 * My focus on alternative text for static images intervenes on the problem of high volumes of inaccessible media published by universities and research organizations online.
   - I incorporated strategies, recommendations, and resources largely from Blind/low vision individuals and communities online.
 
-## Feedback
+## Impact and Testimonials
 Participant feedback described the workshop as an engaging introduction to accessibility through alternative text practices.
 
 > *"I like how Thi got the class engaged. It was a fun and learning journey for me"*
