@@ -66,7 +66,7 @@ Analysis of trends on Twitter for posts with photos by 4 different university de
 
 <img src="/images/Twitter_posts_jan_24.svg" alt = "Bar chart showing number Twitter posts with images with and without alt-text since Jan 24 (2 weeks) for different university groups. UCI Social Ecology posts the most images without alt-text, whereas Scripps Ocean posts the most images with alt-text.">
 
-| Twitter Handle  | Without alt-text | With alt-text |
+| Twitter Handle  | :x: Without alt-text | :white_check_mark: With alt-text |
 |-----------------|------------------|---------------|
 | [@URIGSO](https://twitter.com/URIGSO)         | 3                | 4             |
 | [@Scripps_Ocean](https://twitter.com/Scripps_Ocean)  | 7                | 19            |
