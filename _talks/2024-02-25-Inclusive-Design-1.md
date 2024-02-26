@@ -11,12 +11,15 @@ excerpt: "This workshop is an introductory primer on one aspect of inclusive des
 # Inclusive Design Workshop #1
 
 **Jump to section:**
- - [Overview](#item-one)
- - [Testimonials](#item-two)
+ - [Testimonials](#item-one)
+ - [Participants Background](#item-two)
  - [Detailed Workshop Structure](#item-three)
- - [Resources](#item-four)
-   
-<a id="item-one"></a>
+   - [Introduction and software demo](#item-four)
+   - [Application Part 1: Individual practice](#item-five)
+   - [Application Part 2: Small group breakout task](#item-six)
+   - [Closing Discussion](#item-seven)
+   - [Resources (abridged)](#item-eight)
+
 ## Overview
 * The workshop was a 110 minute introduction to inclusive design and image accessibility designed for CLIMATE Justice Initiative fellows at UC Irvine.
   - The group of fellows consists of postbaccalaureate and doctoral students trained in a range of science and social science fields. Fellows have learned about principles of research justice and communication skills for environmental scholars.
@@ -26,7 +29,7 @@ excerpt: "This workshop is an introductory primer on one aspect of inclusive des
 * My focus on alternative text for static images intervenes on the problem of high volumes of inaccessible media published by universities and research organizations online.
   - I incorporated strategies, recommendations, and resources largely from Blind/low vision individuals and communities online.
 
-<a id="item-two"></a>
+<a id="item-one"></a>
 ## Testimonials
 Participant feedback generally described the workshop as an engaging introduction to accessibility through alternative text practices.
 
@@ -36,10 +39,9 @@ The workshop also sparked newfound awareness and knowledge about the inclusive d
 
 > *"Dr. Thi did a wonderful job explaining the importance of different inclusive practices and also lead an engaging activity via zoom. It was the first time I had been part of a workshop that focused on inclusive design."*
 
- <a id="item-three"></a>
-## Detailed Workshop Structure
 
-### Pre-workshop survey
+<a id="item-two"></a>
+ ## Participants Background
 
 The workshop began with a poll to establish baseline experience with alt-text and screen readers. One quarter of respondents have never heard of the term "alternative text". 
 
@@ -49,29 +51,37 @@ When asked about screen reader software usage, half of respondents did not have 
 
 <img src="/images/inclusive_design_screenreader_annotate.png"  width="80%" height="80%" alt = "Pie chart showing responses for Have you ever used screen reader software before? Results show 46% never, 38% a little bit, 15% not sure">
 
-### Introduction to concepts and software demo
+ <a id="item-three"></a>
+## Detailed Workshop Structure
+
+<a id="item-four"></a>
+### Introduction and software demo
 
 * Conceptual exploration of the social model of disability, misconceptions about blind users and technology, definitions of assistive technology, alternative text, and captions 
 * Demonstrated NonVisual Desktop Access (NVDA) screen reader software on images from geoscience organization websites
 
-### Application
+<a id="item-five"></a>
+### Application Part 1: Individual practice
 
-#### Individual practice: photos and data visualizations
+* Participants learned how to check for alt-text on existing images and learned about the difference between alternative text and captions
+* Participants individually practiced writing 1-3 sentence alt-text descriptions for 6 example images, which include photos, simple graphics, and data visualizations
+* Practice images for exercises had suitable, existing alt-text for the images. Providing links to these source encourages participants to access alt-text information independently to compare their work.
 
-* Participants learned how to check for alt-text on existing images and individually practiced writing 1-3 sentence alt-text descriptions for 6 example images, including a variety of data visualizations. 
-* Training images for exercises were often selected because they had suitable, existing alt-text for the images. Providing links to these source encourages participants to access alt-text information independently to compare their work.
+<a id="item-six"></a>
+### Application Part 2: Small group breakout task
 
-#### Small group practice: images from community research overview slides
+* Participants collaborate to write alt-text for each other's work from a previous collaborative Google Slide deck of community-based project overviews.
+* Held a large group debrief where each breakout group explained their alt-text choices and process, followed by comments from original group members about the accuracy, context, and other information.
+<!--- * Discussion about resources needed to write complete alt-text for completely unfamiliar images. --->
 
-* Participants collaborate to write alt-text for each other's work, and format the images on a previous collaborative Google Slide deck of project overviews.
-* Large group debrief and discussion about resources needed to write complete alt-text for unfamiliar images. Each breakout group explained their alt-text choices and process, followed by comments from original group members about the accuracy, context, and other information. 
-
+<a id="item-seven"></a>
 ### Closing Discussion
 
-Analysis of trends on Twitter for posts with photos by 4 different university departments (2 - UCI, 1 - UCSD, 1 - URI) over a 2-week period from 1/24/24 to 2/7/24. These departments were chosen because of their active Twitter presence (many comparable departments had limited activity since December 2023)
+Analysis of trends on Twitter for posts with photos by 4 university departments (2 - UCI, 1 - UCSD, 1 - URI) over a 2-week period from 1/24/24 to 2/7/24. These departments were chosen because of their activity-- all have posted images continuously since January 2024. The analysis revealed many opportunities:
+
 * None of these departments use alt-text to 100% compliance.
 * UCI department of Social Ecology is particularly notable for publishing 68 posts total at a rate of 5 photos/day, with less than 10% containing alt-text. 
-* The lack of any alt-text from UCI Earth System Science (ESS) also reveals a clear opportunity to increase alt-text usage and follow the example of other geoscience departments, URI Graduate School of Oceanography and Scripps Institution of Oceanography.
+* The lack of any alt-text from UCI Earth System Science (ESS) also reveals a clear need to increase alt-text usage and follow the example of other geoscience departments, URI Graduate School of Oceanography and Scripps Institution of Oceanography.
 
 <img src="/images/Twitter_posts_jan_24.svg" alt = "Bar chart showing number Twitter posts with images with and without alt-text since Jan 24 (2 weeks) for different university groups. UCI Social Ecology posts the most images without alt-text, whereas Scripps Ocean posts the most images with alt-text.">
 
@@ -84,8 +94,8 @@ Analysis of trends on Twitter for posts with photos by 4 different university de
 
 A closing discussion further reveals opportunities, challenges, and suggestions for further reflection about maintaining alternative text standards among diverse teams and web platforms.
 
-  <a id="item-four"></a>
-## Resources (abridged)
+<a id="item-eight"></a>
+### Resources (abridged)
 
 The original workshop slides contain over 20 links to useful resources. Some are listed below.
 
