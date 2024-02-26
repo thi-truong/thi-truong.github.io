@@ -30,7 +30,7 @@ The workshop also sparked newfound awareness and knowledge about the inclusive d
   
 ## Introduction
 
-The workshop began with a poll to establish baseline experience with alt-text and screen readers. One quarter of respondents have never heard of the term "alternative text", while and half were familiar with the term, have used alternative text to some extent. Half of respondents did not have previous experience with screen reader software, and there were no responses indicating greater than a moderate amount of experience with screen readers.
+The workshop began with a poll to establish baseline experience with alt-text and screen readers. One quarter of respondents have never heard of the term "alternative text". About half were familiar with alternative text and have used it to some extent. When asked about screen reader software usage, half of respondents did not have any previous experience with screen reader software. 15% of respondents reported having a little bit of experience. There were no responses indicating greater than a moderate amount of experience.
 
 <img src="/images/inclusive_design_alt_text_piechart.png"  width="44%" height="44%" alt = "Pie chart showing responses for How familiar are you with alternative text? Results show 24% never heard of it, 15% heard of it but don't remember, 46% know of it and used a few times, 15% know of it and use it often"> <img src="/images/inclusive_design_screenreader_annotate.png"  width="42%" height="42%" alt = "Pie chart showing responses for Have you ever used screen reader software before? Results show 46% never, 38% a little bit, 15% not sure">
 
