@@ -34,7 +34,9 @@ The workshop also sparked newfound awareness and knowledge about the inclusive d
 
 The workshop began with a poll to establish baseline experience with alt-text and screen readers. One quarter of respondents have never heard of the term "alternative text". When asked about screen reader software usage, half of respondents did not have any previous experience with screen reader software. There were no responses indicating greater than a moderate amount of experience.
 
-<img src="/images/inclusive_design_alt_text_piechart.png"  width="44%" height="44%" alt = "Pie chart showing responses for How familiar are you with alternative text? Results show 24% never heard of it, 15% heard of it but don't remember, 46% know of it and used a few times, 15% know of it and use it often"> <img src="/images/inclusive_design_screenreader_annotate.png"  width="42%" height="42%" alt = "Pie chart showing responses for Have you ever used screen reader software before? Results show 46% never, 38% a little bit, 15% not sure">
+<img src="/images/inclusive_design_alt_text_piechart.png"  width="100%" height="100%" alt = "Pie chart showing responses for How familiar are you with alternative text? Results show 24% never heard of it, 15% heard of it but don't remember, 46% know of it and used a few times, 15% know of it and use it often">
+
+<img src="/images/inclusive_design_screenreader_annotate.png"  width="95%" height="95%" alt = "Pie chart showing responses for Have you ever used screen reader software before? Results show 46% never, 38% a little bit, 15% not sure">
 
 #### Concepts and Demo
 
@@ -62,7 +64,7 @@ Analysis of trends on Twitter for posts with photos by 4 different university de
 * UCI department of Social Ecology is particularly notable for publishing 68 posts total at a rate of 5 photos/day, with less than 10% containing alt-text.
 * The lack of any alt-text from UCI Earth System Science (ESS) also reveals a clear opportunity to increase alt-text usage and follow the example of other geoscience departments, URI Graduate School of Oceanography and Scripps Institution of Oceanography.
 
-<img src="/images/Twitter_posts_jan_24.svg"  width="75%" height="75%" alt = "Bar chart showing number Twitter posts with images with and without alt-text since Jan 24 (2 weeks) for different university groups. UCI Social Ecology posts the most images without alt-text, whereas Scripps Ocean posts the most images with alt-text.">
+<img src="/images/Twitter_posts_jan_24.svg" alt = "Bar chart showing number Twitter posts with images with and without alt-text since Jan 24 (2 weeks) for different university groups. UCI Social Ecology posts the most images without alt-text, whereas Scripps Ocean posts the most images with alt-text.">
 
    <details>
 <summary><i>Click to expand: Data Table, Twitter bar chart</i></summary>
