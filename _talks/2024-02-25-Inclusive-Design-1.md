@@ -45,8 +45,8 @@ The workshop began with a poll to establish baseline experience with alt-text an
 
 ### Individual practice: photos and data visualizations
 
-* Participants learned how to check for alt-text on existing images and individually practiced writing 1-3 sentence alt-text desriptions for 6 example images, including a variety of data visualizations. 
-* Training images for exercises were often selected because they had suitable, pre-existing alt-text published by somoene else. Providing links to these source encourages participants to access alt-text information independently to compare their work.
+* Participants learned how to check for alt-text on existing images and individually practiced writing 1-3 sentence alt-text descriptions for 6 example images, including a variety of data visualizations. 
+* Training images for exercises were often selected because they had suitable, existing alt-text for the images. Providing links to these source encourages participants to access alt-text information independently to compare their work.
 
 ### Small group practice: images from community research overview slides
 
