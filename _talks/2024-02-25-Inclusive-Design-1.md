@@ -12,7 +12,7 @@ excerpt: "This workshop is an introductory primer on one aspect of inclusive des
 
 **Table of contents:**
  - [Overview](#item-one)
- - [Impact](#item-two)
+ - [Testimonials](#item-two)
  - [Detailed Workshop Structure](#item-three)
  - [Resources](#item-four)
    
@@ -28,7 +28,7 @@ excerpt: "This workshop is an introductory primer on one aspect of inclusive des
 
 <a id="item-two"></a>
 ## Testimonials
-Participant feedback described the workshop as an engaging introduction to accessibility through alternative text practices.
+Participant feedback generally described the workshop as an engaging introduction to accessibility through alternative text practices.
 
 > *"I like how Thi got the class engaged. It was a fun and learning journey for me"*
 
