@@ -22,10 +22,8 @@ excerpt: "This workshop is an introductory primer on one aspect of inclusive des
 
 ## Overview
 * The workshop was a 110 minute introduction to inclusive design and image accessibility designed for CLIMATE Justice Initiative fellows at UC Irvine.
-  - The group of fellows consists of postbaccalaureate and doctoral students trained in a range of science and social science fields. Fellows have learned about principles of research justice and communication skills for environmental scholars.
   - No preparation or previous experience with web design or accessibility was required. 
-* The workshop format was virtual and held as a Zoom Meeting.
-  - Participants interacted with Google Slides, Zoom polls, Zoom chat, and Zoom breakout rooms.
+* The workshop format was virtual and held as a Zoom Meeting.Participants interacted with Google Slides, Zoom polls, Zoom chat, and Zoom breakout rooms.
 * My focus on alternative text for static images intervenes on the problem of high volumes of inaccessible media published by universities and research organizations online.
   - I incorporated strategies, recommendations, and resources largely from Blind/low vision individuals and communities online.
 
@@ -42,6 +40,8 @@ The workshop also sparked newfound awareness and knowledge about the inclusive d
 
 <a id="item-two"></a>
  ## Participants Background
+
+The group of fellows consists of postbaccalaureate and doctoral students trained in a range of science and social science fields. Fellows have learned about principles of research justice and communication skills for environmental scholars.
 
 The workshop began with a poll to establish baseline experience with alt-text and screen readers. One quarter of respondents have never heard of the term "alternative text". 
 
@@ -64,8 +64,29 @@ When asked about screen reader software usage, half of respondents did not have 
 ### Application Part 1: Individual practice
 
 * Participants learned how to check for alt-text on existing images and learned about the difference between alternative text and captions
-* Participants individually practiced writing 1-3 sentence alt-text descriptions for 6 example images, which include photos, simple graphics, and data visualizations
-* Practice images for exercises had suitable, existing alt-text for the images. Providing links to these source encourages participants to access alt-text information independently to compare their work.
+* Participants individually practiced writing 1-3 sentence alt-text descriptions and submitted via Zoom chat. They were instructed to submit responses at the same time. Overall, they worked with 6 example images, which include photos, simple graphics, and data visualizations
+* Most practice images for exercises had suitable, existing alt-text for the images. Providing links to these source encourages participants to access alt-text information independently to compare their work.
+
+#### Results
+
+The following table shows various statistics from Zoom chat log. It is notable that the delay in response time improved for activity #2 and activity #3, however, increasing the allotted time to 1.5 minutes would be beneficial. Activities #4, 5, and 6 were data visualizations with increasing complexity, reflected by the average word count. It is possible that more time allotted would increase the 56% response rate, but I suspect participants were either fatigued, away from the desk, or left early.
+
+|                                  | **#1, Photo of animal** | **#2, Photo of notable person** | **#3, Flyer** | **#4, Line graph** | **#5, Heat Map** | **#6, Map with data with text** |
+|----------------------------------|-------------------------|---------------------------------|---------------|--------------------|------------------|---------------------------------|
+| **Time Allotted**                | 1 min                   | 1 min                           | 1 min         | 2.5 min            | 2.5 min          | 2.5 min                         |
+| **Number of responses**                  | 15                      | 14                              | 12            | 12                 | 12               | 9                               |
+| **% participants responding <sup>[1]</sup>** | 94%                     | 88%                             | 75%           | 75%                | 75%              | 56%                             |
+| **Average word count**           | 20                      | 23                              | 29            | 53                 | 60               | 47                              |
+| **Delay, 0-1 seconds <sup>[2]</sup>**                  | 9                       | 2                               | 11            | 11                 | 6                | 5                               |
+| **2-3 seconds**                  | 3                       |                                 | 1             | 1                  | 4                | 3                               |
+| **3-4 seconds**                  | 2                       |                                 |               |                    | 1                |                                 |
+| **5-6 seconds**                  |                         | 7                               |               |                    |                  |                                 |
+| **7-8 seconds**                  |                         | 1                               |               |                    |                  |                                 |
+| **More than 8 seconds**           | 1                       | 4                               |               |                    | 1                | 1                               |
+
+<sup>[1] - Assuming same participants were available from the beginning to the end, however, some may have started late or left early </sup>
+
+<sup>[2] - Delay in response time, calculated using the individual response time relative to the time of first response entered after verbal instruction to submit </sup> 
 
 <a id="item-six"></a>
 ### Application Part 2: Small group breakout task
@@ -73,6 +94,9 @@ When asked about screen reader software usage, half of respondents did not have 
 * Participants collaborate to write alt-text for each other's work from a previous collaborative Google Slide deck of community-based project overviews.
 * Held a large group debrief where each breakout group explained their alt-text choices and process, followed by comments from original group members about the accuracy, context, and other information.
 <!--- * Discussion about resources needed to write complete alt-text for completely unfamiliar images. --->
+
+#### Results
+After 15 minutes of breakout room activity (3 rooms), alternative text had been written for 17/22 images (77%). This shows that collaborative alternative text writing for unfamiliar/novel images is highly efficient. Dividing up the workload likely results in less fatigue than writing alternative text continuously (as in Application Part 1)
 
 <a id="item-seven"></a>
 ### Closing Discussion
@@ -105,3 +129,5 @@ The original workshop slides contain over 20 links to useful resources. Some are
 * Twitter accounts
   - [@HabenGirma](https://twitter.com/HabenGirma). Haben Girma, JD, Harvard Deafblind lawyer, often posts about daily experience as a traveling human rights lawyer
   - [@BlondeHistorian](https://twitter.com/BlondeHistorian). Dr. Amy Kavanagh often posts about daily experience navigating public spaces with guide dog and as a new parent.
+ 
+
