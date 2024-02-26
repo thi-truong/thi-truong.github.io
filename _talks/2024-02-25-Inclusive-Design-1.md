@@ -10,76 +10,76 @@ excerpt: "This workshop is an introductory primer on one aspect of inclusive des
 ---
 # Workshop
 
-**Description:**
-* The workshop was an introductory primer on inclusive design and image accessibility designed for CLIMATE Justice Initiative fellows at UC Irvine. Participants have a growing understanding of research justice principles from previous/ongoing workshops and related curricula.
-* The workshop focused on non-text media (images), which is relevant for developing an online presence, disseminating scholarly research products, and co-producing impactful deliverables with community organizations as a result of the fellowship.
-* This work intervenes on the persistent lack of alternative text online by incorporating strategies and recommendations from the Blind/low vision community, to remediate inaccessible non-text media online.
+## Overview
+* The workshop was a 110 minute introduction to inclusive design and image accessibility, and designed for CLIMATE Justice Initiative fellows at UC Irvine. The group of fellows consists of postbaccalaureate and doctoral students trained in a range of science and social science fields.
+  - No preparation or previous experience with web design or accessibility was required. However, fellows have learned about principles of research justice and communication skills for environmental scholars.
+* The workshop format was virtual and held as a Zoom Meeting.
+  - Participants interacted with Google Slides, Zoom polls, Zoom chat, and Zoom breakout rooms.
+* My focus on alternative text for static images intervenes on the problem of high volumes of inaccessible media published by universities and research organizations online. I incorporate strategies, recommendations, and resources from the Blind/low vision individuals and communities.
 
-**Format:**
-* Virtual Zoom Meeting
-* Tools: Google Slides, Zoom polls, NonVisual Desktop Access (NVDA), Zoom chat, Zoom breakout rooms.
-
-**Participant Testimonials:** 
+## Feedback
+Participant feedback described the workshop as an engaging introduction to accessibility through alternative text practices.
 
 > *"I like how Thi got the class engaged. It was a fun and learning journey for me"*
 
+The workshop also sparked newfound awareness and knowledge about the inclusive design through interactive group activities and hands-on exercises.
+
 > *"Dr. Thi did a wonderful job explaining the importance of different inclusive practices and also lead an engaging activity via zoom. It was the first time I had been part of a workshop that focused on inclusive design."*
 
-# Activities
+# Workshop Agenda and Structure
+  
+## Introduction
 
-## Introduction and Concepts
-* Administered anonymous poll to establish baseline experience with alt-text and screen readers. 
-* Conceptual exploration of the social model of disability, misconceptions about blind users and technology
-* Demonstration of screen reader software on various geoscience websites
+The workshop began with a poll to establish baseline experience with alt-text and screen readers. One quarter of respondents have never heard of the term "alternative text", while and half were familiar with the term, have used alternative text to some extent. Half of respondents did not have previous experience with screen reader software, and there were no responses indicating greater than a moderate amount of experience with screen readers.
 
-Poll responses to the question, **How familiar are you with "alternative text"?** show that one quarter of respondents have never heard of the term, and half knew of alternative text and have used it to some extent:
+<img src="/images/inclusive_design_alt_text_piechart.png"  width="44%" height="44%" alt = "Pie chart showing responses for How familiar are you with alternative text? Results show 24% never heard of it, 15% heard of it but don't remember, 46% know of it and used a few times, 15% know of it and use it often"> <img src="/images/inclusive_design_screenreader_annotate.png"  width="42%" height="42%" alt = "Pie chart showing responses for Have you ever used screen reader software before? Results show 46% never, 38% a little bit, 15% not sure">
 
-<center><img src="/images/inclusive_design_alt_text_piechart.png"  width="60%" height="60%" alt = "Pie chart showing responses for How familiar are you with alternative text? Results show 24% never heard of it, 15% heard of it but don't remember, 46% know of it and used a few times, 15% know of it and use it often"></center>
+### Concepts and Demo
 
-Responses to the question, **Have you ever used screen reader software before?** show that half do not have previous experience with screen reader software. There were no responses indicating greater than a moderate amount of experience with screen readers:
-
-<img src="/images/inclusive_design_screenreader_annotate.png"  width="58%" height="58%" alt = "Pie chart showing responses for Have you ever used screen reader software before? Results show 46% never, 38% a little bit, 15% not sure">
+* Conceptual exploration of the social model of disability, misconceptions about blind users and technology, definitions of assistive technology, alternative text, and captions 
+* Demonstrated NonVisual Desktop Access (NVDA) screen reader software on images from geoscience organization websites
 
 
-## Large group practice
+
+## Application
+
+### Individual practice: photos and data visualizations
+
 * Participants learned how to check for alt-text on existing images and individually practiced writing 1-3 sentence alt-text desriptions for 6 example images, including a variety of data visualizations. 
-* The majority of the training images for exercises have available alt-text, which allows participants to compare their work. In addition, they could access chat to see other responses. 
+* Training images for exercises were often selected because they had suitable, pre-existing alt-text published by somoene else. Providing links to these source encourages participants to access alt-text information independently to compare their work.
 
-## Breakout room practice
-* Breakout group activities where they collaborate on crafting alt-text for each other's work, and format the images on a previous collaborative Google Slide deck of project overviews. Groups were instructed to write alt-text for *other* groups' work, which was feasible in the time allotted, as they all have shared previous context about their community-based research projects in class discussions, and participants chose the slides to work on.
-* During large group review and debrief, I facilitated a discussion with prepared prompts about the process. I provided comments and suggestions to the alt-text and invited original group to comment on accuracy, context or details. 
+### Small group practice: images from community research overview slides
 
-## Closing
+* Participants collaborate to write alt-text for each other's work, and format the images on a previous collaborative Google Slide deck of project overviews.
+* Large group debrief and discussion about resources needed to write complete alt-text for unfamiliar images. Each breakout group explained their alt-text choices and process, followed by comments from original group members about the accuracy, context, and other information. 
 
-A concluding discussion includes results of a recent analysis of alt-text compliance trends on Twitter for different university organizations and departments (UCI, UCSD, URI). Social media teamwork reveals the need for extra documentation steps due to lack of alt-text in image metadata, and participants were recommended to act with caution when adding web/social media responsibilities that may exacerbate labor distribution inequities among junior scholars or staff members.
+## Closing Discussion
 
-![Bar chart showing number Twitter posts with images with and without alt-text since Jan 24 (2 weeks) for different university groups. UCI Social Ecology posts the most images without alt-text, whereas Scripps Ocean posts the most images with alt-text.](/images/Twitter_posts_jan_24.svg "2-week period of Twitter Posts 1/24/24 to 2/6/24")
+Analysis of trends on Twitter for posts with photos by different university departments over a 2-week period from 1/24/24 to 2/7/24 does not show any department with 100% alt-text use. However, the trend reveals a clear opportunity for UCI departments to increase alt-text usage, to approach the example of URI Graduate School of Oceanography or UC San Diego/Scripps Institution of Oceanography.
 
-| Twitter @       | Without alt-text | With alt-text |
+<img src="/images/Twitter_posts_jan_24.svg"  width="75%" height="75%" alt = "Bar chart showing number Twitter posts with images with and without alt-text since Jan 24 (2 weeks) for different university groups. UCI Social Ecology posts the most images without alt-text, whereas Scripps Ocean posts the most images with alt-text.">
+
+   <details>
+<summary><i>Click to expand: Data Table, Twitter bar chart</i></summary>
+  
+| Twitter Handle | Without alt-text | With alt-text |
 |-----------------|------------------|---------------|
-| @URIGSO         | 3                | 4             |
-| @Scripps_Ocean  | 7                | 19            |
-| @uciess         | 11               | 0             |
-| @Social_Ecology | 63               | 5             |
+| [@URIGSO](https://twitter.com/URIGSO)         | 3                | 4             |
+| [@Scripps_Ocean](https://twitter.com/Scripps_Ocean)  | 7                | 19            |
+| [@uciess](https://twitter.com/uciess)         | 11               | 0             |
+| [#Social_Ecology](https://twitter.com/Social_Ecology) | 63               | 5             |
 
-# Impact
+</details>
 
-## Feedback
-Participant feedback described the workshop as an engaging introduction to accessibility through alternative text practices, sparking newfound awareness and knowledge among participants through interactive group activities and hands-on exercises.
-
-To enhance the workshop experience, participants suggested incorporating additional examples of how government/scientific agencies describe complex images, allocating more time for exercises, changing the format to in-person to increase engagement, and hosting more workshops in the future.
+A closing discussion further reveals opportunities, challenges, and suggestions for further reflection about maintaining alternative text standards among diverse teams and web platforms.
 
 # Abridged Resources List
 
-Lynch, M. “[UC Access Now Demandifesto](https://archive.org/details/disability-equity-and-justice-demands)” Internet Archive. July 26, 2020. UC Access Now. Written by Megan Lynch using input from disabled UC students from several campuses as well as some faculty. Contains useful terms and concepts and fundamental action steps that the UC should take.
+The original workshop slides contain over 20 links to useful resources. Some are listed below.
 
-Cesal, A. "[Alternative Text for scientific visualizations and charts](https://medium.com/nightingale/writing-alt-text-for-data-visualization-2a218ef43f81)" Medium. July 23, 2020.
-
-Web Accessibility Initiative (WAI). [Complex Images](https://www.w3.org/WAI/tutorials/images/complex/) shows example descriptions and structure in HTML
-
-Benetech DIAGRAM Center. [Image Description Guidelines](http://diagramcenter.org/table-of-contents-2.html). A comprehensive reference document with dozens of examples of different kinds of charts/diagrams (h/t [@FrankElavsky](https://twitter.com/FrankElavsky) on Twitter)
-
-Twitter [@HabenGirma](https://twitter.com/HabenGirma). Account of Haben Girma, JD, Harvard Deafblind lawyer. Often posts about daily experience as a traveling human rights lawyer.
-
-Twitter [@BlondeHistorian](https://twitter.com/BlondeHistorian). Dr. Amy Kavanagh often posts about daily experience navigating public spaces with guide dog and as a new parent.
-
+* Lynch, M. “[UC Access Now Demandifesto](https://archive.org/details/disability-equity-and-justice-demands)” Internet Archive. July 26, 2020. UC Access Now. Written by Megan Lynch using input from disabled UC students from several campuses as well as some faculty. Contains useful terms and concepts and fundamental action steps that the UC should take.
+* Web Accessibility Initiative (WAI). [Complex Images](https://www.w3.org/WAI/tutorials/images/complex/) shows example descriptions and structure in HTML.
+* Benetech DIAGRAM Center. [Image Description Guidelines](http://diagramcenter.org/table-of-contents-2.html). A comprehensive reference document with dozens of examples of different kinds of charts/diagrams.
+* Twitter accounts
+  - [@HabenGirma](https://twitter.com/HabenGirma). Haben Girma, JD, Harvard Deafblind lawyer, often posts about daily experience as a traveling human rights lawyer
+  - [@BlondeHistorian](https://twitter.com/BlondeHistorian). Dr. Amy Kavanagh often posts about daily experience navigating public spaces with guide dog and as a new parent.
