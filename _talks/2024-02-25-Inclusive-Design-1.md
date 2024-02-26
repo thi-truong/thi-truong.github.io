@@ -10,6 +10,13 @@ excerpt: "This workshop is an introductory primer on one aspect of inclusive des
 ---
 # Inclusive Design Workshop #1
 
+**Table of contents:**
+ - [Overview](#item-one)
+ - [Impact](#item-two)
+ - [Detailed Workshop Structure](#item-three)
+ - [Resources](#item-four)
+   
+<a id="item-one"></a>
 ## Overview
 * The workshop was a 110 minute introduction to inclusive design and image accessibility designed for CLIMATE Justice Initiative fellows at UC Irvine.
   - The group of fellows consists of postbaccalaureate and doctoral students trained in a range of science and social science fields. Fellows have learned about principles of research justice and communication skills for environmental scholars.
@@ -19,7 +26,8 @@ excerpt: "This workshop is an introductory primer on one aspect of inclusive des
 * My focus on alternative text for static images intervenes on the problem of high volumes of inaccessible media published by universities and research organizations online.
   - I incorporated strategies, recommendations, and resources largely from Blind/low vision individuals and communities online.
 
-## Impact and Testimonials
+<a id="item-two"></a>
+## Testimonials
 Participant feedback described the workshop as an engaging introduction to accessibility through alternative text practices.
 
 > *"I like how Thi got the class engaged. It was a fun and learning journey for me"*
@@ -28,8 +36,9 @@ The workshop also sparked newfound awareness and knowledge about the inclusive d
 
 > *"Dr. Thi did a wonderful job explaining the importance of different inclusive practices and also lead an engaging activity via zoom. It was the first time I had been part of a workshop that focused on inclusive design."*
 
-## Workshop Structure
-  
+ <a id="item-three"></a>
+## Detailed Workshop Structure
+
 ### Pre-workshop survey
 
 The workshop began with a poll to establish baseline experience with alt-text and screen readers. One quarter of respondents have never heard of the term "alternative text". 
@@ -75,6 +84,7 @@ Analysis of trends on Twitter for posts with photos by 4 different university de
 
 A closing discussion further reveals opportunities, challenges, and suggestions for further reflection about maintaining alternative text standards among diverse teams and web platforms.
 
+  <a id="item-four"></a>
 ## Resources (abridged)
 
 The original workshop slides contain over 20 links to useful resources. Some are listed below.
