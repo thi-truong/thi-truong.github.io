@@ -28,34 +28,34 @@ The workshop also sparked newfound awareness and knowledge about the inclusive d
 
 > *"Dr. Thi did a wonderful job explaining the importance of different inclusive practices and also lead an engaging activity via zoom. It was the first time I had been part of a workshop that focused on inclusive design."*
 
-# Workshop Structure
+## Workshop Structure
   
-## Introduction
+### Introduction
 
 The workshop began with a poll to establish baseline experience with alt-text and screen readers. One quarter of respondents have never heard of the term "alternative text". When asked about screen reader software usage, half of respondents did not have any previous experience with screen reader software. There were no responses indicating greater than a moderate amount of experience.
 
 <img src="/images/inclusive_design_alt_text_piechart.png"  width="44%" height="44%" alt = "Pie chart showing responses for How familiar are you with alternative text? Results show 24% never heard of it, 15% heard of it but don't remember, 46% know of it and used a few times, 15% know of it and use it often"> <img src="/images/inclusive_design_screenreader_annotate.png"  width="42%" height="42%" alt = "Pie chart showing responses for Have you ever used screen reader software before? Results show 46% never, 38% a little bit, 15% not sure">
 
-### Concepts and Demo
+#### Concepts and Demo
 
 * Conceptual exploration of the social model of disability, misconceptions about blind users and technology, definitions of assistive technology, alternative text, and captions 
 * Demonstrated NonVisual Desktop Access (NVDA) screen reader software on images from geoscience organization websites
 
 
 
-## Application
+### Application
 
-### Individual practice: photos and data visualizations
+#### Individual practice: photos and data visualizations
 
 * Participants learned how to check for alt-text on existing images and individually practiced writing 1-3 sentence alt-text descriptions for 6 example images, including a variety of data visualizations. 
 * Training images for exercises were often selected because they had suitable, existing alt-text for the images. Providing links to these source encourages participants to access alt-text information independently to compare their work.
 
-### Small group practice: images from community research overview slides
+#### Small group practice: images from community research overview slides
 
 * Participants collaborate to write alt-text for each other's work, and format the images on a previous collaborative Google Slide deck of project overviews.
 * Large group debrief and discussion about resources needed to write complete alt-text for unfamiliar images. Each breakout group explained their alt-text choices and process, followed by comments from original group members about the accuracy, context, and other information. 
 
-## Closing Discussion
+### Closing Discussion
 
 Analysis of trends on Twitter for posts with photos by 4 different university departments (2 - UCI, 1 - UCSD, 1 - URI) over a 2-week period from 1/24/24 to 2/7/24. These departments were chosen because of their active Twitter presence (many comparable departments had limited activity since December 2023)
 * None of these departments use alt-text to 100% compliance.
@@ -78,7 +78,7 @@ Analysis of trends on Twitter for posts with photos by 4 different university de
 
 A closing discussion further reveals opportunities, challenges, and suggestions for further reflection about maintaining alternative text standards among diverse teams and web platforms.
 
-# Abridged Resources List
+## Abridged Resources List
 
 The original workshop slides contain over 20 links to useful resources. Some are listed below.
 
