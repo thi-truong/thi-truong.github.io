@@ -10,7 +10,7 @@ excerpt: "This workshop is an introductory primer on one aspect of inclusive des
 ---
 # Inclusive Design Workshop #1
 
-**Table of contents:**
+**Jump to section:**
  - [Overview](#item-one)
  - [Testimonials](#item-two)
  - [Detailed Workshop Structure](#item-three)
