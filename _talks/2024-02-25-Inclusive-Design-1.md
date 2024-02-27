@@ -89,18 +89,18 @@ The following table shows various statistics from Zoom chat log. It is notable t
 <a id="item-six"></a>
 ### Application Part 2: Small group breakout task
 
-* Participants collaborate to write alt-text for each other's work from a previous collaborative Google Slide deck of community-based project overviews.
+* Participants join breakout rooms to write alt-text for each other's work from a previous collaborative Google Slide deck of community-based project overviews from Week 1 of the term.
 * Held a large group debrief where each breakout group explained their alt-text choices and process, followed by comments from original group members about the accuracy, context, and other information.
 <!--- * Discussion about resources needed to write complete alt-text for completely unfamiliar images. --->
 
-After 15 minutes of breakout room activity (3 rooms), alternative text had been written for 17/22 images (77%). This shows that collaborative alternative text writing for unfamiliar/novel images is highly efficient. Dividing up the workload likely results in less fatigue than writing alternative text continuously (as in Application Part 1)
+After 15 minutes of completing the task in breakout rooms, alternative text had been written for a total of 17 out of 22 images (77%). This shows that collaborative alternative text writing for unfamiliar/novel images is highly efficient. Dividing up the workload likely results in less fatigue than writing alternative text continuously (as in Application Part 1)
 
 <a id="item-seven"></a>
 ### Closing Discussion
 
-Analysis of trends on Twitter for posts with photos by 4 university departments (2 - UCI, 1 - UCSD, 1 - URI) over a 2-week period from 1/24/24 to 2/7/24. These departments were chosen because of their activity-- all have posted images continuously since January 2024. The analysis revealed many opportunities:
+We closed with a discussion about how accessibility efforts can be supported by institutions. I shared trends from Twitter posts made by 4 university departments (2 - UCI, 1 - UCSD, 1 - URI) over a 2-week period from 1/24/24 to 2/7/24. These departments were chosen because they post actively and consistently since January 2024. Original posts, retweets, and duplicate posts (e.g. reminders) were included. Results reveal several opportunities for improvement:
 
-* None of these departments use alt-text to 100% compliance.
+* None have published alt-text for 100% of images (highest is SIO at 73%)
 * UCI department of Social Ecology is particularly notable for publishing 68 posts total at a rate of 5 photos/day, with less than 10% containing alt-text. 
 * The lack of any alt-text from UCI Earth System Science (ESS) also reveals a clear need to increase alt-text usage and follow the example of other geoscience departments, URI Graduate School of Oceanography and Scripps Institution of Oceanography.
 
