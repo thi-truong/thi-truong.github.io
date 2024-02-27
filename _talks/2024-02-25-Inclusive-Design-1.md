@@ -11,6 +11,7 @@ excerpt: "This workshop is an introductory primer on one aspect of inclusive des
 # Inclusive Design Workshop #1
 
 **Jump to section:**
+ - [Overview](#item-zero)
  - [Testimonials](#item-one)
  - [Participants Background](#item-two)
  - [Workshop Structure](#item-three)
@@ -19,7 +20,8 @@ excerpt: "This workshop is an introductory primer on one aspect of inclusive des
    - [Application Part 2: Small group breakout task](#item-six)
    - [Closing Discussion](#item-seven)
    - [Resources (abridged)](#item-eight)
-
+     
+<a id="item-zero"></a>
 ## Overview
 * The workshop was a 110 minute introduction to inclusive design and image accessibility designed for CLIMATE Justice Initiative fellows at UC Irvine.
   - No preparation or previous experience with web design or accessibility was required. 
@@ -67,7 +69,10 @@ When asked about screen reader software usage, half of respondents did not have 
 * Participants individually practiced writing 1-3 sentence alt-text descriptions and submitted via Zoom chat. They were instructed to submit responses at the same time. Overall, they worked with 6 example images, which include photos, simple graphics, and data visualizations
 * Most practice images for exercises had suitable, existing alt-text for the images. Providing links to these source encourages participants to access alt-text information independently to compare their work.
 
-The following table shows various statistics from Zoom chat log. It is notable that the delay in response time improved for activity #2 and activity #3, however, increasing the allotted time to 1.5 minutes would be beneficial. Activities #4, 5, and 6 were data visualizations with increasing complexity, reflected by the average word count. It is possible that more time allotted would increase the 56% response rate, but I suspect participants were either fatigued, away from the desk, or left early.
+The following table shows various statistics from Zoom chat log. Key insights:
+* The delay in response time improved for activity #2 and activity #3, however, increasing the allotted time to 1.5 minutes would be beneficial, as communicated by some participants in the chat and feedback.
+* Activities #4, 5, and 6 were data visualizations with increasing complexity, reflected by the average word count.
+* The final image, Activity #6 had the lowest response rate of 56% response. It is possible that more time allotted may have helped, but I suspect participants may have been fatigued, away from the desk, or left the Zoom early.
 
 |                                  | **#1, Photo of animal** | **#2, Photo of notable person** | **#3, Flyer** | **#4, Line graph** | **#5, Heat Map** | **#6, Map with data with text** |
 |----------------------------------|-------------------------|---------------------------------|---------------|--------------------|------------------|---------------------------------|
@@ -75,16 +80,15 @@ The following table shows various statistics from Zoom chat log. It is notable t
 | **Number of responses**                  | 15                      | 14                              | 12            | 12                 | 12               | 9                               |
 | **% participants responding <sup>[1]</sup>** | 94%                     | 88%                             | 75%           | 75%                | 75%              | 56%                             |
 | **Average word count**           | 20                      | 23                              | 29            | 53                 | 60               | 47                              |
-| **Delay, 0-1 seconds <sup>[2]</sup>**                  | 9                       | 2                               | 11            | 11                 | 6                | 5                               |
+| **Responses with delay of 0-1 seconds <sup>[2]</sup>**                  | 9                       | 2                               | 11            | 11                 | 6                | 5                               |
 | **2-3 seconds**                  | 3                       |                                 | 1             | 1                  | 4                | 3                               |
 | **3-4 seconds**                  | 2                       |                                 |               |                    | 1                |                                 |
 | **5-6 seconds**                  |                         | 7                               |               |                    |                  |                                 |
 | **7-8 seconds**                  |                         | 1                               |               |                    |                  |                                 |
 | **More than 8 seconds**           | 1                       | 4                               |               |                    | 1                | 1                               |
 
-<sup>[1] - Assuming same participants were available from the beginning to the end, however, some may have started late or left early </sup>
-
-<sup>[2] - Delay in response time, calculated using the individual response time relative to the time of first response entered after verbal instruction to submit </sup> 
+<sup>[1] - This assumes the same number of participants were present from beginning to the end. However, some may have started late or left early </sup><br>
+<sup>[2] - Number of responses showing the delay in response time, calculated using the individual response time relative to the time of first response entered after verbal instruction to submit </sup> 
 
 <a id="item-six"></a>
 ### Application Part 2: Small group breakout task
@@ -98,11 +102,13 @@ After 15 minutes of completing the task in breakout rooms, alternative text had 
 <a id="item-seven"></a>
 ### Closing Discussion
 
-We closed with a discussion about how accessibility efforts can be supported by institutions. I shared trends from Twitter posts made by 4 university departments (2 - UCI, 1 - UCSD, 1 - URI) over a 2-week period from 1/24/24 to 2/7/24. These departments were chosen because they post actively and consistently since January 2024. Original posts, retweets, and duplicate posts (e.g. reminders) were included. Results reveal several opportunities for improvement:
+We closed with a discussion about how accessibility efforts can be supported by institutions.
 
-* None have published alt-text for 100% of images (highest is SIO at 73%)
-* UCI department of Social Ecology is particularly notable for publishing 68 posts total at a rate of 5 photos/day, with less than 10% containing alt-text. 
-* The lack of any alt-text from UCI Earth System Science (ESS) also reveals a clear need to increase alt-text usage and follow the example of other geoscience departments, URI Graduate School of Oceanography and Scripps Institution of Oceanography.
+I shared trends from Twitter posts made by 4 university departments over a 2-week period from 1/24/24 to 2/7/24. These departments were chosen because they have posted actively and consistently since January 2024. Original posts, retweets, and duplicate posts (e.g. reminders) were included. Results reveal several opportunities for improvement:
+
+* None have published alt-text for 100% of images. The highest is SIO at 73%.
+* UCI department of Social Ecology is particularly notable for publishing the highest volume of 68 posts (averaging 5 photos per day). However, less than 10% contain alt-text. 
+* The lack of any alt-text (0%) from UCI Earth System Science (ESS) reveals a clear need to increase alt-text usage and follow the example of other geoscience departments, URI Graduate School of Oceanography and Scripps Institution of Oceanography.
 
 <img src="/images/Twitter_posts_jan_24.svg" alt = "Bar chart showing number Twitter posts with images with and without alt-text since Jan 24 (2 weeks) for different university groups. UCI Social Ecology posts the most images without alt-text, whereas Scripps Ocean posts the most images with alt-text.">
 
