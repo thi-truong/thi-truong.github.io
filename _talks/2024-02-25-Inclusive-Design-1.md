@@ -8,7 +8,6 @@ date: 2024-02-07
 location: "UC Irvine"
 excerpt: "This workshop is an introductory primer on one aspect of inclusive design, tailored for CLIMATE Justice Initiative fellows at UC Irvine"
 ---
-# Inclusive Design Workshop #1
 
 **Jump to section:**
  - [Overview](#item-zero)
