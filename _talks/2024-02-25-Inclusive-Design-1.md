@@ -73,6 +73,7 @@ The following table shows various statistics from Zoom chat log. Key insights:
 * The delay in response time improved for activity #2 and activity #3, however, increasing the allotted time to 1.5 minutes would be beneficial, as communicated by some participants in the chat and feedback.
 * Activities #4, 5, and 6 were data visualizations with increasing complexity, reflected by the average word count.
 * The final image, Activity #6 had the lowest response rate of 56% response. It is possible that more time allotted may have helped, but I suspect participants may have been fatigued, away from the desk, or left the Zoom early.
+* A total of 232 words, on average, was written by each participant after 10.5 minutes of this exercise.
 
 |                                  | **#1, Photo of animal** | **#2, Photo of notable person** | **#3, Flyer** | **#4, Line graph** | **#5, Heat Map** | **#6, Map with data with text** |
 |----------------------------------|-------------------------|---------------------------------|---------------|--------------------|------------------|---------------------------------|
