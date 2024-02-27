@@ -23,7 +23,7 @@ excerpt: "This workshop is an introductory primer on one aspect of inclusive des
 ## Overview
 * The workshop was a 110 minute introduction to inclusive design and image accessibility designed for CLIMATE Justice Initiative fellows at UC Irvine.
   - No preparation or previous experience with web design or accessibility was required. 
-* The workshop format was virtual and held as a Zoom Meeting.Participants interacted with Google Slides, Zoom polls, Zoom chat, and Zoom breakout rooms.
+* The workshop format was virtual and held as a Zoom Meeting. Participants interacted with Google Slides, Zoom polls, Zoom chat, and Zoom breakout rooms.
 * My focus on alternative text for static images intervenes on the problem of high volumes of inaccessible media published by universities and research organizations online.
   - I incorporated strategies, recommendations, and resources largely from Blind/low vision individuals and communities online.
 
@@ -39,7 +39,7 @@ The workshop also sparked newfound awareness and knowledge about the inclusive d
 
 
 <a id="item-two"></a>
- ## Participants Background
+## Participants Background
 
 The group of fellows consists of postbaccalaureate and doctoral students trained in a range of science and social science fields. Fellows have learned about principles of research justice and communication skills for environmental scholars.
 
