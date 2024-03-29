@@ -36,4 +36,4 @@ Learn about some of my [contributions to social justice and education](https://t
 
 ## Contact
 
-[E-mail me](#tbtruon1@uci.edu) or connect on [Twitter @bostonthiparty](https://twitter.com/bostonthiparty)
+[E-mail me](mailto:tbtruon1@uci.edu) or connect on [Twitter @bostonthiparty](https://twitter.com/bostonthiparty)
