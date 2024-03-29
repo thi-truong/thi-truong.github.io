@@ -81,10 +81,10 @@ analytics:
 # Site Author
 author:
   name             : 
-  avatar           : "Tt_small.png"
+  avatar           : "Tt_letters.png"
   bio              : "Geochemistry, geology, education in a digital world"
-  location         : "Irvine, CA"
-  employer         :
+  location         : "Orange County, CA"
+  employer         : "University of California, Irvine"
   pubmed           : 
   googlescholar    : "https://scholar.google.com/citations?user=nuInumcAAAAJ"
   email            : "tbtruon1@uci.edu"
