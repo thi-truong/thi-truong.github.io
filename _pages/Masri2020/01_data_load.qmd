@@ -46,7 +46,7 @@ library(tigris)
 
 Experimenting with Tigris package. Tigris simplifies the process for R users of obtaining and using Census geographic datasets.
 
-[`states()`](https://rdrr.io/pkg/tigris/man/states.html) function can be run without arguments to download a boundary file of US states and state equivalents. We get a message letting us know that data for the year 2021 are returned; tigris typically defaults to the most recent year for which a complete set of Census shapefiles are available, which at the time of this writing is 2021.
+[`states()`](https://rdrr.io/pkg/tigris/man/states.html) function can be run without arguments to download a boundary file of US states and state equivalents. Tigris typically defaults to the most recent year for which a complete set of Census shapefiles are available. I believe this one is 2022, as one of the return messages is "Retrieving data for the year 2022".
 
 ```{r}
 #| include: FALSE
