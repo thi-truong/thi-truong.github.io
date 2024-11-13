@@ -1,0 +1,542 @@
+---
+title: "Plotting Pb Data and Census Tracts in R"
+author: "Thi Truong"
+format: html
+toc: TRUE
+editor: visual
+---
+
+# Introduction
+
+This is a Quarto document to show processing [Masri et al. (2020)](https://doi.org/10.1016/j.scitotenv.2020.140764 "Social and spatial distribution of soil lead concentrations in the City of Santa Ana, California") supplementary data in R, in order to **reproduce**, to my best ability, the Pb concentration heat map plots. I am unable to **replicate** the data because I do not have the resources to collect thousands of natural samples and run Pb concentrations on them! However, I am also limited in my ability to reproduce the plots, because I do not have the model for data interpolation.
+
+> "Despite efforts to coalesce around the use of these terms \[reproduction and replication\], lack of consensus persists across disciplines. The resulting confusion is an obstacle in moving forward to improve reproducibility and replicability" ([Barba et al., 2018](https://arxiv.org/abs/1802.03311 "Terminologies for reproducible research"); [NASM, 2019](https://www.ncbi.nlm.nih.gov/books/NBK547546/ "Reproducibility and Replicability in Science"))
+
+## Load Packages
+
+I did not use all of these packages, but I tend to load these for most of my data processing:
+
+```{r}
+#| warning: FALSE
+library(tidyverse)
+library(dplyr) #data functions
+library(readr) #for reading csv files
+library(DT) #to make nice data tables
+
+# Table packages not specifically used here
+#library(knitr) #most useful for tables and knitr function
+#library(kableExtra) # used to make responsive tables
+
+## Visualization
+library(ggplot2) 
+library(mapview) 
+library(maps) # for city names
+
+## Interactive viz
+library(plotly)
+library(leaflet) 
+
+## Census
+library(tigris) 
+```
+
+## Load Data
+
+### Tigris Census Tracts Data
+
+Experimenting with Tigris package. Tigris simplifies the process for R users of obtaining and using Census geographic datasets.
+
+[`states()`](https://rdrr.io/pkg/tigris/man/states.html) function can be run without arguments to download a boundary file of US states and state equivalents. We get a message letting us know that data for the year 2021 are returned; tigris typically defaults to the most recent year for which a complete set of Census shapefiles are available, which at the time of this writing is 2021.
+
+```{r}
+#| include: FALSE
+# Getting all states data
+st <- states()
+
+# Getting California county data
+ca_counties <- counties("CA", cb = TRUE)
+```
+
+We are also gathering Orange County, CA tracts by using the `tracts()` function. We are also getting data to plot roads by using the `primary_secondary_roads()` function from the maps package. This code chunk is commented so that the huge progress bar doesn't get printed, but it does exist!
+
+```{r}
+# Getting all states data
+# st <- states()
+
+# Getting California county data
+# ca_counties <- counties("CA", cb = TRUE)
+
+# Getting Orange County census tracts
+# OC_tracts <- tracts("CA", "Orange")
+
+# Getting roads data (lines)
+# CA_roads <- primary_secondary_roads("CA") |> filter(RTTYP %in% c('U','S','I')) 
+```
+
+```{r}
+#| include: FALSE
+# Getting Orange County census tracts
+OC_tracts <- tracts("CA", "Orange")
+
+# If desired, can also get blocks, which are smaller than tracts
+#OC_block_groups <- block_groups("CA", "Orange")
+
+# Getting roads data (lines)
+CA_roads <- primary_secondary_roads("CA") |>
+# This will limit the roads to just highways. 
+  filter(RTTYP %in% c('U','S','I')) 
+```
+
+### City Names Data
+
+This is to get city names in California. This is performed in two steps,.
+
+```{r}
+## Data on 1,005 US cities
+data(us.cities)
+```
+
+Once the city data is loaded (check global environment to make sure there are rows), save specific city names from California, and remove redundant information.
+
+```{r}
+cities_data <- us.cities |> 
+  filter(country.etc %in% "CA") |>  
+# This will drop the state name from the name column
+  mutate(fixed_name = str_replace(name,country.etc,'')) 
+```
+
+### Masri et al. (2020) Data
+
+I am importing in two supplementary data tables from [Masri et al. (2020)](https://doi.org/10.1016/j.scitotenv.2020.140764 "Social and spatial distribution of soil lead concentrations in the City of Santa Ana, California"). I renamed the columns already for easier data processing. I did this in Excel because it is simply easier to do this in a WYSIWYG editor, even though it is fairly easy to change column names in R.
+
+1.  `table_SI.csv` is table 1. Store the raw data as `masri_table_SI_raw`. We are using this for the rest of this document!
+2.  `table_SII.csv` is table 2. Store the raw data as `masri_table_SII_raw`.
+    1.  I am not processing this today, but FYI, it contains zip code average data, which appears to be an average of census tract data...
+
+```{r}
+#| message: FALSE
+masri_table_SI_raw <- read_csv("table_SI.csv",
+                               col_names = TRUE)
+
+masri_table_SII_raw <- read_csv("table_SII.csv",
+                                col_names = TRUE)
+```
+
+We are working with the first table today. It has 61 rows and 4 columns: census tract, number of samples analyzed, Pb (ppm) averaged, and cumulative risk index. Each row has data for each census tract. See below:
+
+```{r}
+print(masri_table_SI_raw)
+```
+
+Now, the next code chunk is processing this raw data `masri_table_SI_raw` into a processed data tibble named `masri_census_lead`. The changes I am making are adding (mutating) additional columns:
+
+1.  Census tract ID, or `census_ID`. Note that the order is straight from the supplementary data and I am unsure of the logic of the original sorting.
+2.  Adding a categorical level, from 1-10, called `pb_ppm_average_level`, which will match the color scheme of the original Masri et al. (2020) figure. E.g., 1 is the lowest level (values less than 42.4 ppm) and 10 is the highest (values above 229.6 ppm).
+3.  Census tract number `NAME` that matches the Tigris census tract column. This is stored as character instead of number to also match the Tigris data.
+
+```{r}
+masri_census_lead <- masri_table_SI_raw |>
+  mutate(census_ID = row_number(),
+         pb_ppm_average_level = case_when(
+           pb_ppm_average >= 21.8 & pb_ppm_average < 42.4 ~ '1', 
+           pb_ppm_average >= 42.4 & pb_ppm_average < 52.7 ~ '2',
+           pb_ppm_average >= 52.7 & pb_ppm_average < 61.2 ~ '3',
+           pb_ppm_average >= 61.2 & pb_ppm_average < 69.9 ~ '4',
+           pb_ppm_average >= 69.9 & pb_ppm_average < 81.4 ~ '5',
+           pb_ppm_average >= 81.4 & pb_ppm_average < 91.3 ~ '6',
+           pb_ppm_average >= 91.3 & pb_ppm_average < 105.2 ~ '7',
+           pb_ppm_average >= 105.2 & pb_ppm_average < 142.0 ~ '8',
+           pb_ppm_average >= 142.0 & pb_ppm_average < 229.6 ~ '9',
+           pb_ppm_average >= 229.6 ~ '10',
+           TRUE ~ 'NA'
+           ),
+         NAME = as.character(census_tract_number) 
+         )
+```
+
+Finally, for some reason, one census tract just kept getting stored as just "741.1" instead of "741.10" because of some rounding issue, which ends up messing the join later. So, I have to add a "0" at the end to this one value (which is the last one, or number 61):
+
+```{r}
+masri_census_lead$NAME[61] <- "741.10" 
+```
+
+## Perform data join
+
+To be able to plot the Masri et al. (2020) data with census tracts, I am performing a left join. A left join is visualized in the figure below:
+
+[![Hadley Wickham, R for Data Science (2e). A visual representation of the left join where every row in x appears in the output.](images/clipboard-3136876139.png){width="397"}](https://r4ds.hadley.nz/joins)
+
+In my case, the left table (x) is the [Masri et al. (2020)](https://doi.org/10.1016/j.scitotenv.2020.140764 "Social and spatial distribution of soil lead concentrations in the City of Santa Ana, California") data and the right (y) is the California census data. This means I only keep matches from the census data, and drop any unmatched columns (basically, anything that isn't in the Orange County area of focus).
+
+```{r}
+masri_census_join <- masri_census_lead |>
+# Left Join with OC_tracts
+  left_join(OC_tracts, by = "NAME") |>
+# Re-order columns so that census_ID is first
+  select(c(census_ID, everything()))
+```
+
+Print out the column names of the joined data, and we see that there are far more than the original 7 columns. All of the column names in all capital letters are from the census data. The final column, geometry, has the polygons or shape data to be able to map the census tracts.
+
+```{r}
+colnames(masri_census_join)
+```
+
+Note that city names do not have to be joined here, they can be called upon when making each plot.
+
+## Save new .csv file with the joined data
+
+Save this new .csv file into a folder where I store the R outputs.
+
+```{r}
+#write.csv(masri_census_join, "data-outputs/masri_census_join.csv", na = "")
+```
+
+# Make database table for fun
+
+Explore the data here instead of opening up the .csv file, if you would like.
+
+I like to use function `datatable()` from the DT package to create an HTML widget to display R data objects. You could also use the kable and kableExtra packages to make database tables. The kable package is great for automating LaTeX tables as outputs!
+
+```{r}
+datatable(masri_census_join,
+# Do not show row names, it would be 1-61 and i already have census_ID
+          rownames = FALSE) 
+```
+
+# Make Plots
+
+First, I am going to get the bounding box information to get the limits/coordinates for any plots i make (xmin, ymin, xmax, ymax), where x values are longitude and y values are latitude. According to some tutorials, I should be able to use the `st_bbox` function to get these values, but I cannot find it! :(
+
+```{r}
+masri_census_join$geometry
+```
+
+After running this, I get this result (copied and pasted the bounding box result row).
+
+```         
+xmin: -117.9549 ymin: 33.69178 xmax: -117.8074 ymax: 33.78819
+```
+
+I will store these to make plotting easier:
+
+```{r}
+xmin <- -117.9549
+xmax <- -117.8074
+ymin <- 33.69178
+ymax <-  33.78819
+```
+
+For each plot, a lot of this information seems redundant and makes for long code chunks, but not going to try to store the info in a single chunk to recall because I'm not sure if that's possible for ggplot (or, it would require some knowledge about order and sequence that is easy to forget).
+
+## Pb average (ppm) concentrations with original Masri color scale
+
+First, I am going to make the color scheme for the target plot that I would like to replicate. The color scale from Masri et al. (2020) figure is described in this color scale (breaks, labels, names). 
+
+```{r}
+# To match the factor levels in the data that i made
+masri_pb_breaks <- c("1", "2", "3", "4", "5", "6", "7", "8", "9", "10")
+
+# For color fill of census tracts
+masri_pb_colors <- c("10" = "#DB0018",
+                     "9" = "#D55C23",
+                     "8" = "#F18133",
+                     "7" = "#F5AC46",
+                     "6" = "#F7E74C",
+                     "5" = "#E3ED6E",
+                     "4" = "#BFD389",
+                     "3" = "#9ABDA1",
+                     "2" = "#73A7B5",
+                     "1" = "#4993CC")
+
+# The interpolated Pb levels from Masri et al. (2020)
+masri_pb_labels <- c("21.8-42.4",
+                     "42.4-52.7",
+                     "52.7-61.2",
+                     "61.2-69.9",
+                     "69.9-81.4",
+                     "81.4-91.3",
+                     "91.3-105.1",
+                     "105.2-142.0",
+                     "142.0-229.6",
+                     ">229.6")
+```
+
+Now, I make the plot!
+
+```{r}
+#| warning: FALSE
+gg_masri_pb_average_original_colors <-
+
+# Base join data
+  ggplot(masri_census_join) + 
+  
+# Census tract borders with grey borders
+# Fill color Pb average concentrations
+  geom_sf(color = "grey",
+          aes(geometry = geometry, fill = pb_ppm_average_level)) + 
+  
+# Add roads in blue  
+  geom_sf(data = CA_roads, color = 'blue', aes(geometry = geometry)) + 
+
+# City Names
+  geom_text(color = 'black', data = cities_data, check_overlap = TRUE, size = 3.5,
+            aes(x = long, y = lat, label = fixed_name)) +
+  
+# Census Tract Names
+  geom_sf_text(size = 1.5,
+               aes(geometry = geometry, label = NAME)) +
+  
+# Minimal theme gets rid of x and y-axis labels and grid
+  theme_void() + 
+  
+# White background so it is not transparent
+  theme(panel.background = element_rect(fill = 'white', color = NA)) + 
+  
+# Coordinate limits plus more x-axis to make room for the legend 
+    coord_sf(xlim = c(xmin, xmax+0.04), ylim = c(ymin, ymax)) + 
+
+# Label legend  
+  labs(fill = 'Pb (ppm) \naverage') + #label legend
+  
+# Custom color palette, legend labels
+  scale_fill_manual(breaks = masri_pb_breaks,
+                    values = masri_pb_colors,
+                    labels = masri_pb_labels) + 
+
+# Move legend to bottom right
+  theme(legend.justification = c(0,0), legend.position = c(0.80,0.05),
+        legend.background = element_rect(fill = "white"),
+        legend.margin = margin(1, 1, 1, 1, "pt"),
+        legend.text = element_text(size = rel(0.75)))
+```
+
+Here, I have replicated the color scale from Masri et al. (2020).
+
+```{r}
+#| warning: FALSE
+# Print plot to preview
+gg_masri_pb_average_original_colors
+
+# Save plot (commented until I make changes to save)
+#ggsave('figures/gg_masri_pb_average_original_colors.png', dpi=400, units='in')
+```
+
+Compare this to the original figure. What the differences and similarities?
+
+[![Masri et al. (2020) Figure of Interpolated Soil lead concentrations](images/1-s2.0-S0048969720342881-ga1_lrg.jpg){fig-alt="Soil lead map" width="528"}](https://doi.org/10.1016/j.scitotenv.2020.140764)
+
+## Pb average (ppm) concentrations
+
+```{r}
+#| warning: FALSE
+gg_masri_pb_average <-
+  
+# Base join data  
+  ggplot(masri_census_join) + 
+  
+# Census tract borders with grey borders
+# Fill color Pb average concentrations
+  geom_sf(color = "grey",
+          aes(geometry = geometry, fill = pb_ppm_average)) + 
+  
+# Custom gradient palette  
+  scale_fill_gradient(low = 'white',
+                      high = '#DB0018',
+                      na.value = 'white' )  + # custom fill palette
+
+# Add roads in blue
+  geom_sf(data = CA_roads, color = 'blue',
+          aes(geometry = geometry)) + 
+  
+# City Names
+  geom_text(color = 'black', data = cities_data, check_overlap = TRUE, size = 3.5,
+            aes(x = long, y = lat, label = fixed_name)) +
+  
+# Census Tract Names
+  geom_sf_text(size = 1.5,
+               aes(geometry = geometry, label = NAME)) +
+  
+# Minimal theme gets rid of x and y-axis labels and grid
+  theme_void() + 
+  
+# White background so it is not transparent
+  theme(panel.background = element_rect(fill = 'white', color = NA)) + 
+
+# Coordinate limits, defined earlier with bounding box
+  coord_sf(xlim = c(xmin, xmax+0.04), ylim = c(ymin, ymax)) + 
+  
+# Label legend
+  labs(fill = 'Pb (ppm) \naverage') +
+
+# Move legend to bottom right
+  theme(legend.justification = c(0,0),
+        legend.position = c(0.80,0.01),
+        legend.background = element_rect(fill = "white"),
+        legend.margin = margin(1, 1, 1, 1, "pt"),
+        legend.text = element_text(size = rel(0.75)))  
+```
+
+Finally, I am interested in plotting out Pb concentrations with a simple gradient scale, instead of the color legend from the original paper.
+
+```{r}
+#| warning: FALSE
+# Print plot to preview
+gg_masri_pb_average
+
+# Save plot (commented until I make changes to save)
+#ggsave('figures/gg_masri_pb_average.png', dpi=400, units='in')
+```
+
+How does this differ from the original figure? In what ways is it the same? Food for thought...
+
+## Number of samples collected per census tract
+
+```{r}
+#| warning: FALSE
+# Save with unique name
+gg_masri_number_samples <- 
+
+# Base join data in ggplot
+  ggplot(data = masri_census_join) + 
+
+# Census tract borders with grey borders
+# Fill color depending on number of samples collected
+  geom_sf(color = "grey",
+          aes(geometry = geometry, fill = n_number)) + 
+    
+# Custom gradient palette
+  scale_fill_gradient(low = '#ffff99',
+                      high = 'forestgreen',
+                      na.value = 'white' )+ 
+# Add roads in blue
+  geom_sf(data = CA_roads, color = 'blue',
+          aes(geometry = geometry)) + 
+  
+# City Names
+  geom_text(color = 'black',
+            data = cities_data, check_overlap = TRUE, size = 3.5,
+            aes(x = long, y = lat, label = fixed_name)) +
+  
+# Census Tract Names
+  geom_sf_text(size = 1.5,
+               aes(geometry = geometry, label = NAME)) +
+  
+# Minimal theme gets rid of x and y-axis labels and grid
+  theme_void() + 
+  
+# White background so it is not transparent
+  theme(panel.background = element_rect(fill = 'white', color = NA)) + 
+
+# Coordinate limits, defined earlier with bounding box
+  coord_sf(xlim = c(xmin, xmax+0.04), ylim = c(ymin, ymax)) + 
+  
+# Label legend
+  labs(fill = 'Number of \nsamples') + 
+  
+# Move legend to bottom right
+  theme(legend.justification = c(0,0),
+        legend.position = c(0.8,0.01),
+        legend.background = element_rect(fill = "white"),
+        legend.margin = margin(1, 1, 1, 1, "pt"),
+        legend.text = element_text(size = rel(0.75))) 
+```
+
+Now, we are making different maps to visualize the supplementary data. Here, I am exploring the number of samples collected, and instead of using Pb concentrations as the fill, I just use the number of samples as the fill. The gradient is defined by two colors: light yellow for low, and forest green for high.
+
+```{r}
+#| warning: FALSE
+# Print plot to preview
+gg_masri_number_samples
+
+# Save plot (commented until I make changes to save)
+#ggsave('figures/gg_masri_number_samples.png', dpi=400, units='in')
+```
+
+## Sample density: Number of samples collected per square meter per census tract
+
+```{r}
+gg_masri_number_samples_per_m_sq <-
+  
+# Base join data
+  ggplot(masri_census_join) + 
+  
+# Census tract borders with grey borders
+# Fill color for number of samples divided by land area in square meters
+  geom_sf(color = "grey",
+          aes(geometry = geometry, fill = n_number/ALAND)) + #census tract borders
+ 
+# Custom gradient palette  
+  scale_fill_gradient(low = '#ffff99',
+                      high = 'sienna',
+                      na.value = 'white' )  + # custom fill palette
+  
+# Add roads in blue
+  geom_sf(data = CA_roads, color = 'blue',
+          aes(geometry = geometry)) + 
+  
+# City Names
+  geom_text(color = 'black', data = cities_data, check_overlap = TRUE, size = 3.5,
+            aes(x = long, y = lat, label = fixed_name)) +
+  
+# Census Tract Names
+  geom_sf_text(size = 1.5,
+               aes(geometry = geometry, label = NAME)) +
+  
+# Minimal theme gets rid of x and y-axis labels and grid
+  theme_void() + 
+  
+# White background so it is not transparent
+  theme(panel.background = element_rect(fill = 'white', color = NA)) + 
+
+# Coordinate limits, defined earlier with bounding box
+  coord_sf(xlim = c(xmin, xmax+0.04), ylim = c(ymin, ymax)) + 
+  
+# Label legend
+  labs(fill = '# samples \ncollected  \nper square \nmeter') + 
+  
+# Move legend to bottom right
+  theme(legend.justification = c(0,0),
+        legend.position = c(0.78,0.01),
+        legend.background = element_rect(fill = "white"),
+        legend.margin = margin(1, 1, 1, 1, "pt"),
+        legend.text = element_text(size = rel(0.75))) 
+```
+
+Since the census tracts are all different sizes, I want to explore sample density per unit area, instead of just the absolute number of samples in a census tract. Here, I use `n_number` divided by `ALAND` value in the census tracts dataset to visualize samples collected per square meter.
+
+```{r}
+#| warning: FALSE
+# Print plot to preview
+gg_masri_number_samples_per_m_sq
+
+# Save plot (commented until I make changes to save)
+#ggsave('figures/gg_masri_number_samples_per_m_sq.png', dpi=400, units='in')
+```
+
+
+# Example interactive plots
+
+Still in development! Here is an example of an interactive plot, which could be cool to layer with the Pb data.
+
+```{r}
+mapview(OC_tracts)
+
+#leaflet(OC_tracts) %>%
+#  addTiles() %>%
+#  addPolygons(popup = ~NAME)
+```
+
+------------------------------------------------------------------------
+
+This was ran in RStudio and documented on a Quarto (.qmd) file. Quarto enables you to weave together content and executable code into a finished document. To learn more about Quarto see <https://quarto.org>.
+
+Version information:
+
+> RStudio 2024.04.2+764 "Chocolate Cosmos" Release (e4392fc9ddc21961fd1d0efd47484b43f07a4177, 2024-06-05) for windows Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) RStudio/2024.04.2+764 Chrome/120.0.6099.291 Electron/28.3.1 Safari/537.36, Quarto 1.4.555
+
+Further Reading and Sources:
+
+-   Barba, L. A. (2018). Terminologies for reproducible research. *arXiv preprint arXiv:1802.03311*. <https://arxiv.org/abs/1802.03311>
+-   Masri, S., LeBrón, A., Logue, M., Valencia, E., Ruiz, A., Reyes, A., Lawrence, J.M., & Wu, J. (2020). Social and spatial distribution of soil lead concentrations in the City of Santa Ana, California: Implications for health inequities. *Science of the Total Environment*,*743*, 140764. <https://doi.org/10.1016/j.scitotenv.2020.140764>
+-   National Academies of Sciences, Policy, Global Affairs, Board on Research Data, Information, Division on Engineering, ... & Replicability in Science. (2019). *Reproducibility and Replicability in Science*. National Academies Press. <https://www.ncbi.nlm.nih.gov/books/NBK547546/>
