@@ -10,6 +10,14 @@ editor: visual
 
 This is a Quarto document to show processing [Masri et al. (2020)](https://doi.org/10.1016/j.scitotenv.2020.140764 "Social and spatial distribution of soil lead concentrations in the City of Santa Ana, California") supplementary data in R, in order to **reproduce**, to my best ability, the Pb concentration heat map plots. I am unable to **replicate** the data because I do not have the resources to collect thousands of natural samples and run Pb concentrations on them! However, I am also limited in my ability to reproduce the plots, because I do not have the model for data interpolation.
 
+Their method is quoted as follows:
+
+> Pb concentrations were mapped and spatial interpolation was conducted to generate a continuous smoothed map of soil Pb concentrations across the city.
+
+The interpolated soil lead figure (Figure 4) from Masri et al. (2020) is visually striking and effective in its impact. This walk-through is an attempt to answer the question, "What is the limit of data reproduction in interpolated models?", from the perspective of someone who supports the open science movement, while acknowledging the sensitivity needed for community engagement and community science.
+
+The nuances of reproduction vs. replication are significant when presenting high-resolution spatial data. Full data transparency aligned with the open science movement could pose dilemmas about resident anonymity.
+
 > "Despite efforts to coalesce around the use of these terms \[reproduction and replication\], lack of consensus persists across disciplines. The resulting confusion is an obstacle in moving forward to improve reproducibility and replicability" ([Barba et al., 2018](https://arxiv.org/abs/1802.03311 "Terminologies for reproducible research"); [NASM, 2019](https://www.ncbi.nlm.nih.gov/books/NBK547546/ "Reproducibility and Replicability in Science"))
 
 ## Load Packages
@@ -31,6 +39,7 @@ library(DT) #to make nice data tables
 library(ggplot2) 
 library(mapview) 
 library(maps) # for city names
+library(sf) # to convert data.frame to spatial objects
 
 ## Interactive viz
 library(plotly)
@@ -44,9 +53,7 @@ library(tigris)
 
 ### Tigris Census Tracts Data
 
-Experimenting with Tigris package. Tigris simplifies the process for R users of obtaining and using Census geographic datasets.
-
-[`states()`](https://rdrr.io/pkg/tigris/man/states.html) function can be run without arguments to download a boundary file of US states and state equivalents. Tigris typically defaults to the most recent year for which a complete set of Census shapefiles are available. I believe this one is 2022, as one of the return messages is "Retrieving data for the year 2022".
+Experimenting with [Tigris package](https://github.com/walkerke/tigris). Tigris simplifies the process for R users of obtaining and using Census geographic datasets.
 
 ```{r}
 #| include: FALSE
@@ -57,7 +64,11 @@ st <- states()
 ca_counties <- counties("CA", cb = TRUE)
 ```
 
-We are also gathering Orange County, CA tracts by using the `tracts()` function. We are also getting data to plot roads by using the `primary_secondary_roads()` function from the maps package. This code chunk is commented so that the huge progress bar doesn't get printed, but it does exist!
+The [`states()`](https://rdrr.io/pkg/tigris/man/states.html) function can be run without arguments to download a boundary file of US states and state equivalents. Tigris typically defaults to the most recent year for which a complete set of Census shapefiles are available. I believe this one is 2022, as one of the return messages is "Retrieving data for the year 2022".
+
+We are also gathering Orange County, CA tracts by using the `tracts()` function.
+
+We are also getting data to plot roads with the [maps package](https://www.rdocumentation.org/packages/maps/versions/3.4.2) by using the `primary_secondary_roads()` function from the maps package. This code chunk is commented so that the huge progress bar doesn't get printed, but it does exist!
 
 ```{r}
 # Getting all states data
@@ -89,7 +100,7 @@ CA_roads <- primary_secondary_roads("CA") |>
 
 ### City Names Data
 
-This is to get city names in California. This is performed in two steps,.
+This is to get city names in California, again with the [maps package](https://www.rdocumentation.org/packages/maps/versions/3.4.2). This is performed in two steps.
 
 ```{r}
 ## Data on 1,005 US cities
@@ -107,7 +118,21 @@ cities_data <- us.cities |>
 
 ### Masri et al. (2020) Data
 
-I am importing in two supplementary data tables from [Masri et al. (2020)](https://doi.org/10.1016/j.scitotenv.2020.140764 "Social and spatial distribution of soil lead concentrations in the City of Santa Ana, California"). I renamed the columns already for easier data processing. I did this in Excel because it is simply easier to do this in a WYSIWYG editor, even though it is fairly easy to change column names in R.
+I am importing in the Appendix from [Masri et al. (2020)](https://doi.org/10.1016/j.scitotenv.2020.140764 "Social and spatial distribution of soil lead concentrations in the City of Santa Ana, California") which is a Word document containing tables: <https://ars.els-cdn.com/content/image/1-s2.0-S0048969720342881-mmc1.docx>
+
+Here are the first 10 rows of Table SI.
+
+![](images/clipboard-3200176383.png)
+
+This is not tidy data, but that's okay. I renamed the columns:
+
+-   Census Tract to census_tract_number
+
+-   N to `n_number`
+
+-   Pb (ppm) to `pb_ppm_average` note that it is mg/kg
+
+I renamed the columns already for easier data processing. I did this in Excel because it is simply easier to do this in a WYSIWYG editor, even though it is fairly easy to change column names in R.
 
 1.  `table_SI.csv` is table 1. Store the raw data as `masri_table_SI_raw`. We are using this for the rest of this document!
 2.  `table_SII.csv` is table 2. Store the raw data as `masri_table_SII_raw`.
@@ -231,23 +256,24 @@ For each plot, a lot of this information seems redundant and makes for long code
 
 ## Pb average (ppm) concentrations with original Masri color scale
 
-First, I am going to make the color scheme for the target plot that I would like to replicate. The color scale from Masri et al. (2020) figure is described in this color scale (breaks, labels, names). 
+First, I am going to make the color scheme for the target plot that I would like to reproduce. The color scale from Masri et al. (2020) figure is described in this color scale (breaks, labels, names).
 
 ```{r}
 # To match the factor levels in the data that i made
 masri_pb_breaks <- c("1", "2", "3", "4", "5", "6", "7", "8", "9", "10")
 
 # For color fill of census tracts
-masri_pb_colors <- c("10" = "#DB0018",
-                     "9" = "#D55C23",
-                     "8" = "#F18133",
-                     "7" = "#F5AC46",
-                     "6" = "#F7E74C",
-                     "5" = "#E3ED6E",
-                     "4" = "#BFD389",
-                     "3" = "#9ABDA1",
+masri_pb_colors <- c("1" = "#4993CC",
                      "2" = "#73A7B5",
-                     "1" = "#4993CC")
+                     "3" = "#9ABDA1",
+                     "4" = "#BFD389",
+                     "5" = "#E3ED6E",
+                     "6" = "#F7E74C",
+                     "7" = "#F5AC46",
+                     "8" = "#F18133",
+                     "9" = "#D55C23",
+                     "10" = "#DB0018"
+                     )
 
 # The interpolated Pb levels from Masri et al. (2020)
 masri_pb_labels <- c("21.8-42.4",
@@ -311,7 +337,7 @@ gg_masri_pb_average_original_colors <-
         legend.text = element_text(size = rel(0.75)))
 ```
 
-Here, I have replicated the color scale from Masri et al. (2020).
+Here, I have reproduced the color scale from Masri et al. (2020).
 
 ```{r}
 #| warning: FALSE
@@ -324,7 +350,7 @@ gg_masri_pb_average_original_colors
 
 Compare this to the original figure. What the differences and similarities?
 
-[![Masri et al. (2020) Figure of Interpolated Soil lead concentrations](images/1-s2.0-S0048969720342881-ga1_lrg.jpg){fig-alt="Soil lead map" width="528"}](https://doi.org/10.1016/j.scitotenv.2020.140764)
+[![Masri et al. (2020). Fig. IV. Interpolated soil Pb concentrations based on 1528 samples collected in Santa Ana, CA.](images/1-s2.0-S0048969720342881-ga1_lrg.jpg){fig-alt="Soil lead map of Orange County showing high levels within Santa Ana and lower levels in Costa Mesa, Irvine, Tustin" width="528"}](https://doi.org/10.1016/j.scitotenv.2020.140764)
 
 ## Pb average (ppm) concentrations
 
@@ -388,7 +414,11 @@ gg_masri_pb_average
 #ggsave('figures/gg_masri_pb_average.png', dpi=400, units='in')
 ```
 
+[![Masri et al. (2020). Fig. IV. Interpolated soil Pb concentrations based on 1528 samples collected in Santa Ana, CA.](images/1-s2.0-S0048969720342881-ga1_lrg.jpg){fig-alt="Soil lead map of Orange County showing high levels within Santa Ana and lower levels in Costa Mesa, Irvine, Tustin" width="528"}](https://doi.org/10.1016/j.scitotenv.2020.140764)
+
 How does this differ from the original figure? In what ways is it the same? Food for thought...
+
+Note that Masri et al. (2020) uses the **80 ppm** California EPA recommendation to assess which areas are in excess and should be counted as high risk in a composite vulnerability index.
 
 ## Number of samples collected per census tract
 
@@ -514,7 +544,6 @@ gg_masri_number_samples_per_m_sq
 #ggsave('figures/gg_masri_number_samples_per_m_sq.png', dpi=400, units='in')
 ```
 
-
 # Example interactive plots
 
 Still in development! Here is an example of an interactive plot, which could be cool to layer with the Pb data.
@@ -529,13 +558,21 @@ mapview(OC_tracts)
 
 ------------------------------------------------------------------------
 
+# Resources and More Information
+
 This was ran in RStudio and documented on a Quarto (.qmd) file. Quarto enables you to weave together content and executable code into a finished document. To learn more about Quarto see <https://quarto.org>.
 
 Version information:
 
 > RStudio 2024.04.2+764 "Chocolate Cosmos" Release (e4392fc9ddc21961fd1d0efd47484b43f07a4177, 2024-06-05) for windows Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) RStudio/2024.04.2+764 Chrome/120.0.6099.291 Electron/28.3.1 Safari/537.36, Quarto 1.4.555
 
-Further Reading and Sources:
+Really helpful explanations, tutorials, walk-throughs, etc. that I used to write this:
+
+-   [Coordinate Reference Systems in Spatial Data with R](https://rspatial.org/spatial/6-crs.html)
+-   [Analyzing US Census Data Chapter 5: Census geographic data and applications in R](https://walker-data.com/census-r/census-geographic-data-and-applications-in-r.html)
+-   [Making a Better Map with Tigris](https://bartholomatt.net/posts/census_maps_part2/)
+
+Further Reading and References
 
 -   Barba, L. A. (2018). Terminologies for reproducible research. *arXiv preprint arXiv:1802.03311*. <https://arxiv.org/abs/1802.03311>
 -   Masri, S., LeBrón, A., Logue, M., Valencia, E., Ruiz, A., Reyes, A., Lawrence, J.M., & Wu, J. (2020). Social and spatial distribution of soil lead concentrations in the City of Santa Ana, California: Implications for health inequities. *Science of the Total Environment*,*743*, 140764. <https://doi.org/10.1016/j.scitotenv.2020.140764>
