@@ -1,6 +1,7 @@
 ---
 title: "Plotting Pb Data and Census Tracts in R"
 author: "Thi Truong"
+date: 14 Nov 2024
 format: html
 toc: TRUE
 editor: visual
@@ -122,15 +123,13 @@ I am importing in the Appendix from [Masri et al. (2020)](https://doi.org/10.101
 
 Here are the first 10 rows of Table SI.
 
-![](images/clipboard-3200176383.png)
+[![First 10 rows of Supplementary Data Table SI (Masri et al., 2020)](images/clipboard-3200176383.png){fig-alt="Table showing columns census tract, N, Pb (ppm), Cumulative Risk Index"}](https://ars.els-cdn.com/content/image/1-s2.0-S0048969720342881-mmc1.docx)
 
 This is not tidy data, but that's okay. I renamed the columns:
 
--   Census Tract to census_tract_number
-
+-   Census Tract to `census_tract_number`
 -   N to `n_number`
-
--   Pb (ppm) to `pb_ppm_average` note that it is mg/kg
+-   Pb (ppm) to `pb_ppm_average`
 
 I renamed the columns already for easier data processing. I did this in Excel because it is simply easier to do this in a WYSIWYG editor, even though it is fairly easy to change column names in R.
 
