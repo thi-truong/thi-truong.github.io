@@ -125,7 +125,7 @@ Here are the first 10 rows of Table SI.
 
 [![First 10 rows of Supplementary Data Table SI (Masri et al., 2020)](images/clipboard-3200176383.png){fig-alt="Table showing columns census tract, N, Pb (ppm), Cumulative Risk Index"}](https://ars.els-cdn.com/content/image/1-s2.0-S0048969720342881-mmc1.docx)
 
-This is pretty tidy data that I do not need to transform into proper variables/values/etc. However, I added a column to make a primary key (number for each observation) and I renamed some columns to be more descriptive. I did this in Excel because it is simply easier to do this in a WYSIWYG editor, even though it is fairly easy to change column names in R!
+This is pretty tidy data that I do not need to transform into proper variables/values/etc. However, I renamed some columns to be more descriptive. I did this in Excel because it is simply easier to do this in a WYSIWYG editor, even though it is fairly easy to change column names in R!
 
 -   Census Tract to `census_tract_number`
 -   N to `n_number`
@@ -154,7 +154,7 @@ print(masri_table_SI_raw)
 
 Now, the next code chunk is processing this raw data `masri_table_SI_raw` into a processed data tibble named `masri_census_lead`. The changes I am making are adding (mutating) additional columns:
 
-1.  Census tract ID, or `census_ID`. Note that the order is straight from the supplementary data and I am unsure of the logic of the original sorting.
+1.  Census tract ID, or `census_ID` to make a primary key (number for each observation), from 1 to 61. Note that the order is straight from the supplementary data and I am unsure of the logic of the original sorting. 
 2.  Adding a categorical level, from 1-10, called `pb_ppm_average_level`, which will match the color scheme of the original Masri et al. (2020) figure. E.g., 1 is the lowest level (values less than 42.4 ppm) and 10 is the highest (values above 229.6 ppm).
 3.  Census tract number `NAME` that matches the Tigris census tract column. This is stored as character instead of number to also match the Tigris data.
 
