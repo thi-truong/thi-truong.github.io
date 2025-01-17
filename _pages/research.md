@@ -5,9 +5,6 @@ permalink: /research/
 author_profile: true
 ---
 
-[Volatile behavior of He-C and trace element signature of Lō‘ihi deep rift lavas](https://thi-truong.github.io/loihi-helium/)
-
-[Trace element patterns and spatial variability of Pb isotopes (current/upcoming)](https://thi-truong.github.io/loihi-Pb/)
 
 [The mantle plume source of the Juan Fernandez Islands](https://thi-truong.github.io/juan-fernandez/)
 
