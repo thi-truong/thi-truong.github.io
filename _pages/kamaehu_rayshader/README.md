@@ -2,8 +2,9 @@ This is a tutorial to use R package rayshader to make a 3-dimensional bathymetri
 
 R-bathymetry-tutorial-kamaehu.qmd is a Quarto Markdown file with R code snippets which renders into the HTML file of the same name.
 
-# Folder Structure
+Folder: https://github.com/thi-truong/thi-truong.github.io/tree/master/_pages/kamaehu_rayshader
 
+# Folder Structure
 
 - data
 - outputs
